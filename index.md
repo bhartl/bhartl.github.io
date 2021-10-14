@@ -6,4 +6,4 @@ My experience helped me develop tailored software solutions in computational mat
 ## Projects
 
 ## Contact
-<a href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">@BeneHartl</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false" target="_blank">@BeneHartl</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

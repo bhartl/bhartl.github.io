@@ -5,38 +5,3 @@ My experience helped me develop tailored software solutions in computational mat
 Currently I'm working on further-developing [worldmodels](https://worldmodels.github.io/) and [attention agents](https://attentionagent.github.io/) for reinforcement learning problems.
 
 I am a compassionate learner and an AI and technology enthusiast.
-
-## Projects
-### Frameworks
-- *mindcraft*: a modular reinforcement learning framework for robust and interpretable autonomous navigation (world-models, attention agents, neuro-evolution)
-- *bio-feedback*: a framework to synchronously gather, process, and control bio-sensory data
-- <a class="" target='blank' href="https://github.com/bhartl/generative-models/tree/master/gempy">*gempy*</a>: numpy and numba implementation of the <a calss="" target='blank' href="https://de.wikipedia.org/wiki/Maximum-Entropie-Methode">maximum entropy method</a>
-- *cthru*: a software to minimize reflection in video data of an optical multi-polarization filter system
-- *atuin*: a Python-based modular framework for evolutionary optimization of nested data structures - developed during my Ph.D.
-
-### Applications
-- *Inkstrument*: an AI-based music controller
-- *Raspberry Pi brewery*
-
-### Coding Challenges
-- *Citrine Challenge* (2020)
-- *Cloudflight Coding Contest*: 7th place, Vienna, Austria (2017)
-
-## Coding Skills
-### Languages
-- Python (6 years)
-- C/C++ (4 years), Fortran (4 years), 
-- Java (4 years), C# (2 years), MySQL (2 years)
-
-### Machine Learning and Optimization: 
-(Un)supervised-, and reinforcement learning, generative models, neuro-evolution, with 
-Keras, PyTorch, SciPy, scikit-learn, NEAT
-
-Monte Carlo, parallel tempering and other statistical methods
-
-### High-Performance Computing
-MPI, OpenMP, Threading, GPGPU, slurm
-
-### IDE and Tools: 
-- PyCharm, Eclipse, Jupyter, git
-- Gimp, Inkscape, Tex

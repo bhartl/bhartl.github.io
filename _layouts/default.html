@@ -11,13 +11,13 @@
     {% include head-custom.html %}
 	  <style>
       		a.banner:link { 
-      			color: #ccc;
+      			color: #aaa;
       		}
       		a.banner:visited { 
       			color: #fff;
       		}
       		a.banner:hover { 
-      			color: #ccc;
+      			color: #aaa;
       		}
 		.selector.noshadow {
 			-webkit-box-shadow: none;
@@ -40,10 +40,10 @@
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
 	  <p>
-      	    <a class="banner" href="/index.html">Home</a>
-      	    <a class="banner" href="{{ site.github.education_url }}">Education</a>
-      	    <a class="banner" href="{{ site.github.project_url }}">Projects</a>
-      	    <a class="banner" href="{{ site.github.skills_url }}">Coding Skills</a>
+      	    <a class="banner" href="/index.html">Home</a>&nbsp;&nbsp;
+      	    <a class="banner" href="{{ site.github.education_url }}">Education</a>&nbsp;&nbsp;
+      	    <a class="banner" href="{{ site.github.project_url }}">Projects</a>&nbsp;&nbsp;
+      	    <a class="banner" href="{{ site.github.skills_url }}">Coding Skills</a>&nbsp;&nbsp;
 	  </p>
         </header>
     </div>
@@ -61,7 +61,8 @@
         {% if site.github.is_project_page %}
         <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p>
+        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
+        <p>Contact&nbsp;&nbsp;
 		<a id='ttt' class='tooltip'><img src="/img/email.svg" width="31px"><span class='tooltiptext'>Mail only works if scripts are allowed - sorry!</span></a>&nbsp;
 		<script type="text/javascript">
 		  document.getElementById('ttt').remove();
@@ -70,16 +71,15 @@
 		  var c = 'g';
 		  var d = 'mail';
 		  document.write(
-		    '<a class="selector noshadow" href="mailto:'+a+'.'+b+'@'+c+d+'.com"><img src="/img/email.png" width="31px"></a>&nbsp;'
+		    '<a class="selector noshadow" href="mailto:'+a+'.'+b+'@'+c+d+'.com"><img src="/img/email.png" width="31px"></a>'
 		  );
 		</script>
-        	<a class="selector noshadow" target='_blank' href="https://github.com/bhartl/"><img height="31px" src="/img/github.png" alt="Github"></a>&nbsp;
-		<a class="selector noshadow" target='_blank' href="https://twitter.com/benehartl"><img height="31px" src="/img/twitter.png" alt="Twitter"></a>&nbsp;
-		<a class="selector noshadow" target='_blank' href="https://www.linkedin.com/in/bhartl/"><img height="31px" src="/img/linkedin.png" alt="LinkedIn"></a>&nbsp;
-		<a class="selector noshadow" target='_blank' href="https://orcid.org/0000-0001-7787-4839"><img height="31px" src="/img/orcid.svg" alt="ORCID"></a>&nbsp;
-		<a class="selector noshadow" target='_blank' href="http://smt.tuwien.ac.at/people/hartl/"><img height="31px" src="/img/TU-Wien.png" alt="Soft Matter Theory @ TU Wien"></a>&nbsp;
+        	<a class="selector noshadow" target='_blank' href="https://github.com/bhartl/"><img height="31px" src="/img/github.png" alt="Github"></a>
+		<a class="selector noshadow" target='_blank' href="https://twitter.com/benehartl"><img height="31px" src="/img/twitter.png" alt="Twitter"></a>
+		<a class="selector noshadow" target='_blank' href="https://www.linkedin.com/in/bhartl/"><img height="31px" src="/img/linkedin.png" alt="LinkedIn"></a>
+		<a class="selector noshadow" target='_blank' href="https://orcid.org/0000-0001-7787-4839"><img height="31px" src="/img/orcid.svg" alt="ORCID"></a>
+		<a class="selector noshadow" target='_blank' href="http://smt.tuwien.ac.at/people/hartl/"><img height="31px" src="/img/TU-Wien.png" alt="Soft Matter Theory @ TU Wien"></a>
 	</p>
-        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
       </footer>
     </div>
   </body>

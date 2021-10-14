@@ -36,9 +36,9 @@ MPI, OpenMP, Threading, GPGPU, slurm
 PyCharm, Eclipse, Jupyter, git
 
 ## Contact
+<a class="" target='_blank' href="https://github.com/bhartl/"><img height="31px" src="/img/github.png" alt="Github"></a>
 <a class="" target='_blank' href="https://twitter.com/benehartl"><img height="31px" src="/img/twitter.png" alt="Twitter"></a>
-<a class="" target='_blank' href="https://github.com/bhartl/"><img height="31px" src="/img/github.png" alt="github"></a>
+<a class="" target='_blank' href="https://www.linkedin.com/in/bhartl/"><img height="31px" src="/img/linkedin.png" alt="LinkedIn"></a>
 <a class="" target='_blank' href="https://orcid.org/0000-0001-7787-4839"><img height="31px" src="/img/orcid.png" alt="ORCID"></a>
 <a class="" target='_blank' href="http://smt.tuwien.ac.at/people/hartl/"><img height="31px" src="/img/TU-Wien.png" alt="Soft Matter Theory @ TU Wien"></a>
-<a class="" target='_blank' href="https://www.linkedin.com/in/bhartl/"><img height="31px" src="/img/linkedin.png" alt="LinkedIn"></a>
 

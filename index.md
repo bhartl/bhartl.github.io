@@ -6,4 +6,4 @@ My experience helped me develop tailored software solutions in computational mat
 ## Projects
 
 ## Contact
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=hartl.bene)](https://twitter.com/benehartl)
+<a href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">@BeneHartl</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

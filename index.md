@@ -38,7 +38,8 @@ Monte Carlo, parallel tempering and other statistical methods
 MPI, OpenMP, Threading, GPGPU, slurm
 
 ### IDE and Tools: 
-PyCharm, Eclipse, Jupyter, git
+- PyCharm, Eclipse, Jupyter, git
+- Gimp, Inkscape, Tex
 
 ## Contact
 <a class="" target='_blank' href="https://github.com/bhartl/"><img height="31px" src="/img/github.png" alt="Github"></a>

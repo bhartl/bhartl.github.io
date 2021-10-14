@@ -7,5 +7,7 @@ github:
   repository_url: https://github.com/bhartl
   owner_url: https://github.com/bhartl/bhartl.github.io
   owner_name: B. Hartl
-  education_url: /edu.md
+  education_url: /edu
+  projects_url: /pro
+  skills_url: /lan
   

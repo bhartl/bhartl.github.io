@@ -39,11 +39,12 @@
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
-          {% if site.show_toplinks %}
-	    <p>
-      	        <a class="banner" href="{{ site.github.education_url }}">Education</a>
-	    </p>
-          {% endif %}
+	  <p>
+      	    <a class="banner" href="/index.html">Home</a>
+      	    <a class="banner" href="{{ site.github.education_url }}">Education</a>
+      	    <a class="banner" href="{{ site.github.project_url }}">Projects</a>
+      	    <a class="banner" href="{{ site.github.skills_url }}">Coding Skills</a>
+	  </p>
         </header>
     </div>
 

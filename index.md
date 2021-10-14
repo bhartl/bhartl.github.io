@@ -36,14 +36,6 @@ MPI, OpenMP, Threading, GPGPU
 PyCharm, Eclipse, Jupyter, git
 
 ## Contact
-<script type="text/javascript">
-  document.getElementById('ttt').remove();
-  var a = 'hartl.bene';
-  var b = 'gmail';
-  document.write(
-    '<a href="mailto:'+a+'@'+b+'.com"><img src="/img/mail.png" width="30px"></a>'
-  );
-</script>
 <a class="" target='_blank' href="https://twitter.com/benehartl"><img height="31px" src="/img/twitter.png" alt="Twitter"></a>
 <a class="" target='_blank' href="https://www.linkedin.com/in/bhartl/"><img height="31px" src="/img/linkedin.png" alt="LinkedIn"></a>
 <a class="" target='_blank' href="http://smt.tuwien.ac.at/people/hartl/"><img height="31px" src="/img/TU-Wien.png" alt="Soft Matter Theory @ TU Wien"></a>

@@ -1,6 +1,10 @@
 theme: jekyll-theme-slate
-title: Hartl.Bene Programming
+title: Ben Hartl Programming
 description: AI Consulting, Scientific Research and Prototyping
 github:
+  is_project_page: true
+  repository_url: https://github.com/bhartl
+  owner_url: https://github.com/bhartl/bhartl.github.io
+  owner_name: B. Hartl
   education_url: /edu.md
-
+  

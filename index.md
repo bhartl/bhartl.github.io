@@ -34,7 +34,7 @@ Keras, PyTorch, SciPy, scikit-learn, NEAT
 
 Monte Carlo, parallel tempering and other statistical methods
 
-### High-Performance Computing and Accelerators: 
+### High-Performance Computing
 MPI, OpenMP, Threading, GPGPU, slurm
 
 ### IDE and Tools: 

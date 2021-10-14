@@ -1,7 +1,10 @@
 ## Welcome and About
-Hi, my name is Bene Hartl and I am a software engineer, physicist and researcher with demonstrated experience in machine learning and non-linear optimization strategies, with a strong sense for clean, modular code.
+Hi, my name is Ben Hartl and I am a software engineer, physicist and researcher with demonstrated experience in machine learning and non-linear optimization strategies, with a strong sense for clean, modular code.
 
-My experience helped me develop tailored software solutions in computational materials science, decision-making strategies in cells, and autonomous navigation. I am a compassionate learner and an AI and technology enthusiast.
+My experience helped me develop tailored software solutions in computational materials science, decision-making strategies in cells, and autonomous navigation. 
+Currently I'm working on further-developing [worldmodels](https://worldmodels.github.io/) and [attention](https://attentionagent.github.io/) agents for reinforcement learning problems.
+
+I am a compassionate learner and an AI and technology enthusiast.
 
 ## Projects
 ### Frameworks

@@ -9,6 +9,22 @@
 
 {% seo %}
     {% include head-custom.html %}
+	  <style>
+      		a.banner:link { 
+      			color: #ccc;
+      		}
+      		a.banner:visited { 
+      			color: #fff;
+      		}
+      		a.banner:hover { 
+      			color: #ccc;
+      		}
+		.selector.noshadow {
+			-webkit-box-shadow: none;
+			-moz-box-shadow: none;
+			box-shadow: none;
+		}
+    	</style>
   </head>
 
   <body>
@@ -50,14 +66,14 @@
 		  var c = 'g';
 		  var d = 'mail';
 		  document.write(
-		    '<a href="mailto:'+a+'.'+b+'@'+c+d+'.com"><img src="/img/email.png" width="31px"></a>&nbsp;'
+		    '<a class="selector noshadow" href="mailto:'+a+'.'+b+'@'+c+d+'.com"><img src="/img/email.png" width="31px"></a>&nbsp;'
 		  );
 		</script>
-        	<a class="" target='_blank' href="https://github.com/bhartl/"><img height="31px" src="/img/github.png" alt="Github"></a>&nbsp;
-		<a class="" target='_blank' href="https://twitter.com/benehartl"><img height="31px" src="/img/twitter.png" alt="Twitter"></a>&nbsp;
-		<a class="" target='_blank' href="https://www.linkedin.com/in/bhartl/"><img height="31px" src="/img/linkedin.png" alt="LinkedIn"></a>&nbsp;
-		<a class="" target='_blank' href="https://orcid.org/0000-0001-7787-4839"><img height="31px" src="/img/orcid.svg" alt="ORCID"></a>&nbsp;
-		<a class="" target='_blank' href="http://smt.tuwien.ac.at/people/hartl/"><img height="31px" src="/img/TU-Wien.png" alt="Soft Matter Theory @ TU Wien"></a>&nbsp;
+        	<a class="selector noshadow" target='_blank' href="https://github.com/bhartl/"><img height="31px" src="/img/github.png" alt="Github"></a>&nbsp;
+		<a class="selector noshadow" target='_blank' href="https://twitter.com/benehartl"><img height="31px" src="/img/twitter.png" alt="Twitter"></a>&nbsp;
+		<a class="selector noshadow" target='_blank' href="https://www.linkedin.com/in/bhartl/"><img height="31px" src="/img/linkedin.png" alt="LinkedIn"></a>&nbsp;
+		<a class="selector noshadow" target='_blank' href="https://orcid.org/0000-0001-7787-4839"><img height="31px" src="/img/orcid.svg" alt="ORCID"></a>&nbsp;
+		<a class="selector noshadow" target='_blank' href="http://smt.tuwien.ac.at/people/hartl/"><img height="31px" src="/img/TU-Wien.png" alt="Soft Matter Theory @ TU Wien"></a>&nbsp;
 	</p>
         {% if site.github.is_project_page %}
         <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>

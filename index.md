@@ -30,7 +30,9 @@ I am a compassionate learner and an AI and technology enthusiast.
 
 ### Machine Learning and Optimization: 
 (Un)supervised-, and reinforcement learning, generative models, neuro-evolution, with 
-Keras, PyTorch, SciPy, scikit-learn, NEAT, Monte Carlo and Parallel Tempering
+Keras, PyTorch, SciPy, scikit-learn, NEAT
+
+Monte Carlo, parallel tempering and other statistical methods
 
 ### High-Performance Computing and Accelerators: 
 MPI, OpenMP, Threading, GPGPU, slurm

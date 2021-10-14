@@ -1,6 +1,7 @@
 theme: jekyll-theme-slate
 title: Ben Hartl Programming
 description: AI Consulting, Scientific Research and Prototyping
+show_toplinks: true
 github:
   is_project_page: true
   repository_url: https://github.com/bhartl

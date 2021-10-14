@@ -41,11 +41,8 @@
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
       <footer class="inner">
-        {% if site.github.is_project_page %}
-        <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p>Contact:</p>
-	<p>
+        <p>Contact:\t
+		<a id='ttt' class='tooltip'><img src="/img/mail.svg" width="31px"><span class='tooltiptext'>Mail only works if scripts are allowed - sorry!</span></a>
 		<script type="text/javascript">
 		  document.getElementById('ttt').remove();
 		  var a = 'hartl';
@@ -62,6 +59,9 @@
 		<a class="" target='_blank' href="https://orcid.org/0000-0001-7787-4839"><img height="31px" src="/img/orcid.svg" alt="ORCID"></a>
 		<a class="" target='_blank' href="http://smt.tuwien.ac.at/people/hartl/"><img height="31px" src="/img/TU-Wien.png" alt="Soft Matter Theory @ TU Wien"></a>
 	</p>
+        {% if site.github.is_project_page %}
+        <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
         <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
       </footer>
     </div>

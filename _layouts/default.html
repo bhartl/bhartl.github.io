@@ -23,7 +23,7 @@
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
-          {% if site.show_sidebar %}
+          {% if site.show_toplinks %}
             <section id="downloads">
               <a class="" href="{{ site.github.education_url }}">Education</a>
             </section>
@@ -44,14 +44,25 @@
         {% if site.github.is_project_page %}
         <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
-        <p>Contact:
-        	<a class="" target='_blank' href="https://github.com/bhartl/"><img height="31px" src="/img/github.png" alt="Github"></a>
+        <p>Contact:</p>
+	<p>
+		<script type="text/javascript">
+		  document.getElementById('ttt').remove();
+		  var a = 'hartl';
+		  var b = 'bene';
+		  var c = 'g';
+		  var d = 'mail';
+		  document.write(
+		    '<a href="mailto:'+a+'.'+b+'@'+c+d+'.com"><img src="/img/mail.png" width="31px"></a>'
+		  );
+		</script>
+        	<!-- <a class="" target='_blank' href="https://github.com/bhartl/"><img height="31px" src="/img/github.png" alt="Github"></a> -->
 		<a class="" target='_blank' href="https://twitter.com/benehartl"><img height="31px" src="/img/twitter.png" alt="Twitter"></a>
 		<a class="" target='_blank' href="https://www.linkedin.com/in/bhartl/"><img height="31px" src="/img/linkedin.png" alt="LinkedIn"></a>
-		<a class="" target='_blank' href="https://orcid.org/0000-0001-7787-4839"><img height="31px" src="/img/orcid.png" alt="ORCID"></a>
+		<a class="" target='_blank' href="https://orcid.org/0000-0001-7787-4839"><img height="31px" src="/img/orcid.svg" alt="ORCID"></a>
 		<a class="" target='_blank' href="http://smt.tuwien.ac.at/people/hartl/"><img height="31px" src="/img/TU-Wien.png" alt="Soft Matter Theory @ TU Wien"></a>
 	</p>
+        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
       </footer>
     </div>
   </body>

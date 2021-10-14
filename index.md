@@ -1,5 +1,5 @@
 ## Welcome and About
-Hi, I am a software engineer, physicist and researcher with demonstrated experience in machine learning and non-linear optimization strategies, with a strong sense for clean, modular code.
+Hi, my name is Bene Hartl and I am a software engineer, physicist and researcher with demonstrated experience in machine learning and non-linear optimization strategies, with a strong sense for clean, modular code.
 
 My experience helped me develop tailored software solutions in computational materials science, decision-making strategies in cells, and autonomous navigation. I am a compassionate learner and an AI and technology enthusiast.
 
@@ -27,15 +27,18 @@ My experience helped me develop tailored software solutions in computational mat
 
 ### Machine Learning and Optimization: 
 (Un)supervised-, and reinforcement learning, generative models, neuro-evolution, with 
-Keras, PyTorch, SciPy, scikit-learn, NEAT
+Keras, PyTorch, SciPy, scikit-learn, NEAT, Monte Carlo and Parallel Tempering
 
 ### High-Performance Computing and Accelerators: 
-MPI, OpenMP, Threading, GPGPU
+MPI, OpenMP, Threading, GPGPU, slurm
 
 ### IDE and Tools: 
 PyCharm, Eclipse, Jupyter, git
 
 ## Contact
 <a class="" target='_blank' href="https://twitter.com/benehartl"><img height="31px" src="/img/twitter.png" alt="Twitter"></a>
-<a class="" target='_blank' href="https://www.linkedin.com/in/bhartl/"><img height="31px" src="/img/linkedin.png" alt="LinkedIn"></a>
+<a class="" target='_blank' href="https://github.com/bhartl/"><img height="31px" src="/img/github.png" alt="github"></a>
+<a class="" target='_blank' href="https://orcid.org/0000-0001-7787-4839"><img height="31px" src="/img/orcid.png" alt="ORCID"></a>
 <a class="" target='_blank' href="http://smt.tuwien.ac.at/people/hartl/"><img height="31px" src="/img/TU-Wien.png" alt="Soft Matter Theory @ TU Wien"></a>
+<a class="" target='_blank' href="https://www.linkedin.com/in/bhartl/"><img height="31px" src="/img/linkedin.png" alt="LinkedIn"></a>
+

@@ -1,4 +1,4 @@
-## Hey there
+## About
 My name is Ben Hartl and I am a software engineer, physicist and researcher with demonstrated experience in machine learning and non-linear optimization strategies, with a strong sense for clean, modular code.
 
 My experience helped me develop tailored software solutions in computational materials science, 

@@ -7,6 +7,7 @@ Graduated as Summa Cum Laude
 
 ### MSc in Physics - TU Wien, Austria (2013 - 2016)
 Thesis: <a class="" target='blank' href="https://repositum.tuwien.at/handle/20.500.12708/6605">*Optimal Control of Collective Dynamics Cavity-QED with an Inhomogeneously Broadened Spin Ensemble*</a>
+
 In collaboration with the Imperial College London
 
 Graduated with distinction

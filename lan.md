@@ -15,5 +15,5 @@ MPI, OpenMP, Threading, GPGPU, slurm
 
 ### IDE and Tools: 
 - PyCharm, Eclipse, Jupyter, git
-- Gimp, Inkscape, Tex
+- Tex, Gimp, Inkscape, Blender
 

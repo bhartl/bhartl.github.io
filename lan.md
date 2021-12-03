@@ -5,14 +5,14 @@
 - Java (3 years), C# (2 years), MySQL (2 years)
 
 ### Machine Learning, AI and Data-Analysis: 
-(Un)supervised- and reinforcement learning, generative models.
+(Un)supervised- and reinforcement learning, generative models, evolutionary optimization.
 
 Frameworks and libraries: 
 [Keras](https://keras.io/), 
 [Pytorch](https://pytorch.org/), 
 [OpenAI Gym](https://gym.openai.com/),
 [RLlib](https://docs.ray.io/en/latest/rllib.html),
-[estools](https://github.com/estools), 
+[estools](https://github.com/hardmaru/estool), 
 [NEAT](https://neat-python.readthedocs.io/en/latest/),
 [scikit-learn](https://scikit-learn.org/),
 [Pandas](https://pandas.pydata.org/).

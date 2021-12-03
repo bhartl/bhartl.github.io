@@ -64,7 +64,7 @@ Documentation: [Docstrings](https://www.python.org/dev/peps/pep-0257/), [Markdow
 Testing: [Unittests](https://docs.python.org/3/library/unittest.html)
 
 ### IDE and Tools: 
-- PyCharm, Eclipse, Jupyter, git
+- PyCharm, Eclipse, Vim, Jupyter, git
 - LaTex, Gimp, Inkscape, Blender
 
 ### Operating Systems

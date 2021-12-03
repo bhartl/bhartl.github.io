@@ -44,7 +44,7 @@ Libraries and tools:
 ### Interfacing:
 Boost the performance of your Python application by compiling your highly-performant code as Python modules.
 
-Libraries and Tools:
+Libraries and tools:
 [F2PY](https://numpy.org/doc/stable/f2py/),
 [Boost-Python](https://www.boost.org/doc/libs/1_63_0/libs/python/doc/html/index.html),
 [Lab-Streaming-Layer](https://labstreaminglayer.readthedocs.io/info/intro.html).

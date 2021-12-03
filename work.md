@@ -6,7 +6,7 @@ November 2020 to Present
 ### Projects
 - Reinforcement learning for autonomous navigation, in collaboration with [OSCAR Navigation](https://www.oscar-navigation.com/)
 - Bio-feedback software framework to synchronously gather, analyze, and control bio-sensory data
-- Optimal reflection cancellation: polarization filter system and software to minimize surface-reflection in video data, in collaboration with [OSCAR Navigation](https://www.oscar-navigation.com/)
+- Optimal reflection cancellation: polarization filter system and software to minimize surface-reflection in video data
 
 ### Technologies, in a Nutshell
 - Neural Networks (PyTorch, Keras, NEAT)

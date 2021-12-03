@@ -30,7 +30,7 @@ Libraries and tools (additional to tensorflow and PyTorch):
 [estools](https://github.com/hardmaru/estool).
 
 ### High-Performance Computing and Accelerators
-Six(+) years of experience working with supercomputers (versions 2, 3 and 4 of the [Vienna Scientific Cluster](https://www.vsc.ac.at/home/); [JURECA](https://www.fz-juelich.de/ias/jsc/EN/Expertise/Supercomputers/JURECA/JURECA_node.html)) using [slurm](https://slurm.schedmd.com/documentation.html).
+Six(+) years of experience working with supercomputers ([Vienna Scientific Cluster](https://www.vsc.ac.at/home/); [JURECA](https://www.fz-juelich.de/ias/jsc/EN/Expertise/Supercomputers/JURECA/JURECA_node.html)) using [slurm](https://slurm.schedmd.com/documentation.html).
 
 Nvidia-GPU usage via tensorflow, PyTorch or Numba.
 

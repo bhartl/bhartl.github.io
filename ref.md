@@ -13,5 +13,5 @@
 - [*DINO and PAWS - Advancing the state of the art in computer vision with self-supervised Transformers and 10x more efficient training*](https://ai.facebook.com/blog/dino-paws-computer-vision-with-self-supervised-transformers-and-10x-more-efficient-training/)
 
 ## Channels and Lectures
-- [*Yannic Kilcher's Channel*](https://www.youtube.com/c/YannicKilcher)
+- [*Yannic Kilcher's Channel*](https://www.youtube.com/c/YannicKilcher) - awesome communication of ML literature
 - [*Machine Learning for Physicists*](https://machine-learning-for-physicists.org/) by *Florian Marquardt*

@@ -64,3 +64,6 @@ Libraries and Tools:
 ### IDE and Tools: 
 - PyCharm, Eclipse, Jupyter, git
 - LaTex, Gimp, Inkscape, Blender
+
+### Operating Systems
+Linux and Windows

@@ -9,7 +9,7 @@
 
 ### Applications
 - *Inkstrument*: an AI-based music controller (WIP)
-- *Raspberry Pi brewery*
+- *Raspberry Pi brewery* (putting [*CraftBeerPi*](http://web.craftbeerpi.com/) by *Manuel Fritsch* to use)
 
 ### Coding Challenges
 - <a class="" target='blank' href="https://github.com/bhartl/citrine_challenge">*Citrine Challenge* (2020)</a>

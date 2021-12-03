@@ -1,5 +1,5 @@
 # References
-## Some Good Reads:
+## Some good Reads:
 - [*Machine Learning – kurz & gut*](https://oreilly.de/produkt/machine-learning-kurz-gut-2/) by *Chi Nhan Nguyen* and *Oliver Zeigermann*
 - [*An Introduction to Statistical Learning*](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf) by *Gareth James*, *Daniela Witten*, *Trevor Hastie* and *Robert Tibshirani*
 - [*The Elements of Statistical Learning*](https://hastie.su.domains/Papers/ESLII.pdf) by *Trevor Hastie*, *Robert Tibshirani* and *Jerome Friedman*
@@ -9,7 +9,7 @@
 - [*A high-bias, low-variance introduction to Machine Learning for physicists*](https://www.sciencedirect.com/science/article/pii/S0370157319300766?via%3Dihub#!) by *P. Mehta* et al.
 
 ## Blogs
-- [*David Ha's Blog*](https://blog.otoro.net/)
+- [*David Ha's Blog*](https://blog.otoro.net/) -  great stuff about evolutionary strategies in AI
 - [*DINO and PAWS - Advancing the state of the art in computer vision with self-supervised Transformers and 10x more efficient training*](https://ai.facebook.com/blog/dino-paws-computer-vision-with-self-supervised-transformers-and-10x-more-efficient-training/)
 
 ## Channels and Lectures

@@ -10,11 +10,12 @@
 Frameworks and libraries: 
 [Keras](https://keras.io/), 
 [Pytorch](https://pytorch.org/), 
-[OpenAi Gym](https://gym.openai.com/),
+[OpenAI Gym](https://gym.openai.com/),
+[RLLib](https://docs.ray.io/en/latest/rllib.html),
 [estools](https://github.com/estools), 
 [NEAT](https://neat-python.readthedocs.io/en/latest/),
 [scikit-learn](https://scikit-learn.org/),
-[Pandas](https://pandas.pydata.org/)
+[Pandas](https://pandas.pydata.org/).
 
 ### Numerics & Optimization:
 Non-linear optimization and statistical tools, such as (replica exchange) Monte Carlo.
@@ -38,8 +39,7 @@ Libraries and tools:
 [OpenMP](https://www.vsc.ac.at/home/),
 [Threading](https://docs.python.org/3/library/threading.html),
 [multiprocessing](https://docs.python.org/3/library/multiprocessing.html),
-[Numba](https://numba.pydata.org/),
-[RLLib](https://docs.ray.io/en/latest/rllib.html).
+[Numba](https://numba.pydata.org/).
 
 ### Interfacing:
 Especially during my Ph.D., I could profit from legacy code provided by my host-group, or the science community (mostly written in Fortran or C++).

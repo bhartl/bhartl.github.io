@@ -5,28 +5,26 @@
 - Java (3 years), C# (2 years), MySQL (2 years)
 
 ### Machine Learning, AI and Data-Analysis: 
-(Un)supervised- and reinforcement learning, generative models, evolutionary optimization.
+(Un)supervised- and reinforcement learning, generative models.
 
 Frameworks and libraries: 
 [Keras](https://keras.io/), 
 [Pytorch](https://pytorch.org/), 
 [OpenAI Gym](https://gym.openai.com/),
 [RLlib](https://docs.ray.io/en/latest/rllib.html),
-[estools](https://github.com/hardmaru/estool), 
 [NEAT](https://neat-python.readthedocs.io/en/latest/),
 [scikit-learn](https://scikit-learn.org/),
 [Pandas](https://pandas.pydata.org/).
 
 ### Numerics & Optimization:
-Non-linear optimization and statistical tools, such as (replica exchange) Monte Carlo.
+Non-linear optimization and statistical tools, such as ([replica exchange](https://en.wikipedia.org/wiki/Parallel_tempering)) [Monte Carlo](https://de.wikipedia.org/wiki/Monte-Carlo-Simulation) or [evolutionary strategies](https://en.wikipedia.org/wiki/Evolution_strategy).
 
 Libraries and tools:
 [NumPy](https://numpy.org/),
 [SciPy](https://scipy.org/),
 [OpenCV](https://opencv.org/),
 [Scipy-optimize](https://docs.scipy.org/doc/scipy/reference/optimize.html),
-[Monte-Carlo optimization](https://de.wikipedia.org/wiki/Monte-Carlo-Simulation), 
-[Replica exchange Monte Carlo](https://en.wikipedia.org/wiki/Parallel_tempering)
+[estools](https://github.com/hardmaru/estool).
 
 
 ### High-Performance Computing and Accelerators

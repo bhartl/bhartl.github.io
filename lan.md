@@ -42,9 +42,7 @@ Libraries and tools:
 [Numba](https://numba.pydata.org/).
 
 ### Interfacing:
-Especially during my Ph.D., I could profit from legacy code provided by my host-group, or the science community (mostly written in Fortran or C++).
-Python is a great language for maintaining projects, but being an interpreted language, it is considerably less performant than compiled code (if not used appropriately).
-By compiling highly-performant (legacy) code as Python modules, we can have the best of both worlds: performant code which is easy to maintain.
+Boost the performance of your Python application by compiling your highly-performant code as Python modules.
 
 Libraries and Tools:
 [F2PY](https://numpy.org/doc/stable/f2py/),

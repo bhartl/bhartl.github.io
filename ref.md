@@ -1,5 +1,5 @@
 # References
-## Some good Reads:
+## Some good Reads
 - [*Machine Learning – kurz & gut*](https://oreilly.de/produkt/machine-learning-kurz-gut-2/) by *Chi Nhan Nguyen* and *Oliver Zeigermann*
 - [*An Introduction to Statistical Learning*](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf) by *Gareth James*, *Daniela Witten*, *Trevor Hastie* and *Robert Tibshirani*
 - [*The Elements of Statistical Learning*](https://hastie.su.domains/Papers/ESLII.pdf) by *Trevor Hastie*, *Robert Tibshirani* and *Jerome Friedman*

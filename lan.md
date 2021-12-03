@@ -50,14 +50,18 @@ Libraries and tools:
 [Lab-Streaming-Layer](https://labstreaminglayer.readthedocs.io/info/intro.html).
 
 ### IO:
-- Monitoring Keras or PyTorch models: [TensorBoard](https://www.tensorflow.org/tensorboard)
-- Framework config-files: [yaml](https://yaml.org/), [json](https://www.json.org/json-en.html)
-- Fast IO and processing of heterogeneous data: [hdf5](https://www.hdfgroup.org/solutions/hdf5/)
+Monitoring Keras or PyTorch models: [TensorBoard](https://www.tensorflow.org/tensorboard)
+
+Framework config-files: [yaml](https://yaml.org/), [json](https://www.json.org/json-en.html)
+
+Fast IO and processing of heterogeneous data: [hdf5](https://www.hdfgroup.org/solutions/hdf5/)
 
 ### Code-Maintenance:
-- Containerization: [Docker](https://www.docker.com/), [venv](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
-- Documentation: [Docstrings](https://www.python.org/dev/peps/pep-0257/), [Markdown](https://daringfireball.net/projects/markdown/)
-- Testing: [Unittests](https://docs.python.org/3/library/unittest.html)
+Containerization: [Docker](https://www.docker.com/), [venv](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
+
+Documentation: [Docstrings](https://www.python.org/dev/peps/pep-0257/), [Markdown](https://daringfireball.net/projects/markdown/)
+
+Testing: [Unittests](https://docs.python.org/3/library/unittest.html)
 
 ### IDE and Tools: 
 - PyCharm, Eclipse, Jupyter, git

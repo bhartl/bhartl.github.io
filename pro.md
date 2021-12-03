@@ -7,11 +7,10 @@
 - *cthru*: a software to minimize reflection in video data of an optical multi-polarization filter system
 - *atuin*: a Python-based framework for evolutionary optimization of nested data structures - developed during my Ph.D.
 
-### Applications
-- *Inkstrument*: an AI-based music controller (WIP)
-- *Raspberry Pi brewery* (putting [*CraftBeerPi*](http://web.craftbeerpi.com/) by *Manuel Fritsch* to use)
-
 ### Coding Challenges
 - <a class="" target='blank' href="https://github.com/bhartl/citrine_challenge">*Citrine Challenge* (2020)</a>
 - *Cloudflight Coding Contest*: 7th place, Vienna, Austria (2017)
 
+### Applications and Hobby
+- *Inkstrument*: an AI-based music controller (WIP)
+- *Raspberry Pi brewery* (putting [*CraftBeerPi*](http://web.craftbeerpi.com/) by *Manuel Fritsch* to use)

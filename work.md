@@ -23,24 +23,19 @@ Advanced all projects from the conceptual stage to POC implementations (backend 
 ## Postdoctoral Researcher - TU Wien, Austria
 November 2020 to Present
 
-### Research Topics
 - [Reinforcement learning of cellular decision-making](https://www.pnas.org/content/118/19/e2019683118)
 - Confinement-driven self-assembly (three publications in progress)
 
 ## Researcher (Pre-doc) - TU Wien, Austria
 October 2016 to November 2020
 
-### Research topic: 
 - [Confinement-driven self-assembly of charged particles](https://repositum.tuwien.at/handle/20.500.12708/16374)
-
-### Details Worth Mentioning
 - Independent funding via a [DOC fellowship of the Austrian Academy of Sciences](https://stipendien.oeaw.ac.at/stipendien/doc) (2017 to 2020)
 - Graduated as *Summa Cum Laude*
 
 ## FWF Project Assistant - TU Wien, Austria
 July 2016 to August 2016
 
-### Research topic: 
 - [Optimal control of collective dynamics in cavity-quantum-electrodynamics](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.96.043837)
 
 ## Junior Software Developer - BEKO, Linz, Austria

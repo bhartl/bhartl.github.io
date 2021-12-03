@@ -3,6 +3,7 @@
 - [*Machine Learning – kurz & gut*](https://oreilly.de/produkt/machine-learning-kurz-gut-2/) by *Chi Nhan Nguyen* and *Oliver Zeigermann*
 - [*An Introduction to Statistical Learning*](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf) by *Gareth James*, *Daniela Witten*, *Trevor Hastie* and *Robert Tibshirani*
 - [*The Elements of Statistical Learning*](https://hastie.su.domains/Papers/ESLII.pdf) by *Trevor Hastie*, *Robert Tibshirani* and *Jerome Friedman*
+- [*Neural networks and deep learning*](http://neuralnetworksanddeeplearning.com/) by *Michael Nielsen*
 - [*Generative Deep Learning*](https://www.oreilly.com/library/view/generative-deep-learning/9781492041931/) by *David Foster*
 - [*Reinforcement Learning: An Introduction*](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) by *Richard S. Sutton* and *Andrew G. Barto*
 - [*A high-bias, low-variance introduction to Machine Learning for physicists*](https://www.sciencedirect.com/science/article/pii/S0370157319300766?via%3Dihub#!) by *P. Mehta* et al.

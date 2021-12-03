@@ -16,16 +16,18 @@ Frameworks and libraries:
 [scikit-learn](https://scikit-learn.org/),
 [Pandas](https://pandas.pydata.org/).
 
+(Statistical) data visualization:
+[Matplotlib](https://matplotlib.org/),
+[Seaborn](https://seaborn.pydata.org/).
+
 ### Numerics & Optimization:
 Non-linear optimization and statistical tools, such as ([replica exchange](https://en.wikipedia.org/wiki/Parallel_tempering)) [Monte Carlo](https://de.wikipedia.org/wiki/Monte-Carlo-Simulation) or [evolutionary strategies](https://en.wikipedia.org/wiki/Evolution_strategy).
 
-Libraries and tools:
+Libraries and tools (additional to tensorflow and PyTorch):
 [NumPy](https://numpy.org/),
-[SciPy](https://scipy.org/),
+[SciPy](https://scipy.org/)(-[optimize](https://docs.scipy.org/doc/scipy/reference/optimize.html)),
 [OpenCV](https://opencv.org/),
-[Scipy-optimize](https://docs.scipy.org/doc/scipy/reference/optimize.html),
 [estools](https://github.com/hardmaru/estool).
-
 
 ### High-Performance Computing and Accelerators
 Six(+) years of experience working with supercomputers (versions 2, 3 and 4 of the [Vienna Scientific Cluster](https://www.vsc.ac.at/home/); [JURECA](https://www.fz-juelich.de/ias/jsc/EN/Expertise/Supercomputers/JURECA/JURECA_node.html)) using [slurm](https://slurm.schedmd.com/documentation.html).

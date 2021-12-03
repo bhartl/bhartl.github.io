@@ -37,7 +37,7 @@ Nvidia-GPU usage via tensorflow, PyTorch or Numba.
 Libraries and tools:
 [MPI](https://www.open-mpi.org/),
 [OpenMP](https://www.openmp.org/),
-[Threading](https://docs.python.org/3/library/threading.html),
+[threading](https://docs.python.org/3/library/threading.html),
 [multiprocessing](https://docs.python.org/3/library/multiprocessing.html),
 [Numba](https://numba.pydata.org/).
 

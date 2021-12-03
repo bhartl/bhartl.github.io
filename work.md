@@ -9,10 +9,11 @@ November 2020 to Present
 - Optimal reflection cancellation: polarization filter system and software to minimize surface-reflection in video data
 
 ### Technologies, in a Nutshell
-- Neural Networks (PyTorch, Keras, NEAT)
-- Reinforcement Learning (OpenAI Gym, Backpropagation, Neuro-Evolution)
-- Generative Models (Recurrent Models, Variational Auto Encoders, GANs, Transformers)
-- Data-Analysis (scikit-learn, Pandas)
+- Programming languages: mostly Python, some Java, C++ and C#
+- Neural networks (PyTorch, Keras, NEAT)
+- Reinforcement learning (OpenAI Gym, Backpropagation, Neuro-Evolution)
+- Generative models (Recurrent Models, Variational Auto Encoders, GANs, Transformers)
+- Data-analysis (scikit-learn, Pandas)
 - Numerics (NumPy, SciPy, Numba, OpenCV)
 - Accelerators (MPI, multiprocessing, GPGPU)
 - IO (yaml, markdown, hdf5, TensorBoard)

@@ -11,7 +11,7 @@ November 2020 to Present
 ### Technologies, in a Nutshell
 - Neural Networks (PyTorch, Keras, NEAT)
 - Reinforcement Learning (OpenAI Gym, Backpropagation, Neuro-Evolution)
-- Generative Models (Variational Auto Encoders, Transformers)
+- Generative Models (Recurrent Models, Variational Auto Encoders, GANs, Transformers)
 - Data-Analysis (scikit-learn, Pandas)
 - Numerics (NumPy, SciPy, Numba, OpenCV)
 - Accelerators (MPI, multiprocessing, GPGPU)

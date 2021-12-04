@@ -10,8 +10,6 @@ November 2020 to Present
 
 Advanced all projects from the conceptual stage to POC implementations (backend and data-science).
 
-Technologies: Neural networks (generative models, reinforcement learning), data-analysis, interfacing (thrid-party hardware).
-
 ### Postdoctoral Researcher - TU Wien, Austria
 November 2020 to Present
 

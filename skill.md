@@ -21,7 +21,7 @@ Data visualization:
 [Seaborn](https://seaborn.pydata.org/).
 
 ### Numerics & Optimization:
-Non-linear optimization and statistical tools, such as ([replica exchange](https://en.wikipedia.org/wiki/Parallel_tempering)) [Monte Carlo](https://de.wikipedia.org/wiki/Monte-Carlo-Simulation) or [evolutionary strategies](https://en.wikipedia.org/wiki/Evolution_strategy).
+Non-linear optimization and statistical and heuristic methods, such as ([replica exchange](https://en.wikipedia.org/wiki/Parallel_tempering)) [Monte Carlo](https://de.wikipedia.org/wiki/Monte-Carlo-Simulation) or [evolutionary strategies](https://en.wikipedia.org/wiki/Evolution_strategy).
 
 Libraries and tools:
 [NumPy](https://numpy.org/),

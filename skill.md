@@ -1,8 +1,8 @@
 ## Coding Skills
 ### Languages
 - Python (6 years)
-- C/C++ (4 years), Fortran (4 years), 
-- Java (3 years), C# (2 years), MySQL (2 years)
+- C, C++, Fortran, Java (4 years), 
+- C#, MySQL (2 years)
 
 ### Machine Learning, AI and Data-Analysis: 
 (Un)supervised- and reinforcement learning, generative models.
@@ -16,21 +16,21 @@ Frameworks and libraries:
 [scikit-learn](https://scikit-learn.org/),
 [Pandas](https://pandas.pydata.org/).
 
-(Statistical) data visualization:
+Data visualization:
 [Matplotlib](https://matplotlib.org/),
 [Seaborn](https://seaborn.pydata.org/).
 
 ### Numerics & Optimization:
 Non-linear optimization and statistical tools, such as ([replica exchange](https://en.wikipedia.org/wiki/Parallel_tempering)) [Monte Carlo](https://de.wikipedia.org/wiki/Monte-Carlo-Simulation) or [evolutionary strategies](https://en.wikipedia.org/wiki/Evolution_strategy).
 
-Libraries and tools (additional to tensorflow and PyTorch):
+Libraries and tools:
 [NumPy](https://numpy.org/),
 [SciPy](https://scipy.org/)(-[optimize](https://docs.scipy.org/doc/scipy/reference/optimize.html)),
 [OpenCV](https://opencv.org/),
 [estools](https://github.com/hardmaru/estool).
 
 ### High-Performance Computing and Accelerators
-Six(+) years of experience working with supercomputers ([Vienna Scientific Cluster](https://www.vsc.ac.at/home/), [JURECA](https://www.fz-juelich.de/ias/jsc/EN/Expertise/Supercomputers/JURECA/JURECA_node.html)) using [slurm](https://slurm.schedmd.com/documentation.html).
+6+ years of experience working with supercomputers ([Vienna Scientific Cluster](https://www.vsc.ac.at/home/), [JURECA](https://www.fz-juelich.de/ias/jsc/EN/Expertise/Supercomputers/JURECA/JURECA_node.html)) using [slurm](https://slurm.schedmd.com/documentation.html).
 
 Nvidia-GPU usage via tensorflow, PyTorch or Numba.
 

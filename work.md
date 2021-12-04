@@ -4,22 +4,13 @@
 November 2020 to Present
 
 #### Projects
-- Reinforcement learning for autonomous navigation
+- Reinforcement learning framework for autonomous navigation (computer-vision, neural networks)
 - Bio-feedback software framework to synchronously gather, analyze, and control bio-sensory data
-- Optimal reflection cancellation: polarization filter system to minimize surface-reflection in video data
-
-#### Technologies, in a Nutshell
-- Programming languages: mostly Python, some Java, C++ and C#
-- Neural networks (PyTorch, Keras, NEAT)
-- Reinforcement learning (OpenAI Gym, Backpropagation, Neuro-Evolution)
-- Generative models (Recurrent Models, Variational Auto Encoders, GANs, Transformers)
-- Data-analysis (scikit-learn, Pandas)
-- Numerics (NumPy, SciPy, Numba, OpenCV)
-- Accelerators (MPI, multiprocessing, GPGPU)
-- IO (yaml, markdown, hdf5, TensorBoard)
-- Maintenance (docstring, unittest, venvs)
+- Software for optimal reflection-cancellation with polarization filters
 
 Advanced all projects from the conceptual stage to POC implementations (backend and data-science).
+
+Technologies: Neural networks (generative models, reinforcement learning), data-analysis, interfacing (thrid-party hardware).
 
 ### Postdoctoral Researcher - TU Wien, Austria
 November 2020 to Present

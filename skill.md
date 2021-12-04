@@ -1,7 +1,7 @@
 ## Coding Skills
 ### Languages
 - Python (6 years)
-- C, C++, Fortran, Java (4 years), 
+- C, C++, Fortran, Java (4 years)
 - C#, MySQL (2 years)
 
 ### Machine Learning, AI and Data-Analysis: 

@@ -13,7 +13,7 @@ Advanced projects from the conceptual to a POC stage (backend and data-science)
 ### Postdoctoral Researcher - TU Wien, Austria
 November 2020 to Present
 
-- [Reinforcement learning of decision-making of cells](https://www.pnas.org/content/118/19/e2019683118)
+- [Reinforcement learning of decision-making strategies of cells](https://www.pnas.org/content/118/19/e2019683118)
 - Confinement-driven self-assembly (three publications in progress)
 - Co-supervised master's thesis: [A neural network approach to micro-swimmer locomotion](https://repositum.tuwien.at/handle/20.500.12708/16476), M. Hübl (2021)
 

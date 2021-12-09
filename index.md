@@ -9,4 +9,4 @@ Currently, I'm working on further-developing
 <a class="" target='blank' href="https://worldmodels.github.io/">worldmodels</a> and 
 <a class="" target='blank' href="https://attentionagent.github.io/">attention agents</a> for reinforcement learning problems in autonomous navigation.
 
-I am a compassionate learner and an AI and technology enthusiast.
+I am a passionate learner and an AI and technology enthusiast.

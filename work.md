@@ -22,13 +22,13 @@ October 2016 to November 2020
 
 - Dissertation: [Confinement-driven self-assembly of charged particles](https://repositum.tuwien.at/handle/20.500.12708/16374)
 - Co-supervised master's thesis: [Self-assembly of ionic liquid crystals into smectic phases](https://repositum.tuwien.at/handle/20.500.12708/1471), R. Wanzenböck (2020)
-- Graduated PhD as *Summa Cum Laude*
+- Graduated Ph.D. as *Summa Cum Laude*
 
 ### FWF Project Assistant - TU Wien, Austria
 July 2016 to August 2016
 
 - [Optimal control of collective dynamics in cavity-quantum-electrodynamics](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.96.043837)
-- [Decoherence supression via spectral hole-burning in cavity-quantum-electrodynamics](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.033601)
+- [Decoherence suppression via spectral hole-burning in cavity-quantum-electrodynamics](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.033601)
 
 ### Junior Software Developer - BEKO, Linz, Austria
 May 2010 to August 2010

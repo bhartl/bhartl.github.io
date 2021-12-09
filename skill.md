@@ -12,7 +12,7 @@
 [Keras](https://keras.io/), 
 [Pytorch](https://pytorch.org/), 
 [OpenAI Gym](https://gym.openai.com/),
-[RLlib](https://docs.ray.io/en/latest/rllib.html)
+[RLlib](https://docs.ray.io/en/master/rllib/index.html)
 
 - **Libraries**: 
 [SciPy.optimize](https://docs.scipy.org/doc/scipy/reference/optimize.html),

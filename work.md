@@ -22,7 +22,6 @@ October 2016 to November 2020
 
 - Dissertation: [Confinement-driven self-assembly of charged particles](https://repositum.tuwien.at/handle/20.500.12708/16374)
 - Co-supervised master's thesis: [Self-assembly of ionic liquid crystals into smectic phases](https://repositum.tuwien.at/handle/20.500.12708/1471), R. Wanzenböck (2020)
-- Independent funding via a [DOC fellowship of the Austrian Academy of Sciences](https://stipendien.oeaw.ac.at/stipendien/doc) (2017 to 2020)
 - Graduated as *Summa Cum Laude*
 
 ### FWF Project Assistant - TU Wien, Austria

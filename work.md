@@ -6,7 +6,7 @@ November 2020 to Present
 #### Projects
 - Reinforcement learning framework for autonomous navigation (computer-vision, neural networks - supervised learning and neuro-evolution)
 - Bio-feedback software framework to synchronously gather, analyze, and control bio-sensory data (synchronous hardware interfacing)
-- Software for optimal reflection-cancellation with polarization filters
+- Multi-camera system for optimal reflection-cancellation in marine environments
 
 Advanced all projects from the conceptual stage to POC implementations (backend and data-science).
 

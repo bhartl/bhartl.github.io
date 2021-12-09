@@ -1,5 +1,5 @@
 ## In a Nutshell
-My name is Ben Hartl, and I am a software engineer, physicist, and researcher with demonstrated experience in machine learning and non-linear optimization strategies, with a strong sense for clean, modular code.
+My name is Ben, and I am a software engineer, physicist, and researcher with demonstrated experience in scientific programming, non-linear optimization, and  machine learning, with a strong sense for clean, modular code.
 
 My experience helped me develop tailored software solutions in 
 <a class="" target='blank' href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.033601">quantum optics</a>, 

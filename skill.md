@@ -5,67 +5,77 @@
 - C#, MySQL (2 years)
 
 ### Machine Learning, AI and Data-Analysis: 
-(Un)supervised- and reinforcement learning, generative models.
+- **Concepts**: 
+(Un)supervised- and reinforcement learning, generative models, data models, (non-linear-) optimization, statistical- and heuristic methods.
 
-Frameworks and libraries: 
+- **Frameworks**: 
 [Keras](https://keras.io/), 
 [Pytorch](https://pytorch.org/), 
 [OpenAI Gym](https://gym.openai.com/),
-[RLlib](https://docs.ray.io/en/latest/rllib.html),
-[NEAT](https://neat-python.readthedocs.io/en/latest/),
-[scikit-learn](https://scikit-learn.org/),
-[Pandas](https://pandas.pydata.org/).
+[RLlib](https://docs.ray.io/en/latest/rllib.html)
 
-Data visualization:
+- **Libraries**: 
+[SciPy.optimize](https://docs.scipy.org/doc/scipy/reference/optimize.html),
+[scikit-learn](https://scikit-learn.org/),
+[NEAT](https://neat-python.readthedocs.io/en/latest/)
+
+### Numerics and High-Performance Computing
+
+- **Numerics Libraries**:
+[NumPy](https://numpy.org/),
+[SciPy](https://scipy.org/),
+[OpenCV](https://opencv.org/),
+[estools](https://github.com/hardmaru/estool)
+
+Non-linear optimization and statistical and heuristic methods, such as ([replica exchange](https://en.wikipedia.org/wiki/Parallel_tempering)) [Monte Carlo](https://de.wikipedia.org/wiki/Monte-Carlo-Simulation) or [evolutionary strategies](https://en.wikipedia.org/wiki/Evolution_strategy).
+
+- **Parallel Programming**:
+[MPI](https://www.open-mpi.org/),
+[OpenMP](https://www.openmp.org/),
+[multiprocessing](https://docs.python.org/3/library/multiprocessing.html),
+[Threading](https://docs.python.org/3/library/threading.html),
+[Slurm](https://slurm.schedmd.com/documentation.html)
+
+6+ years of experience working with supercomputers ([Vienna Scientific Cluster](https://www.vsc.ac.at/home/), [JURECA](https://www.fz-juelich.de/ias/jsc/EN/Expertise/Supercomputers/JURECA/JURECA_node.html)) using [Slurm](https://slurm.schedmd.com/documentation.html).
+
+- **GPGPU**: 
+[TensorFlow](https://www.tensorflow.org/), 
+[PyTorch](https://pytorch.org/), 
+[Numba](https://numba.pydata.org/)
+
+- **Data-Handling**: 
+[Pandas](https://pandas.pydata.org/),
+[HDF5](https://www.hdfgroup.org/solutions/hdf5/), 
+[YAML](https://yaml.org/), 
+[JSON](https://www.json.org/json-en.html)
+
+Fast IO and processing of heterogeneous data.
+
+- **Data visualization**:
 [Matplotlib](https://matplotlib.org/),
 [Seaborn](https://seaborn.pydata.org/).
 
-### Numerics & Optimization:
-Non-linear optimization and statistical and heuristic methods, such as ([replica exchange](https://en.wikipedia.org/wiki/Parallel_tempering)) [Monte Carlo](https://de.wikipedia.org/wiki/Monte-Carlo-Simulation) or [evolutionary strategies](https://en.wikipedia.org/wiki/Evolution_strategy).
-
-Libraries and tools:
-[NumPy](https://numpy.org/),
-[SciPy](https://scipy.org/)(-[optimize](https://docs.scipy.org/doc/scipy/reference/optimize.html)),
-[OpenCV](https://opencv.org/),
-[estools](https://github.com/hardmaru/estool).
-
-### High-Performance Computing and Accelerators
-6+ years of experience working with supercomputers ([Vienna Scientific Cluster](https://www.vsc.ac.at/home/), [JURECA](https://www.fz-juelich.de/ias/jsc/EN/Expertise/Supercomputers/JURECA/JURECA_node.html)) using [slurm](https://slurm.schedmd.com/documentation.html).
-
-Nvidia-GPU usage via tensorflow, PyTorch or Numba.
-
-Libraries and tools:
-[MPI](https://www.open-mpi.org/),
-[OpenMP](https://www.openmp.org/),
-[threading](https://docs.python.org/3/library/threading.html),
-[multiprocessing](https://docs.python.org/3/library/multiprocessing.html),
-[Numba](https://numba.pydata.org/).
-
-### Interfacing:
-Boost the performance of your Python application by compiling your highly-performant code as Python modules.
-
-Libraries and tools:
+- **Interfacing**:
 [F2PY](https://numpy.org/doc/stable/f2py/),
 [Boost-Python](https://www.boost.org/doc/libs/1_63_0/libs/python/doc/html/index.html),
-[Lab-Streaming-Layer](https://labstreaminglayer.readthedocs.io/info/intro.html).
+[Lab-Streaming-Layer](https://labstreaminglayer.readthedocs.io/info/intro.html)
 
-### IO:
-Monitoring Keras or PyTorch models: [TensorBoard](https://www.tensorflow.org/tensorboard)
-
-Framework config-files: [yaml](https://yaml.org/), [json](https://www.json.org/json-en.html)
-
-Fast IO and processing of heterogeneous data: [hdf5](https://www.hdfgroup.org/solutions/hdf5/)
+Boost the performance of your Python application by compiling your highly-performant code as Python modules.
 
 ### Code-Maintenance:
-Containerization: [Docker](https://www.docker.com/), [venv](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
-
-Documentation: [Docstrings](https://www.python.org/dev/peps/pep-0257/), [Markdown](https://daringfireball.net/projects/markdown/)
-
-Testing: [Unittests](https://docs.python.org/3/library/unittest.html)
-
-### IDE and Tools: 
-- PyCharm, Eclipse, Vim, Jupyter, git
-- LaTex, Gimp, Inkscape, Blender
+- **Editors**: PyCharm, Eclipse, Jupyter, Vim
+- **Version-Control & QA**: 
+[git](github.com), 
+[CI](https://docs.github.com/en/actions/automating-builds-and-tests/about-continuous-integration), 
+[unittest](https://docs.python.org/3/library/unittest.html)
+- **Containerization**: 
+[Docker](https://www.docker.com/), 
+[venv](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
+- **Documentation**: 
+[Docstrings](https://www.python.org/dev/peps/pep-0257/), 
+[Markdown](https://daringfireball.net/projects/markdown/),
+[<span class="latex">L<sup>a</sup>T<sub>e</sub>X</span>](https://www.latex-project.org/)
+- **Visualization**: Gimp, Inkscape, Blender
 
 ### Operating Systems
 Linux and Windows

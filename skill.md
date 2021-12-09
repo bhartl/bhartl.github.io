@@ -63,9 +63,9 @@ Fast IO and processing of heterogeneous data.
 Boost the performance of your Python application by compiling your highly-performant code as Python modules.
 
 ### Code-Maintenance:
-- **Editors**: PyCharm, Eclipse, Jupyter, Vim
+- **Editors**: [PyCharm](https://www.jetbrains.com/de-de/pycharm/), [Eclipse](https://www.eclipse.org/), [Jupyter](https://jupyter.org/), [Vim](https://www.vim.org/)
 - **Version-Control & QA**: 
-[git](github.com), 
+[git](https://github.com), 
 [CI](https://docs.github.com/en/actions/automating-builds-and-tests/about-continuous-integration), 
 [unittest](https://docs.python.org/3/library/unittest.html)
 - **Containerization**: 
@@ -75,7 +75,7 @@ Boost the performance of your Python application by compiling your highly-perfor
 [Docstrings](https://www.python.org/dev/peps/pep-0257/), 
 [Markdown](https://daringfireball.net/projects/markdown/),
 [<span class="latex">L<sup>a</sup>T<sub>e</sub>X</span>](https://www.latex-project.org/)
-- **Visualization**: Gimp, Inkscape, Blender
+- **Visualization**: [Gimp](https://www.gimp.org/), [Inkscape](https://inkscape.org/de/), [Blender](https://www.blender.org/)
 
 ### Operating Systems
 Linux and Windows

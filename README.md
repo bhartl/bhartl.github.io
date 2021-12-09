@@ -1,4 +1,4 @@
-# bhartl.github.io - Repo
+# Hartl.Bene Software
 
 My professional portfolio - based on [GitHub Pages](https://pages.github.com/).
 

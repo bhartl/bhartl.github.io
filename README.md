@@ -1,4 +1,4 @@
-# bhartl.github.io
+# bhartl.github.io - Repo
 
 My professional portfolio - based on [GitHub Pages](https://pages.github.com/).
 

@@ -53,7 +53,7 @@ Fast IO and processing of heterogeneous data.
 
 - **Data visualization**:
 [Matplotlib](https://matplotlib.org/),
-[Seaborn](https://seaborn.pydata.org/).
+[Seaborn](https://seaborn.pydata.org/)
 
 - **Interfacing**:
 [F2PY](https://numpy.org/doc/stable/f2py/),

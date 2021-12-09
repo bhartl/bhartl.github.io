@@ -8,7 +8,7 @@ November 2020 to Present
 - Bio-feedback software framework to synchronously gather, analyze, and control bio-sensory data (synchronous hardware interfacing)
 - Multi-camera solution for optimal reflection-cancellation for marine environments (optics, hardware, software)
 
-Advanced all projects from the conceptual stage to POC implementations (backend and data-science).
+Advanced projects from the conceptual to POC stage (backend and data-science)
 
 ### Postdoctoral Researcher - TU Wien, Austria
 November 2020 to Present

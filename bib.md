@@ -9,9 +9,9 @@
 - [*A high-bias, low-variance introduction to Machine Learning for physicists*](https://www.sciencedirect.com/science/article/pii/S0370157319300766?via%3Dihub#!) by *P. Mehta* et al.
 
 ### Blogs
-- [*David Ha's Blog*](https://blog.otoro.net/) -  great stuff about evolutionary strategies in AI
+- [*David Ha's Blog*](https://blog.otoro.net/) - Great stuff about evolutionary strategies in AI
 - [*DINO and PAWS - Advancing the state of the art in computer vision with self-supervised Transformers and 10x more efficient training*](https://ai.facebook.com/blog/dino-paws-computer-vision-with-self-supervised-transformers-and-10x-more-efficient-training/)
 
 ### Channels and Lectures
-- [*Yannic Kilcher's Channel*](https://www.youtube.com/c/YannicKilcher) - awesome communication of ML literature
+- [*Yannic Kilcher's Channel*](https://www.youtube.com/c/YannicKilcher) - Awesome communication of ML literature
 - [*Machine Learning for Physicists*](https://machine-learning-for-physicists.org/) by *Florian Marquardt*

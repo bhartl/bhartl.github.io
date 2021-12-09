@@ -1,4 +1,4 @@
-# Hartl.Bene Software
+# Hartl.Bene Software - Source
 
 My professional portfolio - based on [GitHub Pages](https://pages.github.com/).
 

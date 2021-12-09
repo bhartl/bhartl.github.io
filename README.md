@@ -1,5 +1,3 @@
 # Hartl.Bene Software - Source
 
-My professional portfolio - based on [GitHub Pages](https://pages.github.com/).
-
-See [bhartl.github.io](https://bhartl.github.io/)
+My professional portfolio, [bhartl.github.io](https://bhartl.github.io/), is based on [GitHub Pages](https://pages.github.com/).

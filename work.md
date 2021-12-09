@@ -13,13 +13,15 @@ Advanced all projects from the conceptual stage to POC implementations (backend 
 ### Postdoctoral Researcher - TU Wien, Austria
 November 2020 to Present
 
-- [Reinforcement learning of cellular decision-making](https://www.pnas.org/content/118/19/e2019683118)
+- [Reinforcement learning of decision-making of cells](https://www.pnas.org/content/118/19/e2019683118)
 - Confinement-driven self-assembly (three publications in progress)
+- Co-supervised master's thesis: [A neural network approach to micro-swimmer locomotion](https://repositum.tuwien.at/handle/20.500.12708/16476), M. Hübl (2021)
 
 ### Researcher (Pre-doc) - TU Wien, Austria
 October 2016 to November 2020
 
-- [Confinement-driven self-assembly of charged particles](https://repositum.tuwien.at/handle/20.500.12708/16374)
+- Dissertation: [Confinement-driven self-assembly of charged particles](https://repositum.tuwien.at/handle/20.500.12708/16374)
+- Co-supervised master's thesis: [Self-assembly of ionic liquid crystals into smectic phases](https://repositum.tuwien.at/handle/20.500.12708/1471), R. Wanzenböck (2020)
 - Independent funding via a [DOC fellowship of the Austrian Academy of Sciences](https://stipendien.oeaw.ac.at/stipendien/doc) (2017 to 2020)
 - Graduated as *Summa Cum Laude*
 
@@ -27,6 +29,7 @@ October 2016 to November 2020
 July 2016 to August 2016
 
 - [Optimal control of collective dynamics in cavity-quantum-electrodynamics](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.96.043837)
+- [Decoherence supression via spectral hole-burning in cavity-quantum-electrodynamics](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.033601)
 
 ### Junior Software Developer - BEKO, Linz, Austria
 May 2010 to August 2010

@@ -1,7 +1,6 @@
 ## Projects
 ### Frameworks
-- *mindcraft*: a modular reinforcement learning framework for robust and interpretable autonomous navigation (<a calss="" target='blank' href="https://worldmodels.github.io/">worldmodels</a>, <a calss="" target='blank' href="https://attentionagent.github.io/">self-attention</a>, 
-<a calss="" target='blank' href="https://en.wikipedia.org/wiki/Neuroevolution">neuroevolution</a>)
+- *mindcraft*: a modular reinforcement learning framework for robust and interpretable autonomous navigation
 - *bio-feedback*: a framework to synchronously gather, process, and control bio-sensory data
 - <a class="" target='blank' href="https://github.com/bhartl/data-monitor">*data-monitor*</a>: an interactive (non-blocking) `matplotlib`-based time-series visualization tool
 - <a class="" target='blank' href="https://github.com/bhartl/generative-models">*gempy*</a>: 

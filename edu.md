@@ -3,7 +3,7 @@
 ### Ph.D. in Physics - TU Wien, Austria (2016 - 2020)
 Thesis:  <a class="" target='blank' href="https://repositum.tuwien.at/handle/20.500.12708/16374">*Confinement-Driven Self-Assembly Charged Particles*</a>
 
-- Independent funding via a [DOC fellowship of the Austrian Academy of Sciences](https://stipendien.oeaw.ac.at/stipendien/doc) (2017 to 2020)
+- Independent funding via a [DOC fellowship of the Austrian Academy of Sciences](https://stipendien.oeaw.ac.at/stipendien/doc)
 - Graduated as Summa Cum Laude
 
 ### MSc in Physics - TU Wien, Austria (2013 - 2016)

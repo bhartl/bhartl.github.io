@@ -11,9 +11,9 @@
 ### Blogs and Blot-Posts
 - [*David Ha's Blog*](https://blog.otoro.net/) - Great stuff about evolutionary strategies in AI
 - [*DINO and PAWS - Advancing the state of the art in computer vision with self-supervised Transformers and 10x more efficient training*](https://ai.facebook.com/blog/dino-paws-computer-vision-with-self-supervised-transformers-and-10x-more-efficient-training/)
-- [Same or Different? The Question Flummoxes Neural Networks.](https://www.quantamagazine.org/same-or-different-ai-cant-tell-20210623/)
-- [The Computer Scientist Training AI to Think With Analogies](https://www.quantamagazine.org/melanie-mitchell-trains-ai-to-think-with-analogies-20210714)
-- [Hopfield Networks is All You Need](https://ml-jku.github.io/hopfield-layers/)
+- [Same or Different? The Question Flummoxes Neural Networks.](https://www.quantamagazine.org/same-or-different-ai-cant-tell-20210623/) in *Quantamagazine*
+- [The Computer Scientist Training AI to Think With Analogies](https://www.quantamagazine.org/melanie-mitchell-trains-ai-to-think-with-analogies-20210714) in *Quantamagazine*
+- [Hopfield Networks is All You Need](https://ml-jku.github.io/hopfield-layers/) by the *Sepp Hochreiter-group*
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) by *Jay Alammar*
 
 ### Channels and Lectures

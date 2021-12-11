@@ -8,9 +8,12 @@
 - [*Reinforcement Learning: An Introduction*](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) by *Richard S. Sutton* and *Andrew G. Barto*
 - [*A high-bias, low-variance introduction to Machine Learning for physicists*](https://www.sciencedirect.com/science/article/pii/S0370157319300766?via%3Dihub#!) by *P. Mehta* et al.
 
-### Blogs
+### Blogs and Blot-Posts
 - [*David Ha's Blog*](https://blog.otoro.net/) - Great stuff about evolutionary strategies in AI
 - [*DINO and PAWS - Advancing the state of the art in computer vision with self-supervised Transformers and 10x more efficient training*](https://ai.facebook.com/blog/dino-paws-computer-vision-with-self-supervised-transformers-and-10x-more-efficient-training/)
+- [Same or Different? The Question Flummoxes Neural Networks.](https://www.quantamagazine.org/same-or-different-ai-cant-tell-20210623/)
+- [The Computer Scientist Training AI to Think With Analogies](https://www.quantamagazine.org/melanie-mitchell-trains-ai-to-think-with-analogies-20210714)
+- [Hopfield Networks is All You Need](https://ml-jku.github.io/hopfield-layers/)
 
 ### Channels and Lectures
 - [*Yannic Kilcher's Channel*](https://www.youtube.com/c/YannicKilcher) - Awesome communication of ML literature

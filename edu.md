@@ -4,7 +4,7 @@
 Thesis:  <a class="" target='blank' href="https://repositum.tuwien.at/handle/20.500.12708/16374">*Confinement-Driven Self-Assembly Charged Particles*</a>
 
 - Independent funding via a [DOC fellowship of the Austrian Academy of Sciences](https://stipendien.oeaw.ac.at/stipendien/doc)
-- <a class="" target='blank' href="https://en.wikipedia.org/wiki/Sub_auspiciis_Praesidentis"><i>sub auspiciis</i></a> doctoral graduation
+- <a class="" target='blank' href="https://en.wikipedia.org/wiki/Sub_auspiciis_Praesidentis"><i>Sub auspiciis</i></a> doctoral graduation
 
 ### MSc in Physics - TU Wien, Austria (2013 - 2016)
 Thesis: <a class="" target='blank' href="https://repositum.tuwien.at/handle/20.500.12708/6605">*Optimal Control of Collective Dynamics Cavity-QED with an Inhomogeneously Broadened Spin Ensemble*</a>

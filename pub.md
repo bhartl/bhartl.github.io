@@ -28,3 +28,15 @@ clustering algorithm analysis
 ### [Hybrid Quantum Systems with Collectively Coupled Spin States: Suppression of Decoherence through Spectral Hole Burning](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.033601)
 - D.O. Krimer, B. Hartl, and S. Rotter
 - <i>Physical Reveview Letters</i> <b>115</b>, 033601
+
+## Conferences and Events
+- <i>IJCAI-ECAI</i>, Vienna, Austria (2022)
+- Talk & Poster: <i>11th Liquid Matter Conference</i>, Prague, Czech Republic (2020/2021)
+- <i>VDSP-ESI Winter School 2020 on Machine Learning in Physics</i>, Vienna, Austria (2020)
+- Talk: <i>Kurt Gödel’s Legacy: Does the future lie in the past?</i> Vienna, Austria (2019)
+- Poster: <i>14th International Conference on Quasicrystals</i>, Kranjska Gora, Slovenia (2019)
+- Questract: <i>Workshop for Machine Learning and Reverse Engineering for Soft Materials</i>, Leiden, Netherlands (2018)
+- Talk: <i>European Colloid and Interface Society Conference</i>, Ljubljana, Slovenia (2018)
+- Talk: <i>Interfacing Machine Learning and Experimental Methods</i>, Graz, Austria (2018)
+- Poster: <i>From Electrons to Phase Transitions – A ViCoM Conference</i>, Vienna, Austria (2018)
+- Poster: <i>10th Liquid Matter Conference</i>, Ljubljana, Slovenia (2017)

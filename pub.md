@@ -7,11 +7,6 @@ clustering algorithm analysis
 - <u>B. Hartl</u>, M. Mihalkovič, L. Šamaj, M. Mazars, E. Trizac, and G. Kahl
 - to be submitted to The Journal of Chemical Physics (2022)
 
-### Microswimmers learning chemotaxis with genetic algorithms 
-- <u>B. Hartl</u>, M. Hübl, G. Kahl, A. Zöttl
-- [<i>The Proceedings of the National Academy of Sciences</i> <b>118</b> (19) e2019683118 (2021)](https://www.pnas.org/doi/10.1073/pnas.2019683118)
-
-
 ### [Microswimmers learning chemotaxis with genetic algorithms](https://www.pnas.org/doi/10.1073/pnas.2019683118)
 - <u>B. Hartl</u>, M. Hübl, G. Kahl, A. Zöttl
 - <i>The Proceedings of the National Academy of Sciences</i> <b>118</b> (19) e2019683118 (2021)

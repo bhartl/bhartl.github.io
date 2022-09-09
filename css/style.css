@@ -2,7 +2,7 @@ contact{
     display: grid;
     width: 90%;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-    padding: 20px 0;
+    padding: 0 20px 0 0;
 }
 
 .thmbnl{

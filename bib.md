@@ -22,7 +22,7 @@ D. O. Krimer\*, <u>B. Hartl</u>\*, F. Mintert, and S. Rotter,<br>
 
 D.O. Krimer, B. Hartl, and S. Rotter,<br>
 <i>"Hybrid Quantum Systems with Collectively Coupled Spin States: Suppression of Decoherence through Spectral Hole Burning"</i>,
-<a targer="blank" href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.033601)><i>Physical Reveview Letters</i> <b>115</b>, 033601 (2015)</a>
+<a targer="blank" href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.033601")><i>Physical Reveview Letters</i> <b>115</b>, 033601 (2015)</a>
 
 ## Conferences and Events
 - <i>IJCAI-ECAI</i>, Vienna, Austria (2022)

@@ -80,7 +80,7 @@ Implementation of web interface for inventory database and network monitoring sy
 ## Teaching Experience
 
 ### Co-Supervision of Master's Theses - TU Wien, Austria:
-- A neural network approach to micro-swimmer locomotion](https://repositum.tuwien.at/handle/20.500.12708/16476), M. Hübl (2021), Graded "Sehr Gut"
+- [A neural network approach to micro-swimmer locomotion](https://repositum.tuwien.at/handle/20.500.12708/16476), M. Hübl (2021), Graded "Sehr Gut"
 - [Self-assembly of ionic liquid crystals into smectic phases](https://repositum.tuwien.at/handle/20.500.12708/1471), R. Wanzenböck (2020), Graded "Sehr Gut"
 
 ### Teaching Assistant - TU Wien, Austria (2012 - 2016):

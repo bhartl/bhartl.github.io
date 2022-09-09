@@ -1,4 +1,7 @@
 ## In a Nutshell
+
+<img style="float: right;" src="img/portrait.png">
+
 My name is Ben, and I am a software engineer, physicist, and researcher with demonstrated experience in scientific programming, non-linear optimization, and  machine learning, with a strong sense for clean, modular code.
 
 My experience helped me develop tailored software solutions in 

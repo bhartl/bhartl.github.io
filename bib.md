@@ -31,6 +31,7 @@ D.O. Krimer, B. Hartl, and S. Rotter,<br>
   - <a target="_blank" href="http://www.itp.tuwien.ac.at/index.php/News#Wie_man_als_Einzeller_ans_Ziel_gelangt">Wie man als Einzeller ans Ziel gelangt</a> (<i>Reaching your life goals as a single-celled organism</i>), see <a href="https://pnas.altmetric.com/details/99159598/news" target="_blank">entire media coverage</a>
   - <a target="_blank" href="http://www.itp.tuwien.ac.at/index.php/News#Wie_Molek.C3.BCle_Mosaike_bilden">Wie Moleküle Mosaike bilden</a> (<i>How molecules form mosaics</i>)
   - derStandard user-foto of the week #5: <a target="_blank" href="https://www.derstandard.at/story/2000108551041/userfotos-schicken-sie-ihr-foto-der-woche">"Love breaks walls"</a>
+  - <a target="_blank" href="https://stipendien.oeaw.ac.at/aktuell/veranstaltungen/detail/feierliche-stipendienverleihung-2017">DOC fellowship ceremony 2017</a>
   
 ## Conferences and Events
 - <i>IJCAI-ECAI</i>, Vienna, Austria (2022)

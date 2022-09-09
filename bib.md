@@ -1,11 +1,13 @@
 ## Publications & Events
 
-### Journal Publications
+### Journal
 
-#### Ordered ground state configurations of the asymmetric Wigner bilayer system – revisited: an unsupervised
-clustering algorithm analysis
-- <u>B. Hartl</u>, M. Mihalkovič, L. Šamaj, M. Mazars, E. Trizac, and G. Kahl
-- to be submitted to The Journal of Chemical Physics (2022)
+<u>B. Hartl</u>, M. Mihalkovič, L. Šamaj, M. Mazars, E. Trizac, and G. Kahl,
+<i>Ordered ground state configurations of the asymmetric Wigner bilayer system – revisited: an unsupervised
+clustering algorithm analysis</i>,
+<br>
+to be submitted to The Journal of Chemical Physics (2022)
+<hr>
 
 ### [Microswimmers learning chemotaxis with genetic algorithms](https://www.pnas.org/doi/10.1073/pnas.2019683118)
 - <u>B. Hartl</u>, M. Hübl, G. Kahl, A. Zöttl

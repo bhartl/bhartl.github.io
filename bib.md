@@ -3,6 +3,7 @@
 ### Journal
 
 <u>B. Hartl</u>, M. Mihalkovič, L. Šamaj, M. Mazars, E. Trizac, and G. Kahl,
+<br>
 <i>Ordered ground state configurations of the asymmetric Wigner bilayer system – revisited: an unsupervised
 clustering algorithm analysis</i>,
 <br>

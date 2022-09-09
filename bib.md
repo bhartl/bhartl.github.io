@@ -2,35 +2,27 @@
 
 ### Journal
 
-<u>B. Hartl</u>, M. Mihalkovič, L. Šamaj, M. Mazars, E. Trizac, and G. Kahl,
-<br>
+<u>B. Hartl</u>, M. Mihalkovič, L. Šamaj, M. Mazars, E. Trizac, and G. Kahl,<br>
 <i>"Ordered ground state configurations of the asymmetric Wigner bilayer system – revisited: an unsupervised
-clustering algorithm analysis"</i>,
-<br>
-to be submitted to <a target="blank" href="https://aip.scitation.org/journal/jcp">The Journal of Chemical Physics</a> (2022)
+clustering algorithm analysis"</i>,<br>
+to be submitted to <a target="blank" href="https://aip.scitation.org/journal/jcp">The Journal of Chemical Physics</a> (2022)<br>
 
-<br>
+<u>B. Hartl</u>, M. Hübl, G. Kahl, and A. Zöttl,<br>
+<i>"Microswimmers learning chemotaxis with genetic algorithms"</i>,<br>
+<a target="blank" href="https://www.pnas.org/doi/10.1073/pnas.2019683118"><i>The Proceedings of the National Academy of Sciences</i> <b>118</b> (19) e2019683118 (2021)</a><br>
 
+<u>B. Hartl</u>, S. Sharma, O. Brügner, S.F.L. Mertens, M.Walter, and G. Kahl,<br>
+<i>"Reliable Computational Prediction of the Supramolecular Ordering of Complex Molecules under Electrochemical Conditions"</i>,<br>
+The <a targer="blank" href="https://pubs.acs.org/doi/10.1021/acs.jctc.9b01251"><i>Journal of Chemical Theory and Computation</i> <b>16</b> (8), 5227-5243 (2020)</a><br>
 
+D. O. Krimer\*, <u>B. Hartl</u>\*, F. Mintert, and S. Rotter,<br>
+<i>"Optimal control of non-Markovian dynamics in a single-mode cavity strongly coupled to an inhomogeneously broadened spin ensemble"</i>,<br>
+<a targer="blank" href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.96.043837"><i>Physical Review A</i> <b>96</b>, 043837 (2017)</a><br>
+<i style="font-size:14px;>(\* authors contributed equally)</i><br>
 
-<u>B. Hartl</u>, M. Hübl, G. Kahl, and A. Zöttl,
-<br>
-<i>"Microswimmers learning chemotaxis with genetic algorithms"</i>,
-<br>
-<a target="blank" href="https://www.pnas.org/doi/10.1073/pnas.2019683118"><i>The Proceedings of the National Academy of Sciences</i> <b>118</b> (19) e2019683118 (2021)</a>
-
-<u>B. Hartl</u>, S. Sharma, O. Brügner, S.F.L. Mertens, M.Walter, and G. Kahl,
-<i>"Reliable Computational Prediction of the Supramolecular Ordering of Complex Molecules under Electrochemical Conditions"</i>,
-The <a targer="blank" href="https://pubs.acs.org/doi/10.1021/acs.jctc.9b01251"><i>Journal of Chemical Theory and Computation</i> <b>16</b> (8), 5227-5243 (2020)</a>
-
-### [Optimal control of non-Markovian dynamics in a single-mode cavity strongly coupled to an inhomogeneously broadened spin ensemble](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.96.043837)
-- D. O. Krimer*, <u>B. Hartl</u>*, F. Mintert, and S. Rotter
-- <i>Physical Review A</i> <b>96</b>, 043837 – Published 16 October 2017
-- <i>(* authors contributed equally)</i>
-
-### [Hybrid Quantum Systems with Collectively Coupled Spin States: Suppression of Decoherence through Spectral Hole Burning](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.033601)
-- D.O. Krimer, B. Hartl, and S. Rotter
-- <i>Physical Reveview Letters</i> <b>115</b>, 033601
+D.O. Krimer, B. Hartl, and S. Rotter,<br>
+<i>"Hybrid Quantum Systems with Collectively Coupled Spin States: Suppression of Decoherence through Spectral Hole Burning"</i>,
+<a targer="blank" href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.033601)><i>Physical Reveview Letters</i> <b>115</b>, 033601 (2015)</a>
 
 ## Conferences and Events
 - <i>IJCAI-ECAI</i>, Vienna, Austria (2022)

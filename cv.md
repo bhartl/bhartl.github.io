@@ -1,6 +1,6 @@
 ## Current Role
 ### AI Consulting, Scientific Research and Prototyping
-Implementation of reinforcement learning framework for autonomous navigation and locomotion
+I'm implementation a reinforcement learning framework for autonomous navigation and locomotion
 - Computer-vision, neural networks, neuroevolution
 - Nov. 2020 to present
 

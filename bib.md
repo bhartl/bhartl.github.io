@@ -4,15 +4,20 @@
 
 <u>B. Hartl</u>, M. Mihalkovič, L. Šamaj, M. Mazars, E. Trizac, and G. Kahl,
 <br>
-<i>Ordered ground state configurations of the asymmetric Wigner bilayer system – revisited: an unsupervised
-clustering algorithm analysis</i>,
+<i>"Ordered ground state configurations of the asymmetric Wigner bilayer system – revisited: an unsupervised
+clustering algorithm analysis"</i>,
 <br>
-to be submitted to The Journal of Chemical Physics (2022)
-<hr>
+to be submitted to <a target="blank" href="https://aip.scitation.org/journal/jcp">The Journal of Chemical Physics</a> (2022)
 
-### [Microswimmers learning chemotaxis with genetic algorithms](https://www.pnas.org/doi/10.1073/pnas.2019683118)
-- <u>B. Hartl</u>, M. Hübl, G. Kahl, A. Zöttl
-- <i>The Proceedings of the National Academy of Sciences</i> <b>118</b> (19) e2019683118 (2021)
+<br>
+
+
+
+<u>B. Hartl</u>, M. Hübl, G. Kahl, and A. Zöttl,
+<br>
+<i>Microswimmers learning chemotaxis with genetic algorithms</i>,
+<br>
+<a target="blank" href="https://www.pnas.org/doi/10.1073/pnas.2019683118"><i>The Proceedings of the National Academy of Sciences</i> <b>118</b> (19) e2019683118 (2021)</a>
 
 ### [Reliable Computational Prediction of the Supramolecular Ordering of Complex Molecules under Electrochemical Conditions](https://pubs.acs.org/doi/10.1021/acs.jctc.9b01251)
 - <u>B. Hartl</u>, S. Sharma, O. Brügner, S.F.L. Mertens, M.Walter, and G. Kahl,

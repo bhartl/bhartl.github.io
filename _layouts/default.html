@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,maximum-scale=2">
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" type="text/css" media="screen" href="_layouts/style.css">
 
 {% seo %}
     {% include head-custom.html %}
@@ -77,9 +78,8 @@
 		    '<a class="selector noshadow" href="mailto:'+a+'.'+b+'.'+c+'@'+d+e+'.com"><img src="/img/email.png" width="31px"></a>'
 		  );
 		</script>
-		<div style="width: 80%; display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr; padding: 20px 0;">
-        		<a target='_blank' href="https://github.com/bhartl/"><img style="height: 31px; -moz-box-shadow: none; -goog-ms-box-shadow: none; -webkit-box-shadow: none;
-box-shadow: none;" src="/img/github.png" alt="Github"></a>
+		<div id="footer">
+        		<a target='_blank' href="https://github.com/bhartl/"><img class="contact" src="/img/github.png" alt="Github"></a>
 			<a target='_blank' href="https://twitter.com/benehartl"><img height="31px" src="/img/twitter.png" alt="Twitter"></a>
 			<a target='_blank' href="https://www.linkedin.com/in/bhartl/"><img height="31px" src="/img/linkedin.png" alt="LinkedIn"></a>
 			<a target='_blank' href="https://orcid.org/0000-0001-7787-4839"><img height="31px" src="/img/orcid.svg" alt="ORCID"></a>

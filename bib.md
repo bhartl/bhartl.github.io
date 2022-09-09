@@ -28,8 +28,8 @@ D.O. Krimer, B. Hartl, and S. Rotter,<br>
     (<a target="_blank" href="https://www.tuwien.at/tu-wien/aktuelles/news/news/sub-auspiciis-promotionen-am-26-jaenner-2022-an-der-tu-wien">TU Wien News</a>, 
      <a target="_blank" href="http://www.itp.tuwien.ac.at/index.php/News#Benedikt_Hartl_-_sub_auspiciis_Promotionen_am_26._J.C3.A4nner_2022_an_der_TU_Wien">ITP News</a>,
   <a target="_blank" href="https://orf.at/stories/3245159/">ORF</a>)
-  - <a target="_blank" href="http://www.itp.tuwien.ac.at/index.php/News#Wie_man_als_Einzeller_ans_Ziel_gelangt">Wie man als Einzeller ans Ziel gelangt (<i>Reaching your life goals as a single-celled organism</i>)</a>(see <a href="https://pnas.altmetric.com/details/99159598/news" target="_blank">entire media coverage</a>)
-  - <a target="_blank" href="http://www.itp.tuwien.ac.at/index.php/News#Wie_Molek.C3.BCle_Mosaike_bilden">Wie Moleküle Mosaike bilden (<i>How molecules form mosaics</i>)</a>  
+  - <a target="_blank" href="http://www.itp.tuwien.ac.at/index.php/News#Wie_man_als_Einzeller_ans_Ziel_gelangt">Wie man als Einzeller ans Ziel gelangt</a> (<i>Reaching your life goals as a single-celled organism</i>), see <a href="https://pnas.altmetric.com/details/99159598/news" target="_blank">entire media coverage</a>
+  - <a target="_blank" href="http://www.itp.tuwien.ac.at/index.php/News#Wie_Molek.C3.BCle_Mosaike_bilden">Wie Moleküle Mosaike bilden</a> (<i>How molecules form mosaics</i>)
   
 ## Conferences and Events
 - <i>IJCAI-ECAI</i>, Vienna, Austria (2022)

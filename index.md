@@ -1,7 +1,8 @@
 ## In a Nutshell
 
-<img style="float: right;" src="img/portrait.png">
+<img style="float: right; width: 40%; padding: 10px;" src="img/portrait.png">
 
+<p align="justify">
 My name is Ben, and I am a software engineer, physicist, and researcher with demonstrated experience in scientific programming, non-linear optimization, and  machine learning, with a strong sense for clean, modular code.
 
 My experience helped me develop tailored software solutions in 
@@ -13,3 +14,4 @@ Currently, I'm working on further-developing
 <a class="" target='blank' href="https://attentionagent.github.io/">attention agents</a> for reinforcement learning problems in autonomous navigation.
 
 I am a passionate learner and an AI and technology enthusiast.
+</p>

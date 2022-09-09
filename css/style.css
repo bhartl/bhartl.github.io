@@ -1,10 +1,10 @@
-footer{
+.contact{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
     padding: 20px 0;
 }
 
-.contact{
+.contact.img{
     height: 31px; 
     -moz-box-shadow: none; 
     -goog-ms-box-shadow: none; 

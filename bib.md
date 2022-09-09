@@ -13,15 +13,15 @@ to be submitted to <a target="_blank" href="https://aip.scitation.org/journal/jc
 
 <u>B. Hartl</u>, S. Sharma, O. Brügner, S.F.L. Mertens, M.Walter, and G. Kahl,<br>
 <i>"Reliable Computational Prediction of the Supramolecular Ordering of Complex Molecules under Electrochemical Conditions"</i>,<br>
-The <a targer="_blank" href="https://pubs.acs.org/doi/10.1021/acs.jctc.9b01251"><i>Journal of Chemical Theory and Computation</i> <b>16</b> (8), 5227-5243 (2020)</a><br>
+<a target="_blank" href="https://pubs.acs.org/doi/10.1021/acs.jctc.9b01251">The <i>Journal of Chemical Theory and Computation</i> <b>16</b> (8), 5227-5243 (2020)<a><br>
 
 D. O. Krimer\*, <u>B. Hartl</u>\*, F. Mintert, and S. Rotter, <i style="font-size:10px;">(\* authors contributed equally)</i><br>
 <i>"Optimal control of non-Markovian dynamics in a single-mode cavity strongly coupled to an inhomogeneously broadened spin ensemble"</i>,<br>
-<a targer="_blank" href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.96.043837"><i>Physical Review A</i> <b>96</b>, 043837 (2017)</a><br>
+<a target="_blank" href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.96.043837"><i>Physical Review A</i> <b>96</b>, 043837 (2017)</a><br>
 
 D.O. Krimer, B. Hartl, and S. Rotter,<br>
 <i>"Hybrid Quantum Systems with Collectively Coupled Spin States: Suppression of Decoherence through Spectral Hole Burning"</i>,
-<a targer="_blank" href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.033601")><i>Physical Reveview Letters</i> <b>115</b>, 033601 (2015)</a>
+<a target="_blank" href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.033601"><i>Physical Reveview Letters</i> <b>115</b>, 033601 (2015)</a><br>
 
 ## Conferences and Events
 - <i>IJCAI-ECAI</i>, Vienna, Austria (2022)

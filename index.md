@@ -1,6 +1,6 @@
 ## In a Nutshell
 
-<img style="float: right;" width=30%, src="img/portrait.png">
+<img style="float: right; width: 30%;" src="img/portrait.png">
 
 My name is Ben, and I am a software engineer, physicist, and researcher with demonstrated experience in scientific programming, non-linear optimization, and  machine learning, with a strong sense for clean, modular code.
 

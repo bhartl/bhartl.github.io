@@ -18,7 +18,7 @@ The <a targer="blank" href="https://pubs.acs.org/doi/10.1021/acs.jctc.9b01251"><
 D. O. Krimer\*, <u>B. Hartl</u>\*, F. Mintert, and S. Rotter,<br>
 <i>"Optimal control of non-Markovian dynamics in a single-mode cavity strongly coupled to an inhomogeneously broadened spin ensemble"</i>,<br>
 <a targer="blank" href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.96.043837"><i>Physical Review A</i> <b>96</b>, 043837 (2017)</a><br>
-<i style="font-size:14px;>(\* authors contributed equally)</i><br>
+<i style="font-size:14px;">(\* authors contributed equally)</i><br>
 
 D.O. Krimer, B. Hartl, and S. Rotter,<br>
 <i>"Hybrid Quantum Systems with Collectively Coupled Spin States: Suppression of Decoherence through Spectral Hole Burning"</i>,

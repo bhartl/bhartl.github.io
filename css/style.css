@@ -1,5 +1,6 @@
 .contact{
     display: grid;
+    width: 80%;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
     padding: 20px 0;
 }

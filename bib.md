@@ -45,7 +45,7 @@ D.O. Krimer, B. Hartl, and S. Rotter,<br>
 - [*Reinforcement Learning: An Introduction*](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) by *Richard S. Sutton* and *Andrew G. Barto*
 - [*A high-bias, low-variance introduction to Machine Learning for physicists*](https://www.sciencedirect.com/science/article/pii/S0370157319300766?via%3Dihub#!) by *P. Mehta* et al.
 
-### Blogs and Blot-Posts
+### Blogs and Blog-Posts
 - [*David Ha's Blog*](https://blog.otoro.net/) - Great stuff about evolutionary strategies in AI
 - [*DINO and PAWS - Advancing the state of the art in computer vision with self-supervised Transformers and 10x more efficient training*](https://ai.facebook.com/blog/dino-paws-computer-vision-with-self-supervised-transformers-and-10x-more-efficient-training/)
 - [Same or Different? The Question Flummoxes Neural Networks.](https://www.quantamagazine.org/same-or-different-ai-cant-tell-20210623/) in *Quantamagazine*

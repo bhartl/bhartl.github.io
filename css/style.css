@@ -7,6 +7,7 @@ contact{
 
 .thmbnl{
     height: 31px; 
+    border: none;
     -moz-box-shadow: none; 
     -goog-ms-box-shadow: none; 
     -webkit-box-shadow: none;

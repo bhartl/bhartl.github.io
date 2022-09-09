@@ -30,14 +30,6 @@ High School for IT and Computer Science
 
 - Graduated with distinction
 
-## Awards
-- Promotio sub auspiciis Praesidentis (2022)
-- Christiana Hörbiger Prize, TU Wien (2018)
-- DOC Fellowship, Austrian Academy of Sciences (2017)
-- Förderstipendium for excellence at the TU Wien (2016)
-- Award of excellence of the TU Wien (2012, 2013, 2014)
-- Award of excellence of the Faculty of Physics, TU Wien (2012, 2013)
-
 ## Work History
 
 ### AI Consulting and Prototyping - Freelancer, Remote
@@ -62,7 +54,7 @@ October 2016 to November 2020
 
 - Dissertation: [Confinement-driven self-assembly of charged particles](https://repositum.tuwien.at/handle/20.500.12708/16374)
 - Co-supervised master's thesis: [Self-assembly of ionic liquid crystals into smectic phases](https://repositum.tuwien.at/handle/20.500.12708/1471), R. Wanzenböck (2020)
-- Graduated Ph.D. as *Summa Cum Laude*
+- Promotio <a target="_blank" href="https://en.wikipedia.org/wiki/Sub_auspiciis_Praesidentis">*sub auspiciis Praesidentis*</a> 2022 (i.e., graduated with distinction since high-school)
 
 ### FWF Project Assistant - TU Wien, Austria
 July 2016 to August 2016
@@ -87,6 +79,10 @@ Implementation of web interface for inventory database and network monitoring sy
 
 ## Teaching Experience
 
+### Co-Supervision of Master's Theses - TU Wien, Austria:
+- A neural network approach to micro-swimmer locomotion](https://repositum.tuwien.at/handle/20.500.12708/16476), M. Hübl (2021), Graded "Sehr Gut"
+- [Self-assembly of ionic liquid crystals into smectic phases](https://repositum.tuwien.at/handle/20.500.12708/1471), R. Wanzenböck (2020), Graded "Sehr Gut"
+
 ### Teaching Assistant - TU Wien, Austria (2012 - 2016):
 - Fundamental Physics I
 - Quantum Theory I and Quantum Theory II
@@ -95,7 +91,7 @@ Implementation of web interface for inventory database and network monitoring sy
 ### Teaching Assistant - HTBLA LiTec, Linz (2007/2008):
 - C-Programming
 
-## Event Co-Organization:
+### Event Co-Organization:
 - Proof Society Workshop and Winter School, Funchal, Madeira, Portugal (2021)
 - International Summer School for Proof Theory in First-Order Logic, Funchal, Madeira, Portugal (2017)
 - FIT-Workshop for Women in Science, TU Wien (2019)
@@ -105,3 +101,11 @@ Implementation of web interface for inventory database and network monitoring sy
 - English (fluent)
 - Bosnian and Serbian-Croatian (A2)
 - Sign-Language (basics)
+
+## Awards
+- Promotio sub auspiciis Praesidentis (2022)
+- Christiana Hörbiger Prize, TU Wien (2018)
+- DOC Fellowship, Austrian Academy of Sciences (2017)
+- Förderstipendium for excellence at the TU Wien (2016)
+- Award of excellence of the TU Wien (2012, 2013, 2014)
+- Award of excellence of the Faculty of Physics, TU Wien (2012, 2013)

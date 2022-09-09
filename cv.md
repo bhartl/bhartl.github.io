@@ -1,13 +1,10 @@
-## Current Role: *AI Consulting and Prototyping (Freelancer, Remote)*
-Projects:
-- Reinforcement learning framework for autonomous navigation (computer-vision, neural networks)
-- Bio-feedback software framework to synchronously gather, analyze, and control bio-sensory data (synchronous hardware interfacing)
-- Multi-camera solution for optimal reflection-cancellation in marine environments (optics, hardware, software)
-
-Advanced projects from the conceptual to a POC stage (backend and data-science)
+## Current Role
+### AI Consulting, Scientific Research and Prototyping
+Implementation of reinforcement learning framework for autonomous navigation and locomotion
+- Computer-vision, neural networks, neuroevolution
+- Nov. 2020 to present
 
 ## Education
-
 ### Ph.D. in Physics - TU Wien, Austria (2016 - 2020)
 Thesis:  <a class="" target='blank' href="https://repositum.tuwien.at/handle/20.500.12708/16374">*Confinement-Driven Self-Assembly Charged Particles*</a>
 

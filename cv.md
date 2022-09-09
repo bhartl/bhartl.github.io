@@ -1,5 +1,5 @@
 ## Current Role: *AI Consulting and Prototyping (Freelancer, Remote)*
-### Projects
+Projects:
 - Reinforcement learning framework for autonomous navigation (computer-vision, neural networks)
 - Bio-feedback software framework to synchronously gather, analyze, and control bio-sensory data (synchronous hardware interfacing)
 - Multi-camera solution for optimal reflection-cancellation in marine environments (optics, hardware, software)

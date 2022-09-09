@@ -1,6 +1,4 @@
-## Publications & Events
-
-### Journal
+## Journal Publications
 
 <u>B. Hartl</u>, M. Mihalkovič, L. Šamaj, M. Mazars, E. Trizac, and G. Kahl,<br>
 <i>"Ordered ground state configurations of the asymmetric Wigner bilayer system – revisited: an unsupervised
@@ -22,16 +20,6 @@ D. O. Krimer\*, <u>B. Hartl</u>\*, F. Mintert, and S. Rotter, <i style="font-siz
 D.O. Krimer, B. Hartl, and S. Rotter,<br>
 <i>"Hybrid Quantum Systems with Collectively Coupled Spin States: Suppression of Decoherence through Spectral Hole Burning"</i>,
 <a target="_blank" href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.033601"><i>Physical Reveview Letters</i> <b>115</b>, 033601 (2015)</a><br>
-
-### Media Outreach
-  - Sub auspiciis doctoral graduation, 26.01.2022 
-    (<a target="_blank" href="https://www.tuwien.at/tu-wien/aktuelles/news/news/sub-auspiciis-promotionen-am-26-jaenner-2022-an-der-tu-wien">TU Wien News</a>, 
-     <a target="_blank" href="http://www.itp.tuwien.ac.at/index.php/News#Benedikt_Hartl_-_sub_auspiciis_Promotionen_am_26._J.C3.A4nner_2022_an_der_TU_Wien">ITP News</a>,
-  <a target="_blank" href="https://orf.at/stories/3245159/">ORF</a>)
-  - <a target="_blank" href="http://www.itp.tuwien.ac.at/index.php/News#Wie_man_als_Einzeller_ans_Ziel_gelangt">Wie man als Einzeller ans Ziel gelangt</a> (<i>Reaching your life goals as a single-celled organism</i>), see <a href="https://pnas.altmetric.com/details/99159598/news" target="_blank">entire media coverage</a>
-  - <a target="_blank" href="http://www.itp.tuwien.ac.at/index.php/News#Wie_Molek.C3.BCle_Mosaike_bilden">Wie Moleküle Mosaike bilden</a> (<i>How molecules form mosaics</i>)
-  - derStandard user-foto of the week #5: <a target="_blank" href="https://www.derstandard.at/story/2000108551041/userfotos-schicken-sie-ihr-foto-der-woche">"Love breaks walls"</a>
-  - <a target="_blank" href="https://stipendien.oeaw.ac.at/aktuell/veranstaltungen/detail/feierliche-stipendienverleihung-2017">DOC fellowship ceremony 2017</a>
   
 ## Conferences and Events
 - <i>IJCAI-ECAI</i>, Vienna, Austria (2022)
@@ -44,6 +32,16 @@ D.O. Krimer, B. Hartl, and S. Rotter,<br>
 - Talk: <i>Interfacing Machine Learning and Experimental Methods</i>, Graz, Austria (2018)
 - Poster: <i>From Electrons to Phase Transitions – A ViCoM Conference</i>, Vienna, Austria (2018)
 - Poster: <i>10th Liquid Matter Conference</i>, Ljubljana, Slovenia (2017)
+
+## Media Outreach
+  - Sub auspiciis doctoral graduation, 26.01.2022 
+    (<a target="_blank" href="https://www.tuwien.at/tu-wien/aktuelles/news/news/sub-auspiciis-promotionen-am-26-jaenner-2022-an-der-tu-wien">TU Wien News</a>, 
+     <a target="_blank" href="http://www.itp.tuwien.ac.at/index.php/News#Benedikt_Hartl_-_sub_auspiciis_Promotionen_am_26._J.C3.A4nner_2022_an_der_TU_Wien">ITP News</a>,
+  <a target="_blank" href="https://orf.at/stories/3245159/">ORF</a>)
+  - <a target="_blank" href="http://www.itp.tuwien.ac.at/index.php/News#Wie_man_als_Einzeller_ans_Ziel_gelangt">Wie man als Einzeller ans Ziel gelangt</a> (<i>Reaching your life goals as a single-celled organism</i>), see <a href="https://pnas.altmetric.com/details/99159598/news" target="_blank">entire media coverage</a>
+  - <a target="_blank" href="http://www.itp.tuwien.ac.at/index.php/News#Wie_Molek.C3.BCle_Mosaike_bilden">Wie Moleküle Mosaike bilden</a> (<i>How molecules form mosaics</i>)
+  - derStandard user-foto of the week #5: <a target="_blank" href="https://www.derstandard.at/story/2000108551041/userfotos-schicken-sie-ihr-foto-der-woche">"Love breaks walls"</a>
+  - <a target="_blank" href="https://stipendien.oeaw.ac.at/aktuell/veranstaltungen/detail/feierliche-stipendienverleihung-2017">DOC fellowship ceremony 2017</a>
 
 ## Other Literature
 ### Some Good Reads

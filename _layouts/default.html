@@ -81,9 +81,13 @@
 		<a target='_blank' href="http://smt.tuwien.ac.at/people/hartl/"><img class="thmbnl" src="/img/TU-Wien.png" alt="Soft Matter Theory @ TU Wien"></a>
 	</div>
         {% if site.github.is_project_page %}
-        <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
+        <p class="copyright">
+		{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>. 
+		Published with <a href="https://pages.github.com">GitHub Pages</a>.
+	</p>
+	{% else %}
         <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
+        {% endif %}
       </footer>
     </div>
   </body>

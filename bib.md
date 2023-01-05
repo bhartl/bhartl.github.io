@@ -3,7 +3,7 @@
 <u>B. Hartl</u>, M. Mihalkovič, L. Šamaj, M. Mazars, E. Trizac, and G. Kahl,<br>
 <i>"Ordered ground state configurations of the asymmetric Wigner bilayer system – revisited: an unsupervised
 clustering algorithm analysis"</i>,
-submitted to <a target="_blank" href="https://aip.scitation.org/journal/jcp">Journal of Chemical Theory and Computation</a> (2022)<br>, <a target="_blank" href="https://arxiv.org/abs/2211.04985">arXiv:2211.04985</a>
+submitted to <a target="_blank" href="https://aip.scitation.org/journal/jcp">Journal of Chemical Theory and Computation</a> (2022) <a target="_blank" href="https://arxiv.org/abs/2211.04985">arXiv:2211.04985</a><br>,
 
 <u>B. Hartl</u>, M. Hübl, G. Kahl, and A. Zöttl,<br>
 <i>"Microswimmers learning chemotaxis with genetic algorithms"</i>,

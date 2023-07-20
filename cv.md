@@ -1,8 +1,6 @@
 ## Current Role
-### AI Consulting, Scientific Research and Prototyping
-I'm implementation a reinforcement learning framework for autonomous navigation and locomotion
-- Computer-vision, neural networks, neuroevolution
-- Nov. 2020 to present
+### Independent Postdoctoral Researcher in AI and NeuroEvolution in collaboration with LevinLab @ Tufts University, Boston, USA
+- Jan. 2023 to present
 
 ## Education
 ### Ph.D. in Physics - TU Wien, Austria (2016 - 2020)
@@ -29,8 +27,8 @@ High School for IT and Computer Science
 
 ## Work History
 
-### AI Consulting and Prototyping - Freelancer, Remote
-November 2020 to Present
+### AI Consulting, Machine Learning Engineering, and Prototyping - Freelancer, Remote
+November 2020 to Dec. 2022
 
 #### Projects
 - Reinforcement learning framework for autonomous navigation (computer-vision, neural networks)
@@ -40,7 +38,7 @@ November 2020 to Present
 Advanced projects from the conceptual to a POC stage (backend and data-science)
 
 ### Independent Postdoctoral Researcher - TU Wien, Austria
-November 2020 to Present
+November 2020 to 
 
 - [Reinforcement learning of decision-making strategies of cells](https://www.pnas.org/content/118/19/e2019683118)
 - Confinement-driven self-assembly (three publications in progress)

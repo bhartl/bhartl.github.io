@@ -28,6 +28,9 @@
 - <i>Physical Reveview Letters</i> <b>115</b>, 033601
 
 ## Conferences and Events
+- 2Talks, 1Poster: <i>European Colloid and Interface Society Conference</i>, Copenhagen, Denmark (2024)
+- Talk: <i>Austrian-Slovenian HPC Meeting</i>, Bad Aussee, Austria (2024)
+- <i>ICML</i>, Honolulu, Hawaii, USA (2023)
 - <i>IJCAI-ECAI</i>, Vienna, Austria (2022)
 - Talk & Poster: <i>11th Liquid Matter Conference</i>, Prague, Czech Republic (2020/2021)
 - <i>VDSP-ESI Winter School 2020 on Machine Learning in Physics</i>, Vienna, Austria (2020)

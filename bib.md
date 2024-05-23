@@ -1,9 +1,12 @@
 ## Journal Publications
 
+<u>B. Hartl</u>, S. Risi, M. Levin,<br>
+<i>"Evolutionary Implications of Multi-Scale Intelligence"</i>,
+under minor-revision at <a target="_blank" href="https://www.mdpi.com/journal/entropy">Entropy</a> (2024), <a target="_blank" href="https://doi.org/10.31219/osf.io/sp9kf">OSF Preprint</a>,<br>
+
 <u>B. Hartl</u>, M. Mihalkovič, L. Šamaj, M. Mazars, E. Trizac, and G. Kahl,<br>
-<i>"Ordered ground state configurations of the asymmetric Wigner bilayer system – revisited: an unsupervised
-clustering algorithm analysis"</i>,
-submitted to the <a target="_blank" href="https://aip.scitation.org/journal/jcp">Journal of Chemical Physics</a> (2022) <a target="_blank" href="https://arxiv.org/abs/2211.04985">arXiv:2211.04985</a>,<br>
+<i>"Ordered ground state configurations of the asymmetric Wigner bilayer system – revisited: an unsupervised clustering algorithm analysis"</i>,
+<a target="_blank" href="https://doi.org/10.1063/5.0166822">The <i>Journal of Chemical Physics</i> <b>159</b>, 204112 (2023)</a>, <a target="_blank" href="https://arxiv.org/abs/2211.04985">arXiv:2211.04985</a>,<br>
 
 <u>B. Hartl</u>, M. Hübl, G. Kahl, and A. Zöttl,<br>
 <i>"Microswimmers learning chemotaxis with genetic algorithms"</i>,

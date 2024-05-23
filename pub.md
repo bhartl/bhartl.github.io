@@ -10,20 +10,20 @@
 - <u>B. Hartl</u>, M. Mihalkovič, L. Šamaj, M. Mazars, E. Trizac, and G. Kahl
 - _The Journal of Chemical Physics_ **159**, 204112 (2023), see [arXiv:2211.04985](https://arxiv.org/abs/2211.04985v2)
 
-### [Microswimmers learning chemotaxis with genetic algorithms](https://www.pnas.org/doi/10.1073/pnas.2019683118)
+#### [Microswimmers learning chemotaxis with genetic algorithms](https://www.pnas.org/doi/10.1073/pnas.2019683118)
 - <u>B. Hartl</u>, M. Hübl, G. Kahl, A. Zöttl
 - <i>The Proceedings of the National Academy of Sciences</i> <b>118</b> (19) e2019683118 (2021), see [arXiv:2101.12258](https://arxiv.org/abs/2101.12258)
 
-### [Reliable Computational Prediction of the Supramolecular Ordering of Complex Molecules under Electrochemical Conditions](https://pubs.acs.org/doi/10.1021/acs.jctc.9b01251)
+#### [Reliable Computational Prediction of the Supramolecular Ordering of Complex Molecules under Electrochemical Conditions](https://pubs.acs.org/doi/10.1021/acs.jctc.9b01251)
 - <u>B. Hartl</u>, S. Sharma, O. Brügner, S.F.L. Mertens, M.Walter, and G. Kahl,
 - The <i>Journal of Chemical Theory and Computation</i> <b>16</b> (8), 5227-5243 (2020), see [arxiv:1912.07397](https://arxiv.org/abs/1912.07397)
 
-### [Optimal control of non-Markovian dynamics in a single-mode cavity strongly coupled to an inhomogeneously broadened spin ensemble](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.96.043837)
+#### [Optimal control of non-Markovian dynamics in a single-mode cavity strongly coupled to an inhomogeneously broadened spin ensemble](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.96.043837)
 - D. O. Krimer*, <u>B. Hartl</u>*, F. Mintert, and S. Rotter
 - <i>Physical Review A</i> <b>96</b>, 043837 – Published 16 October 2017
 - <i>(* authors contributed equally)</i>
 
-### [Hybrid Quantum Systems with Collectively Coupled Spin States: Suppression of Decoherence through Spectral Hole Burning](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.033601)
+#### [Hybrid Quantum Systems with Collectively Coupled Spin States: Suppression of Decoherence through Spectral Hole Burning](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.033601)
 - D.O. Krimer, B. Hartl, and S. Rotter
 - <i>Physical Reveview Letters</i> <b>115</b>, 033601
 

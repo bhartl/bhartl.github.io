@@ -34,7 +34,7 @@ High School for IT and Computer Science
 
 ## Work History
 
-### AI Consulting, Machine Learning Engineering, and Prototyping - Freelancer, Remote
+### AI Consulting and Machine Learning Manager - Freelancer, Remote
 November 2020 to Dec. 2022
 
 #### Projects

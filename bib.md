@@ -61,7 +61,7 @@ D.O. Krimer, B. Hartl, and S. Rotter,<br>
 - [*Neural networks and deep learning*](http://neuralnetworksanddeeplearning.com/) by *Michael Nielsen*
 - [*Generative Deep Learning*](https://www.oreilly.com/library/view/generative-deep-learning/9781492041931/) by *David Foster*
 - [*Reinforcement Learning: An Introduction*](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) by *Richard S. Sutton* and *Andrew G. Barto*
-- [*A high-bias, low-variance introduction to Machine Learning for physicists*](https://www.sciencedirect.com/science/article/pii/S0370157319300766?via%3Dihub#!) by *P. Mehta* et al.
+- [*A high-bias, low-variance introduction to Machine Learning for physicists*](https://www.sciencedirect.com/science/article/pii/S0370157319300766?via%3Dihub#!) by *P. Mehta* et al
 
 ### Blogs and Blog-Posts
 - [*David Ha's Blog*](https://blog.otoro.net/) - Great stuff about evolutionary strategies in AI
@@ -72,6 +72,6 @@ D.O. Krimer, B. Hartl, and S. Rotter,<br>
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) by *Jay Alammar*
 
 ### Channels and Lectures
-- [*Michael Levin's Academic Content*]() - Mindblowing stuff
+- [*Michael Levin's Academic Content*](https://www.youtube.com/channel/UC3pVafx6EZqXVI2V_Efu2uw) - Mindblowing stuff
 - [*Yannic Kilcher's Channel*](https://www.youtube.com/c/YannicKilcher) - Awesome communication of ML literature
 - [*Machine Learning for Physicists*](https://machine-learning-for-physicists.org/) by *Florian Marquardt*

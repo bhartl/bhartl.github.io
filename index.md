@@ -17,7 +17,7 @@ Currently, my research is focused on the <a class="" target='blank' href="https:
 
 Further, I investigate how ideas from developmental biology, biophysics, and tools from [_Artificial Life_](https://en.wikipedia.org/wiki/Artificial_life) (specifically Neural Cellular Automata and neuroevolution) gear into each other and can be tuned into [decentralized decision-making policies for robust autonomous navigation strategies for virtual, _in-silico_ microswimmers](https://doi.org/10.48550/arXiv.2407.09438), or facilitate physiological computation in soft-matter systems.
 
-Through this, I aim to further the understanding of learning, cognition, and (biological & artificial) intelligence as a collective, scale-free phenomenon and thus shed new light on fundamental biological processes [at the edge between order and chaos](https://www.youtube.com/watch?v=hjGFp7lMi9A) such as computation, intelligence, and evolution.
+Through this, I aim to further the understanding of learning, cognition, and (biological & artificial) intelligence as a collective, scale-free phenomenon and thus shed new light on fundamental biological processes [at the edge of order and chaos](https://www.youtube.com/watch?v=hjGFp7lMi9A) such as computation, intelligence, and evolution.
 
 <p align="justify">
   I am a passionate learner, a creative interdisciplinary researcher, and AI and technology enthusiast.

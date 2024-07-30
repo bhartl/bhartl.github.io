@@ -20,5 +20,5 @@ Further, I investigate how ideas from developmental biology, biophysics, and too
 Through this, I aim to further the understanding of learning, cognition, and (biological & artificial) intelligence as a collective, scale-free phenomenon and thus shed new light on fundamental biological processes such as computation, intelligence, and evolution [at the edge of order and chaos](https://www.youtube.com/watch?v=hjGFp7lMi9A).
 
 <p align="justify">
-  I am a passionate learner, a creative interdisciplinary researcher, and AI and technology enthusiast.
+  I am a passionate learner, a creative interdisciplinary scientific researcher, and AI, technology, and - most recently - a biology enthusiast.
 </p>

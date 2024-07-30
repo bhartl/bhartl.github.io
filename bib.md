@@ -62,7 +62,7 @@ D.O. Krimer, B. Hartl, and S. Rotter,<br>
 - [*Generative Deep Learning*](https://www.oreilly.com/library/view/generative-deep-learning/9781492041931/) by *David Foster*
 - [*Reinforcement Learning: An Introduction*](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) by *Richard S. Sutton* and *Andrew G. Barto*
 - [*A high-bias, low-variance introduction to Machine Learning for physicists*](https://www.sciencedirect.com/science/article/pii/S0370157319300766?via%3Dihub#!) by *P. Mehta* et al
-- _The Book of Why: The New Science of Cause and Effect_ by J. Pearl and D. Mackenzie
+- [_The Book of Why: The New Science of Cause and Effect_](https://www.science.org/doi/10.1126/science.aau9731) by J. Pearl and D. Mackenzie
 - [_Technological Approach to Mind Everywhere: An Experimentally-Grounded Framework for Understanding Diverse Bodies and Minds_](https://doi.org/10.3389/fnsys.2022.768201 ) by _M. Levin_
 - [_Darwin's agential materials: evolutionary implications of multiscale competency in developmental biology_](https://doi.org/10.1007/s00018-023-04790-z) by _M. Levin_
 

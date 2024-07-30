@@ -1,12 +1,13 @@
-## Current Role
+## Current Research
 ### Independent Postdoctoral Researcher in Bio- and Physics-Inspired Artificial Intelligence
 #### Affiliations:
 - _Institute for Theoretical Physics and Center for Material Science at the Wien, Vienna, Austria, since 2020_
 - _Allen Discovery Center at Tufts University, Boston, USA, since 2023_
 #### Research Topics:
-- Confinement-Driven Self-Assembly
-- Collective Decision-Making in Cellular Navigation
-- Evolutionary Implications of Multiscale Intelligence
+- [Confinement-Driven Self-Assembly](https://repositum.tuwien.at/handle/20.500.12708/16374)
+- [Reinforcement Learning and Neuroevolution of Decision-Making Strategies of Cells](https://www.pnas.org/content/118/19/e2019683118)
+- [Collective Decision-Making in Cellular Navigation](https://doi.org/10.48550/arXiv.2407.09438)
+- [Evolutionary Implications of Multiscale Intelligence](https://www.mdpi.com/1099-4300/26/7/532)
 - Unifying Principles in Diverse Intelligences
 
 ## Education
@@ -44,19 +45,13 @@ November 2020 to Dec. 2022
 
 Advanced projects from the conceptual to a POC stage (backend and data-science)
 
-### Independent Postdoctoral Researcher - TU Wien, Austria
-November 2020 to 
-
-- [Reinforcement learning of decision-making strategies of cells](https://www.pnas.org/content/118/19/e2019683118)
-- Confinement-driven self-assembly (three publications in progress)
-- Co-supervised master's thesis: [A neural network approach to micro-swimmer locomotion](https://repositum.tuwien.at/handle/20.500.12708/16476), M. Hübl (2021)
-
 ### Researcher (Pre-doc) - TU Wien, Austria
 October 2016 to November 2020
 
 - Dissertation: [Confinement-driven self-assembly of charged particles](https://repositum.tuwien.at/handle/20.500.12708/16374)
-- Co-supervised master's thesis: [Self-assembly of ionic liquid crystals into smectic phases](https://repositum.tuwien.at/handle/20.500.12708/1471), R. Wanzenböck (2020)
 - Promotio <a target="_blank" href="https://en.wikipedia.org/wiki/Sub_auspiciis_Praesidentis">*sub auspiciis Praesidentis*</a> 2022 (i.e., graduated with distinction since high-school)
+- Co-supervised master's thesis: [Self-assembly of ionic liquid crystals into smectic phases](https://repositum.tuwien.at/handle/20.500.12708/1471), R. Wanzenböck (2020)
+- Co-supervised master's thesis: [A neural network approach to micro-swimmer locomotion](https://repositum.tuwien.at/handle/20.500.12708/16476), M. Hübl (2021)
 
 ### FWF Project Assistant - TU Wien, Austria
 July 2016 to August 2016

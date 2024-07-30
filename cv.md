@@ -1,6 +1,13 @@
 ## Current Role
-### Independent Postdoctoral Researcher in AI and NeuroEvolution in collaboration with LevinLab @ Tufts University, Boston, USA
-- Jan. 2023 to present
+### Independent Postdoctoral Researcher in Bio- and Physics-Inspired Artificial Intelligence
+#### Affiliations:
+- _Institute for Theoretical Physics and Center for Material Science at the Wien, Vienna, Austria, since 2020_
+- _Allen Discovery Center at Tufts University, Boston, USA, since 2023_
+#### Research Topics:
+- Confinement-Driven Self-Assembly
+- Collective Decision-Making in Cellular Navigation
+- Evolutionary Implications of Multiscale Intelligence
+- Unifying Principles in Diverse Intelligences
 
 ## Education
 ### Ph.D. in Physics - TU Wien, Austria (2016 - 2020)

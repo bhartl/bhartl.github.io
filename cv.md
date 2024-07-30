@@ -10,6 +10,15 @@
 - [Evolutionary Implications of Multiscale Intelligence](https://www.mdpi.com/1099-4300/26/7/532)
 - Unifying Principles in Diverse Intelligences
 
+## Awards
+- APART-MINT Postdoctoral Stipend, Austrian Academy of Sciences (2023)
+- <a class="" target='blank' href="https://en.wikipedia.org/wiki/Sub_auspiciis_Praesidentis"><i>Promotio sub auspiciis Praesidentis</i></a> (2022)
+- Christiana Hörbiger Prize, TU Wien (2018)
+- DOC Fellowship, Austrian Academy of Sciences (2017)
+- Förderstipendium for excellence at the TU Wien (2016)
+- Award of Excellence of the TU Wien (2012, 2013, 2014)
+- Award of Excellence of the Faculty of Physics, TU Wien (2012, 2013)
+
 ## Education
 ### Ph.D. in Physics - TU Wien, Austria (2016 - 2020)
 Thesis:  <a class="" target='blank' href="https://repositum.tuwien.at/handle/20.500.12708/16374">*Confinement-Driven Self-Assembly Charged Particles*</a>
@@ -98,11 +107,3 @@ Implementation of web interface for inventory database and network monitoring sy
 - English (fluent)
 - Bosnian and Serbian-Croatian (A2)
 - Sign-Language (basics)
-
-## Awards
-- Promotio sub auspiciis Praesidentis (2022)
-- Christiana Hörbiger Prize, TU Wien (2018)
-- DOC Fellowship, Austrian Academy of Sciences (2017)
-- Förderstipendium for excellence at the TU Wien (2016)
-- Award of excellence of the TU Wien (2012, 2013, 2014)
-- Award of excellence of the Faculty of Physics, TU Wien (2012, 2013)

@@ -7,10 +7,11 @@
 </p>
 
 <p align="justify">
-  My experience helped me to conduct cutting edge scientific research in 
+  During my studies at the TU Wien (from BSc to PhD), I worked on a variety of topics such as
   <a class="" target='blank' href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.033601">quantum optics</a>, 
   <a class="" target='blank' href="https://pubs.acs.org/doi/abs/10.1021/acs.jctc.9b01251">computational materials science</a>, and
-  <a class="" target='blank' href="https://www.pnas.org/content/118/19/e2019683118">reinforcement learning of decision-making strategies of cells</a>. 
+  <a class="" target='blank' href="https://www.pnas.org/content/118/19/e2019683118">reinforcement learning of decision-making strategies of cells</a>.
+  After my PhD, my experience helped me conduct cutting-edge research with industrial partners in robust, biologically inspired autonomous navigation in maritime environments.
 
 Currently, my research is focused on the <a class="" target='blank' href="https://doi.org/10.3390/e26070532">Evolutionary Implications of Self-Assembling Cybernetic Materials with Collective Problem-Solving Intelligence at Multiple Scales</a>. To this end, I utilize cutting-edge multi-agent-based machine learning techniques to model and train multi-scale competency architectures that represent the foundation of biology: we deploy swarms of virtual, adaptive, communicating agents that implement a minimal model for morphogenesis of multi-cellular tissue based on individual decision-making, and we investigate how evolutionary processes and connectionist approaches operate on such hierarchical agential- rather than passive materials.
 

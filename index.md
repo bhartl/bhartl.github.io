@@ -19,7 +19,7 @@ Currently, my research is focused on the <a class="" target='blank' href="https:
 </p>
 
 <p align="justify">
-Further, I investigate how ideas from developmental biology, biophysics, and tools from <a class="" target='blank' href="https://en.wikipedia.org/wiki/Artificial_life">Artificial Life</a> (specifically Neural Cellular Automata and neuroevolution) gear into each other and can be tuned into <a class="" target='blank' href="https://doi.org/10.48550/arXiv.2407.09438">decentralized decision-making policies for robust autonomous navigation strategies for virtual, in-silico microswimmers</a>, or facilitate physiological computation in soft-matter systems.
+Further, I investigate how ideas from developmental biology, biophysics, and tools from <a class="" target='blank' href="https://en.wikipedia.org/wiki/Artificial_life">Artificial Life</a> (specifically <a class="" target='blank' href="https://distill.pub/2020/growing-ca/">Neural Cellular Automata</a> and neuroevolution) gear into each other and can be tuned into <a class="" target='blank' href="https://doi.org/10.48550/arXiv.2407.09438">decentralized decision-making policies for robust autonomous navigation strategies for virtual, in-silico microswimmers</a>, or facilitate physiological computation in soft-matter systems.
 </p>
 
 <p align="justify">

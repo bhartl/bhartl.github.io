@@ -1,11 +1,11 @@
 ## Projects
 #### Research Topics:
-- [Confinement-Driven Self-Assembly](https://repositum.tuwien.at/handle/20.500.12708/16374)
-- [Reinforcement Learning and Neuroevolution of Decision-Making Strategies of Cells](https://www.pnas.org/content/118/19/e2019683118)
-- [Collective Decision-Making in Cellular Navigation](https://doi.org/10.48550/arXiv.2407.09438)
 - [Evolutionary Implications of Multiscale Intelligence](https://www.mdpi.com/1099-4300/26/7/532)
-- Unifying Principles in Diverse Intelligences
-- 
+- [Collective Decision-Making in Cellular Navigation](https://doi.org/10.48550/arXiv.2407.09438)
+- [Unifying Principles in Diverse Intelligences](https://doi.org/10.3389%2Ffnsys.2022.768201)
+- [Reinforcement Learning and Neuroevolution of Decision-Making Strategies of Cells](https://www.pnas.org/content/118/19/e2019683118)
+- [Confinement-Driven Self-Assembly](https://repositum.tuwien.at/handle/20.500.12708/16374)
+
 ### Frameworks
 - *mindcraft*: a modular reinforcement learning framework for robust and interpretable autonomous navigation
 - *bio-feedback*: a framework to synchronously gather, process, and control bio-sensory data

@@ -1,7 +1,13 @@
 ## Journal Publications
 Y. Zhang\*, <u>B. Hartl</u>\*, H. Hazan\*, M. Levin, <i style="font-size:10px;">(\* authors contributed equally)</i><br>
 <i>"Diffusion Models are Evolutionary Algorithms"</i>,
-<a target="_blank" href="https://arxiv.org/abs/2410.02543">arXiv.2407.09438</a>, under review (2024),<br>
+<a target="_blank" href="https://arxiv.org/abs/2410.02543">arXiv.2407.09438</a>, under review (2024).
+Audio versions: 
+<a  target="_blank" href="https://papersread.ai/e/diffusion-models-are-evolutionary-algorithms/">papersread.ai</a>,
+<a  target="_blank" href="https://podcasts.google.com/feed/aHR0cHM6Ly9wYXBlcnNyZWFkLmFpL2ZlZWQueG1s">google podcasts</a>,
+<a  target="_blank" href="https://podcasts.apple.com/us/podcast/papers-read-on-ai/id1577699357">apple podcasts</a>,
+<a  target="_blank" href="https://open.spotify.com/show/2w8DRieJhMGFSTUhnsTVrw">spotify</a>.
+<br>
 
 <u>B. Hartl</u>, M. Levin, A. Zöttl<br>
 <i>"Neuroevolution of Decentralized Decision-Making in N-Bead Swimmers Leads to Scalable and Robust Collective Locomotion"</i>,

@@ -4,7 +4,8 @@ Y. Zhang\*, <u>B. Hartl</u>\*, H. Hazan\*, M. Levin, <i style="font-size:10px;">
 <a target="_blank" href="https://arxiv.org/abs/2410.02543">arXiv.2407.09438</a>, under review (2024).
 Audio versions: 
 <a  target="_blank" href="https://papersread.ai/e/diffusion-models-are-evolutionary-algorithms/">papersread.ai</a>,
-<a  target="_blank" href="https://podcasts.apple.com/us/podcast/diffusion-models-are-evolutionary-algorithms/id1577699357?i=1000672509297">apple podcasts</a>.
+<a  target="_blank" href="https://podcasts.apple.com/us/podcast/diffusion-models-are-evolutionary-algorithms/id1577699357?i=1000672509297">apple podcasts</a>,
+<a  target="_blank" href="https://open.spotify.com/episode/6udxqGxI0wuxlcZoIt3TTa">open spotify</a>.
 <br>
 
 <u>B. Hartl</u>, M. Levin, A. Zöttl<br>

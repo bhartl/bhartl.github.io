@@ -1,8 +1,18 @@
 ## Journal Publications
+<u>B. Hartl</u>\*, Y. Zhang\*, H. Hazan\*, M. Levin, <i style="font-size:10px;">(\* authors contributed equally)</i><br>
+<i>"Heuristically Adaptive Diffusion-Model Evolutionary Strategy"</i>,
+<a target="_blank" href="https://arxiv.org/abs/2411.13420">arXiv.2411.13420</a>.
+<br>
+
 Y. Zhang\*, <u>B. Hartl</u>\*, H. Hazan\*, M. Levin, <i style="font-size:10px;">(\* authors contributed equally)</i><br>
 <i>"Diffusion Models are Evolutionary Algorithms"</i>,
 <a target="_blank" href="https://arxiv.org/abs/2410.02543">arXiv.2407.09438</a>, under review (2024).
-Audio versions: 
+_Tweets_:
+<a  target="_blank" href="https://x.com/YanboZhang3/status/1843134007892176995">Paper Tweet</a>
+<a  target="_blank" href="https://t.co/5cMqjf1Si4">Discussion by Carlos E. Perez</a>
+_Blog posts_:
+<a  target="_blank" href="https://gonzoml.substack.com/p/diffusion-models-are-evolutionary">Gonzo ML@substack</a>,
+_Audio readings_: 
 <a  target="_blank" href="https://papersread.ai/e/diffusion-models-are-evolutionary-algorithms/">papersread.ai</a>,
 <a  target="_blank" href="https://podcasts.apple.com/us/podcast/diffusion-models-are-evolutionary-algorithms/id1577699357?i=1000672509297">apple podcasts</a>,
 <a  target="_blank" href="https://open.spotify.com/episode/6udxqGxI0wuxlcZoIt3TTa">open spotify</a>.

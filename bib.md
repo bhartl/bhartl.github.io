@@ -1,7 +1,7 @@
 ## Journal Publications
 <u>B. Hartl</u>\*, Y. Zhang\*, H. Hazan\*, M. Levin, <i style="font-size:10px;">(\* authors contributed equally)</i><br>
 <i>"Heuristically Adaptive Diffusion-Model Evolutionary Strategy"</i>,
-<a target="_blank" href="https://arxiv.org/abs/2411.13420">arXiv.2411.13420</a>, pre-print (2024).
+<a target="_blank" href="https://arxiv.org/abs/2411.13420">arXiv.2411.13420</a> (2024).
 <br>
 
 Y. Zhang\*, <u>B. Hartl</u>\*, H. Hazan\*, M. Levin, <i style="font-size:10px;">(\* authors contributed equally)</i><br>

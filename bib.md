@@ -9,7 +9,7 @@ Y. Zhang\*, <u>B. Hartl</u>\*, H. Hazan\*, M. Levin, <i style="font-size:10px;">
 <a target="_blank" href="https://arxiv.org/abs/2410.02543">arXiv.2407.09438</a>, under review (2024).
 <br>
 _Tweets_:
-<a  target="_blank" href="https://x.com/YanboZhang3/status/1843134007892176995">Paper Tweet</a>
+<a  target="_blank" href="https://x.com/YanboZhang3/status/1843134007892176995">Paper Tweet</a>,
 <a  target="_blank" href="https://t.co/5cMqjf1Si4">Discussion by Carlos E. Perez</a>
 <br>
 _Blog posts_:

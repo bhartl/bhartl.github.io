@@ -13,7 +13,7 @@ _Posts_:
 <a  target="_blank" href="https://gonzoml.substack.com/p/diffusion-models-are-evolutionary">Gonzo ML@substack</a>,
 <br>
 _Audio_: 
-<a  target="_blank" href="https://youtu.be/Dh9gtg6N79U?si=kBcBnkcUO1PAiiGP">Discussion by Carlos E. Perez</a>
+<a  target="_blank" href="https://youtu.be/Dh9gtg6N79U?si=kBcBnkcUO1PAiiGP">Discussion by Carlos E. Perez</a>,
 <a  target="_blank" href="https://papersread.ai/e/diffusion-models-are-evolutionary-algorithms/">papersread.ai</a>,
 <a  target="_blank" href="https://podcasts.apple.com/us/podcast/diffusion-models-are-evolutionary-algorithms/id1577699357?i=1000672509297">apple podcasts</a>,
 <a  target="_blank" href="https://open.spotify.com/episode/6udxqGxI0wuxlcZoIt3TTa">open spotify</a>.

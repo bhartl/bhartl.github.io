@@ -1,4 +1,9 @@
 ## Journal Publications
+L. Pio-Lopez\*, <u>B. Hartl</u>\*, M. Levin, <i style="font-size:10px;">(\* authors contributed equally)</i><br>
+<i>"Aging as a Loss of Goal-Directedness: An Evolutionary Simulation"</i>,
+<a target="_blank" href="https://www.preprints.org/manuscript/202412.2354/v1">DOI:10.20944/preprints202412.2354</a> (2024).
+<br>
+
 <u>B. Hartl</u>\*, Y. Zhang\*, H. Hazan\*, M. Levin, <i style="font-size:10px;">(\* authors contributed equally)</i><br>
 <i>"Heuristically Adaptive Diffusion-Model Evolutionary Strategy"</i>,
 <a target="_blank" href="https://arxiv.org/abs/2411.13420">arXiv.2411.13420</a> (2024).

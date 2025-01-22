@@ -1,4 +1,7 @@
 ## Journal Publications
+<u>B. Hartl</u>, M. Levin <i>"What does evolution make? Learning in living lineages and machines"</i> Preprint <a target="_blank" href="https://osf.io/r8z7c/">doi.org/10.31219/osf.io/r8z7c</a> (2025).
+<br>
+
 L. Pio-Lopez\*, <u>B. Hartl</u>\*, M. Levin, <i style="font-size:10px;">(\* authors contributed equally)</i><br>
 <i>"Aging as a Loss of Goal-Directedness: An Evolutionary Simulation"</i>,
 <a target="_blank" href="https://www.preprints.org/manuscript/202412.2354/v1">DOI:10.20944/preprints202412.2354</a> (2024).

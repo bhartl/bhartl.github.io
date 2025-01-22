@@ -33,7 +33,7 @@ _Audio_:
 
 <u>B. Hartl</u>, M. Levin, A. Zöttl<br>
 <i>"Neuroevolution of Decentralized Decision-Making in N-Bead Swimmers Leads to Scalable and Robust Collective Locomotion"</i>,
-<a target="_blank" href="https://doi.org/10.48550/arXiv.2407.09438">arXiv:2407.09438</a>, under review (2024),<br>
+<a target="_blank" href="https://doi.org/10.48550/arXiv.2407.09438">arXiv:2407.09438</a>, in revision (2024),<br>
 
 <u>B. Hartl</u>, S. Risi, M. Levin,<br>
 <i>"Evolutionary Implications of Self-Assembling Cybernetic Materials with Collective Problem-Solving Intelligence at Multiple Scales"</i>,

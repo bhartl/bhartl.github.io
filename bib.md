@@ -1,5 +1,7 @@
 ## Journal Publications
-<u>B. Hartl</u>, M. Levin, <i>"What does evolution make? Learning in living lineages and machines"</i>, Preprint <a target="_blank" href="https://osf.io/r8z7c/">doi.org/10.31219/osf.io/r8z7c</a> (2025).
+<u>B. Hartl</u>, M. Levin, <br>
+<i>"What does evolution make? Learning in living lineages and machines"</i>, 
+Preprint <a target="_blank" href="https://osf.io/r8z7c/">doi.org/10.31219/osf.io/r8z7c</a> (2025).
 <br>
 
 L. Pio-Lopez\*, <u>B. Hartl</u>\*, M. Levin, <i style="font-size:10px;">(\* authors contributed equally)</i><br>
@@ -14,7 +16,8 @@ L. Pio-Lopez\*, <u>B. Hartl</u>\*, M. Levin, <i style="font-size:10px;">(\* auth
 
 Y. Zhang\*, <u>B. Hartl</u>\*, H. Hazan\*, M. Levin, <i style="font-size:10px;">(\* authors contributed equally)</i><br>
 <i>"Diffusion Models are Evolutionary Algorithms"</i>,
-<a target="_blank" href="https://openreview.net/forum?id=xVefsBbG2O">in preceedings of the ICLR (2025)</a>, also see
+<a target="_blank" href="https://openreview.net/forum?id=xVefsBbG2O">in preceedings of the ICLR (2025)</a>, 
+also see
 <a target="_blank" href="https://arxiv.org/abs/2410.02543">arXiv.2407.09438</a> (2024).
 <br>
 _Posts_:

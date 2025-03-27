@@ -46,7 +46,9 @@ _Audio_:
 
 <u>B. Hartl</u>, M. Hübl, G. Kahl, and A. Zöttl,<br>
 <i>"Microswimmers learning chemotaxis with genetic algorithms"</i>,
-<a target="_blank" href="https://www.pnas.org/doi/10.1073/pnas.2019683118"><i>The Proceedings of the National Academy of Sciences</i> <b>118</b> (19) e2019683118 (2021)</a><br>
+<a target="_blank" href="https://www.pnas.org/doi/10.1073/pnas.2019683118"><i>The Proceedings of the National Academy of Sciences</i> <b>118</b> (19) e2019683118 (2021)</a>,
+<a target="_blank" href="https://arxiv.org/abs/2101.12258">arXiv:2101.12258</a>
+<br>
 
 <u>B. Hartl</u>, S. Sharma, O. Brügner, S.F.L. Mertens, M.Walter, and G. Kahl,<br>
 <i>"Reliable Computational Prediction of the Supramolecular Ordering of Complex Molecules under Electrochemical Conditions"</i>,

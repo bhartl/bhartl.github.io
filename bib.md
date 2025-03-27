@@ -1,14 +1,14 @@
 ## Journal Publications
 <u>B. Hartl</u>, M. Levin, <br>
 <i>"What does evolution make? Learning in living lineages and machines"</i>, 
-<a target="_blank" href="https://osf.io/r8z7c/">DOI@OSF Preprints: 10.31219/osf.io/r8z7c</a> (2025), 
+<a target="_blank" href="https://osf.io/r8z7c/">OSF Preprints DOI: 10.31219/osf.io/r8z7c</a> (2025), 
 accepted Opinion in Trends in Genetics - Cell Press.
 <br>
 
 L. Pio-Lopez\*, <u>B. Hartl</u>\*, M. Levin, <i style="font-size:10px;">(\* authors contributed equally)</i><br>
 <i>"Aging as a Loss of Goal-Directedness: An Evolutionary Simulation and Analysis Unifying Regeneration with Anatomical Rejuvenation"</i>,
-<a target="_blank" href="https://doi.org/10.31219/osf.io/m5bnx_v1">DOI@OSF Preprints:</a> 10.31219/osf.io/m5bnx_v1 (2025)
-and <a target="_blank" href="https://www.preprints.org/manuscript/202412.2354/v1">DOI@Preprints.org: 10.20944/preprints202412.2354</a> (2024).
+<a target="_blank" href="https://doi.org/10.31219/osf.io/m5bnx_v1">OSF Preprints DOI:</a> 10.31219/osf.io/m5bnx_v1 (2025)
+and <a target="_blank" href="https://www.preprints.org/manuscript/202412.2354/v1">Preprints.org DOI: 10.20944/preprints202412.2354</a> (2024).
 <br>
 
 <u>B. Hartl</u>\*, Y. Zhang\*, H. Hazan\*, M. Levin, <i style="font-size:10px;">(\* authors contributed equally)</i><br>

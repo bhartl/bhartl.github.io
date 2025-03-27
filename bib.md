@@ -1,8 +1,7 @@
 ## Journal Publications
 <u>B. Hartl</u>, M. Levin, <br>
 <i>"What does evolution make? Learning in living lineages and machines"</i>, 
-<a target="_blank" href="https://osf.io/r8z7c/">OSF Preprints DOI: 10.31219/osf.io/r8z7c</a> (2025), 
-accepted Opinion in Trends in Genetics - Cell Press.
+<a target="_blank" href="https://osf.io/r8z7c/">OSF Preprints DOI: 10.31219/osf.io/r8z7c</a> (2025)
 <br>
 
 L. Pio-Lopez\*, <u>B. Hartl</u>\*, M. Levin, <i style="font-size:10px;">(\* authors contributed equally)</i><br>
@@ -35,8 +34,7 @@ _Audio_:
 
 <u>B. Hartl</u>, M. Levin, A. Zöttl<br>
 <i>"Neuroevolution of Decentralized Decision-Making in N-Bead Swimmers Leads to Scalable and Robust Collective Locomotion"</i>,
-<a target="_blank" href="https://doi.org/10.48550/arXiv.2407.09438">arXiv:2407.09438</a> (2024), 
-accepted in Comm. Phys. (2025).
+<a target="_blank" href="https://doi.org/10.48550/arXiv.2407.09438">arXiv:2407.09438</a> (2024)
 <br>
 
 <u>B. Hartl</u>, S. Risi, M. Levin,<br>

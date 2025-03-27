@@ -1,7 +1,7 @@
 ## Journal Publications
 <u>B. Hartl</u>, M. Levin, <br>
 <i>"What does evolution make? Learning in living lineages and machines"</i>, 
-Accepted Opinion at Trends in Genetics - Cell Press <a target="_blank" href="https://osf.io/r8z7c/">doi.org/10.31219/osf.io/r8z7c</a> (2025).
+Accepted Opinion in Trends in Genetics - Cell Press <a target="_blank" href="https://osf.io/r8z7c/">doi.org/10.31219/osf.io/r8z7c</a> (2025).
 <br>
 
 L. Pio-Lopez\*, <u>B. Hartl</u>\*, M. Levin, <i style="font-size:10px;">(\* authors contributed equally)</i><br>
@@ -21,7 +21,7 @@ Y. Zhang\*, <u>B. Hartl</u>\*, H. Hazan\*, M. Levin, <i style="font-size:10px;">
 also see
 <a target="_blank" href="https://arxiv.org/abs/2410.02543">arXiv.2407.09438</a> (2024).
 <br>
-_Posts_:
+_Social Media Posts_:
 <a  target="_blank" href="https://x.com/YanboZhang3/status/1843134007892176995">Paper Tweet</a>,
 <a  target="_blank" href="https://gonzoml.substack.com/p/diffusion-models-are-evolutionary">Gonzo ML@substack</a>,
 <br>
@@ -34,7 +34,7 @@ _Audio_:
 
 <u>B. Hartl</u>, M. Levin, A. Zöttl<br>
 <i>"Neuroevolution of Decentralized Decision-Making in N-Bead Swimmers Leads to Scalable and Robust Collective Locomotion"</i>,
-<a target="_blank" href="https://doi.org/10.48550/arXiv.2407.09438">arXiv:2407.09438</a>, accepted at Comm. Phys. (2025),<br>
+<a target="_blank" href="https://doi.org/10.48550/arXiv.2407.09438">arXiv:2407.09438</a> (2024), accepted in Comm. Phys. (2025),<br>
 
 <u>B. Hartl</u>, S. Risi, M. Levin,<br>
 <i>"Evolutionary Implications of Self-Assembling Cybernetic Materials with Collective Problem-Solving Intelligence at Multiple Scales"</i>,
@@ -42,30 +42,30 @@ _Audio_:
 
 <u>B. Hartl</u>, M. Mihalkovič, L. Šamaj, M. Mazars, E. Trizac, and G. Kahl,<br>
 <i>"Ordered ground state configurations of the asymmetric Wigner bilayer system – revisited: an unsupervised clustering algorithm analysis"</i>,
-<a target="_blank" href="https://doi.org/10.1063/5.0166822">The <i>Journal of Chemical Physics</i> <b>159</b>, 204112 (2023)</a>, <a target="_blank" href="https://arxiv.org/abs/2211.04985">arXiv:2211.04985</a>,<br>
+<a target="_blank" href="https://doi.org/10.1063/5.0166822">The <i>Journal of Chemical Physics</i> <b>159</b>, 204112 (2023)</a>, <a target="_blank" href="https://arxiv.org/abs/2211.04985">arXiv:2211.04985</a> (2022),<br>
 
 <u>B. Hartl</u>, M. Hübl, G. Kahl, and A. Zöttl,<br>
 <i>"Microswimmers learning chemotaxis with genetic algorithms"</i>,
 <a target="_blank" href="https://www.pnas.org/doi/10.1073/pnas.2019683118"><i>The Proceedings of the National Academy of Sciences</i> <b>118</b> (19) e2019683118 (2021)</a>,
-<a target="_blank" href="https://arxiv.org/abs/2101.12258">arXiv:2101.12258</a>
+<a target="_blank" href="https://arxiv.org/abs/2101.12258">arXiv:2101.12258</a> (2021)
 <br>
 
 <u>B. Hartl</u>, S. Sharma, O. Brügner, S.F.L. Mertens, M.Walter, and G. Kahl,<br>
 <i>"Reliable Computational Prediction of the Supramolecular Ordering of Complex Molecules under Electrochemical Conditions"</i>,
 <a target="_blank" href="https://pubs.acs.org/doi/10.1021/acs.jctc.9b01251">The <i>Journal of Chemical Theory and Computation</i> <b>16</b> (8), 5227-5243 (2020)<a>,
-<a target="_blank" href="https://arxiv.org/abs/1912.07397">arXiv:1912.07397</a>
+<a target="_blank" href="https://arxiv.org/abs/1912.07397">arXiv:1912.07397</a> (2019)
 <br>
 
 D. O. Krimer\*, <u>B. Hartl</u>\*, F. Mintert, and S. Rotter, <i style="font-size:10px;">(\* authors contributed equally)</i><br>
 <i>"Optimal control of non-Markovian dynamics in a single-mode cavity strongly coupled to an inhomogeneously broadened spin ensemble"</i>,
 <a target="_blank" href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.96.043837"><i>Physical Review A</i> <b>96</b>, 043837 (2017)</a>,
-<a target="_blank" href="https://arxiv.org/abs/1701.06224">arXiv:1701.06224</a>
+<a target="_blank" href="https://arxiv.org/abs/1701.06224">arXiv:1701.06224</a> (2017)
 <br>
 
 D.O. Krimer, B. Hartl, and S. Rotter,<br>
 <i>"Hybrid Quantum Systems with Collectively Coupled Spin States: Suppression of Decoherence through Spectral Hole Burning"</i>,
 <a target="_blank" href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.033601"><i>Physical Reveview Letters</i> <b>115</b>, 033601 (2015)</a>,
-<a target="_blank" href="https://arxiv.org/abs/1501.03487">arXiv:1501.03487</a>
+<a target="_blank" href="https://arxiv.org/abs/1501.03487">arXiv:1501.03487</a> (2015)
 <br>
   
 ## Conferences and Events

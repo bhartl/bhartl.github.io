@@ -6,7 +6,8 @@ Opinion <a target="_blank" href="https://osf.io/r8z7c/">doi.org/10.31219/osf.io/
 
 L. Pio-Lopez\*, <u>B. Hartl</u>\*, M. Levin, <i style="font-size:10px;">(\* authors contributed equally)</i><br>
 <i>"Aging as a Loss of Goal-Directedness: An Evolutionary Simulation"</i>,
-<a target="_blank" href="https://www.preprints.org/manuscript/202412.2354/v1">DOI:10.20944/preprints202412.2354</a> (2024).
+<a target="_blank" href="https://www.preprints.org/manuscript/202412.2354/v1">DOI@Preprints.org: 10.20944/preprints202412.2354</a> (2024) 
+and <a target="_blank" href="[https://www.preprints.org/manuscript/202412.2354/v1](https://doi.org/10.31219/osf.io/m5bnx_v1)">DOI@OSF Preprints:</a> 2025).
 <br>
 
 <u>B. Hartl</u>\*, Y. Zhang\*, H. Hazan\*, M. Levin, <i style="font-size:10px;">(\* authors contributed equally)</i><br>

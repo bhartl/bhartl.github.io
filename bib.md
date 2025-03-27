@@ -72,7 +72,7 @@ D.O. Krimer, B. Hartl, and S. Rotter,<br>
 <br>
   
 ## Conferences and Events
-- 1 Talk, 2 Poster: <i>Physics of Life Conference</i>, Harrogate, UK (2025)
+- 1 Talk, 1 Poster: <i>Physics of Life Conference</i>, Harrogate, UK (2025)
 - 2 Posters: <i>Liquid Matter Conference</i>, Mainz, Germany (2024)
 - 1 Talks (2 accepted), 2 Posters: <i>European Colloid and Interface Society Conference</i>, Copenhagen, Denmark (2024)
 - Talk: <i>Austrian-Slovenian HPC Meeting</i>, Bad Aussee, Austria (2024)

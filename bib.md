@@ -41,7 +41,7 @@ accepted in Comm. Phys. (2025).
 
 <u>B. Hartl</u>, S. Risi, M. Levin,<br>
 <i>"Evolutionary Implications of Self-Assembling Cybernetic Materials with Collective Problem-Solving Intelligence at Multiple Scales"</i>,
-<a target="_blank" href="https://www.mdpi.com/1099-4300/26/7/532">Entropy <b>26</b>(7), 532, (2024)</a>, <a target="_blank" href="https://doi.org/10.31219/osf.io/sp9kf">OSF Preprint</a> (2024),<br>
+<a target="_blank" href="https://www.mdpi.com/1099-4300/26/7/532">Entropy <b>26</b>(7), 532, (2024)</a>, <a target="_blank" href="https://doi.org/10.31219/osf.io/sp9kf">OSF Preprint DOI: 10.31219/osf.io/sp9kf</a> (2024),<br>
 
 <u>B. Hartl</u>, M. Mihalkovič, L. Šamaj, M. Mazars, E. Trizac, and G. Kahl,<br>
 <i>"Ordered ground state configurations of the asymmetric Wigner bilayer system – revisited: an unsupervised clustering algorithm analysis"</i>,

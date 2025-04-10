@@ -1,7 +1,7 @@
 ## Journal Publications
 <u>B. Hartl</u>, M. Levin, <br>
 <i>"What does evolution make? Learning in living lineages and machines"</i>, 
-<a target="_blank" href="https://osf.io/r8z7c/">OSF Preprints DOI: 10.31219/osf.io/r8z7c</a> (2025)
+<a target="_blank" href="https://osf.io/r8z7c/">OSF Preprints DOI: 10.31219/osf.io/r8z7c</a> (2025 - accepted in Trends in Genetics, Cell Press)
 <br>
 
 L. Pio-Lopez\*, <u>B. Hartl</u>\*, M. Levin, <i style="font-size:10px;">(\* authors contributed equally)</i><br>

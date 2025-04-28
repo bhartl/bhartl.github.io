@@ -5,16 +5,18 @@ December 2020 to present
 #### Affiliations:
 - _Institute for Theoretical Physics and Center for Material Science at the TU Wien, Vienna, Austria, since 2016_
 - _Allen Discovery Center at Tufts University, Boston, USA, since 2023_
+  
 #### Research Topics:
-- [Confinement-Driven Self-Assembly](https://repositum.tuwien.at/handle/20.500.12708/16374)
-- [Reinforcement Learning and Neuroevolution of Decision-Making Strategies of Cells](https://www.pnas.org/content/118/19/e2019683118)
-- [Collective Decision-Making in Cellular Navigation](https://doi.org/10.48550/arXiv.2407.09438)
+- [Unifying Principles in Evolutionary Developmental Biology and Diverse Intelligences](https://osf.io/preprints/osf/r8z7c_v1)
+- [The Role of Generative AI in Evolution](https://arxiv.org/abs/2411.13420) (and [here](https://openreview.net/forum?id=xVefsBbG2O))
 - [Evolutionary Implications of Multiscale Intelligence](https://www.mdpi.com/1099-4300/26/7/532)
-- Unifying Principles in Diverse Intelligences
+- [Collective Decision-Making in Cellular Navigation](https://doi.org/10.48550/arXiv.2407.09438)
+- [Reinforcement Learning and Neuroevolution of Decision-Making Strategies of Cells](https://www.pnas.org/content/118/19/e2019683118)
+- [Confinement-Driven Self-Assembly](https://repositum.tuwien.at/handle/20.500.12708/16374)
 
 ## Awards
-- APART-MINT Postdoctoral Stipend, Austrian Academy of Sciences (2023)
-- <a class="" target='blank' href="https://en.wikipedia.org/wiki/Sub_auspiciis_Praesidentis"><i>Promotio sub auspiciis Praesidentis</i></a> (2022)
+- APART-MINT Postdoctoral Stipend, Austrian Academy of Sciences (2023 and 2024)
+- <a class="" target='blank' href="https://en.wikipedia.org/wiki/Sub_auspiciis_Praesidentis"><i>Promotio sub auspiciis Praesidentis</i></a> (2022) and corresponding travel stipend of the TU Wien (2023)
 - Christiana Hörbiger Prize, TU Wien (2018)
 - DOC Fellowship, Austrian Academy of Sciences (2017)
 - Förderstipendium for excellence at the TU Wien (2016)

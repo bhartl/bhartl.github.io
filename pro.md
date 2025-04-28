@@ -1,5 +1,6 @@
 ## Projects
 #### Research Topics:
+- [Unifying Principles in Evolutionary Developmental Biology and Diverse Intelligences](https://osf.io/preprints/osf/r8z7c_v1)
 - [Diffusion Models are Evolutionary Algorithms](https://openreview.net/forum?id=xVefsBbG2O) & [Heuristically Adaptive Diffusion Evolution Strategy](https://arxiv.org/abs/2411.13420)
 - [Evolutionary Implications of Multiscale Intelligence](https://www.mdpi.com/1099-4300/26/7/532)
 - [Collective Decision-Making in Cellular Navigation](https://doi.org/10.48550/arXiv.2407.09438)

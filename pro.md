@@ -8,7 +8,7 @@
 - [Confinement-Driven Self-Assembly](https://repositum.tuwien.at/handle/20.500.12708/16374)
 
 ### Frameworks
-- <a class="" target='blank' href="https://github.com/bhartl/CondEvo/">*Conditional Diffusion Evolution*</a>: a deep-learning baed approach to use iteratively refined diffusion models to generate high-quality, well adapted offspring in an ongoing evolutionary search​. With classifier-free guidance techniques, this alloes guiding the generative denoising towards solutions with target traits​ via conditional sampling in parameter space, for phenotypical traits, and population-wide features.
+- <a class="" target='blank' href="https://github.com/bhartl/CondEvo/">*Conditional Diffusion Evolution*</a>: a deep-learning baed approach to use iteratively refined diffusion models to generate high-quality, well adapted offspring in an ongoing evolutionary search​. Classifier-free guidance techniques allow guiding the generative denoising towards solutions with target traits​ via conditional sampling in parameter space, for phenotypical traits, and population-wide features.
 - <a class="" target='blank' href="https://github.com/Zhangyanbo/diffusion-evolution">*Diffusion Evolution*</a>: a model-free approach of using diffusion models as evolutionary algorithm, allowing for leveraging advancements in diffusion models for evolutionary algorithm tasks, including accelerated sampling and latent space diffusion.
 - *mindcraft*: a modular reinforcement learning framework for robust and interpretable autonomous navigation
 - *bio-feedback*: a framework to synchronously gather, process, and control bio-sensory data

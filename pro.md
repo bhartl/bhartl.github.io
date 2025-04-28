@@ -1,5 +1,6 @@
 ## Projects
 #### Research Topics:
+- [Diffusion Models are Evolutionary Algorithms](https://openreview.net/forum?id=xVefsBbG2O) & [Heuristically Adaptive Diffusion Evolution Strategy](https://arxiv.org/abs/2411.13420)
 - [Evolutionary Implications of Multiscale Intelligence](https://www.mdpi.com/1099-4300/26/7/532)
 - [Collective Decision-Making in Cellular Navigation](https://doi.org/10.48550/arXiv.2407.09438)
 - [Unifying Principles in Diverse Intelligences](https://doi.org/10.3389%2Ffnsys.2022.768201)
@@ -7,6 +8,8 @@
 - [Confinement-Driven Self-Assembly](https://repositum.tuwien.at/handle/20.500.12708/16374)
 
 ### Frameworks
+- <a class="" target='blank' href="https://github.com/bhartl/CondEvo/">*Conditional Diffusion Evolution*</a>: a deep-learning baed approach to use iteratively refined diffusion models to generate high-quality, well adapted offspring in an ongoing evolutionary search​. With classifier-free guidance techniques, this alloes guiding the generative denoising towards solutions with target traits​ via conditional sampling in parameter space, for phenotypical traits, and population-wide features.
+- <a class="" target='blank' href="https://github.com/Zhangyanbo/diffusion-evolution">*Diffusion Evolution*</a>: a model-free approach of using diffusion models as evolutionary algorithm, allowing for leveraging advancements in diffusion models for evolutionary algorithm tasks, including accelerated sampling and latent space diffusion.
 - *mindcraft*: a modular reinforcement learning framework for robust and interpretable autonomous navigation
 - *bio-feedback*: a framework to synchronously gather, process, and control bio-sensory data
 - <a class="" target='blank' href="https://github.com/bhartl/data-monitor">*data-monitor*</a>: an interactive (non-blocking) `matplotlib`-based time-series visualization tool

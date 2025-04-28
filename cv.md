@@ -3,7 +3,7 @@
 December 2020 to present
 
 #### Affiliations:
-- _Institute for Theoretical Physics and Center for Material Science at the TU Wien, Vienna, Austria, since 2020_
+- _Institute for Theoretical Physics and Center for Material Science at the TU Wien, Vienna, Austria, since 2016_
 - _Allen Discovery Center at Tufts University, Boston, USA, since 2023_
 #### Research Topics:
 - [Confinement-Driven Self-Assembly](https://repositum.tuwien.at/handle/20.500.12708/16374)

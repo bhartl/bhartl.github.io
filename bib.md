@@ -4,7 +4,7 @@
 <i>"Neuroevolution of Decentralized Decision-Making in N-Bead Swimmers Leads to Scalable and Robust Collective Locomotion"</i>,
 <a target="_blank" href="https://doi.org/10.1038/s42005-025-02101-5">Commun. Phys. **8**, 194 (2025)</a> 
 as part of the
-<a target="_blank" href="https://www.nature.com/collections/cgbgjbahac">Swarm intelligence - Collective motions from biology to robotic</a> collection</a>;
+<a target="_blank" href="https://www.nature.com/collections/cgbgjbahac">Swarm intelligence - Collective motions from biology to robotic</a> collection;
 also see
 <a target="_blank" href="https://doi.org/10.48550/arXiv.2407.09438">arXiv:2407.09438</a>,
 <br>

@@ -2,7 +2,7 @@
 
 <u>B. Hartl</u>, M. Levin, <br>
 <i>"What does evolution make? Learning in living lineages and machines"</i>, <a target="_blank" href="https://doi.org/10.1016/j.tig.2025.04.002">Online at Trends in Genetics, Cell Preas (2025)</a>, see also
-<a target="_blank" href="https://osf.io/r8z7c/">OSF Preprints DOI: 10.31219/osf.io/r8z7c</a>
+<a target="_blank" href="https://osf.io/r8z7c/">OSF Preprints</a>
 <br>
 
 <u>B. Hartl</u>, M. Levin, A. Zöttl<br>

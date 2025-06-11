@@ -1,5 +1,10 @@
 ## Journal Publications
 
+<u>B. Hartl</u>, M. Levin, <br>
+<i>"What does evolution make? Learning in living lineages and machines"</i>, <a target="_blank" href="https://doi.org/10.1016/j.tig.2025.04.002">Online at Trends in Genetics, Cell Preas (2025)</a>, see also
+<a target="_blank" href="https://osf.io/r8z7c/">OSF Preprints DOI: 10.31219/osf.io/r8z7c</a>
+<br>
+
 <u>B. Hartl</u>, M. Levin, A. Zöttl<br>
 <i>"Neuroevolution of Decentralized Decision-Making in N-Bead Swimmers Leads to Scalable and Robust Collective Locomotion"</i>,
 <a target="_blank" href="https://doi.org/10.1038/s42005-025-02101-5">Commun. Phys. **8**, 194 (2025)</a> 
@@ -9,10 +14,6 @@ also see
 <a target="_blank" href="https://doi.org/10.48550/arXiv.2407.09438">arXiv:2407.09438</a>,
 <br>
 
-<u>B. Hartl</u>, M. Levin, <br>
-<i>"What does evolution make? Learning in living lineages and machines"</i>, 
-<a target="_blank" href="https://osf.io/r8z7c/">OSF Preprints DOI: 10.31219/osf.io/r8z7c</a> (2025 - accepted in Trends in Genetics, Cell Press)
-<br>
 
 L. Pio-Lopez\*, <u>B. Hartl</u>\*, M. Levin, <i style="font-size:10px;">(\* authors contributed equally)</i><br>
 <i>"Aging as a Loss of Goal-Directedness: An Evolutionary Simulation and Analysis Unifying Regeneration with Anatomical Rejuvenation"</i>,

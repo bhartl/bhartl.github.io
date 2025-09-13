@@ -97,7 +97,7 @@ D.O. Krimer, B. Hartl, and S. Rotter,<br>
 - Poster: <i>10th Liquid Matter Conference</i>, Ljubljana, Slovenia (2017)
 
 ## Media Outreach
-  - Self-Assembly Gets Automated in Reverse of ‘Game of Life’, <a target="_blank" href="https://www.quantamagazine.org/self-assembly-gets-automated-in-reverse-of-game-of-life-20250910/">Quanta Magazine</a>
+  - Featured in <a target="_blank" href="https://www.quantamagazine.org/self-assembly-gets-automated-in-reverse-of-game-of-life-20250910/">Self-Assembly Gets Automated in Reverse of ‘Game of Life’</a>, Quanta Magazine (2025)
   - Sub auspiciis doctoral graduation, 26.01.2022 
     (<a target="_blank" href="https://www.tuwien.at/tu-wien/aktuelles/news/news/sub-auspiciis-promotionen-am-26-jaenner-2022-an-der-tu-wien">TU Wien News</a>, <a target="_blank" href="http://www.itp.tuwien.ac.at/index.php?title=Home&oldid=6025">brief interview</a>,
      <a target="_blank" href="http://www.itp.tuwien.ac.at/index.php/News#Benedikt_Hartl_-_sub_auspiciis_Promotionen_am_26._J.C3.A4nner_2022_an_der_TU_Wien">ITP News</a>,

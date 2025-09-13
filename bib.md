@@ -1,5 +1,13 @@
 ## Journal Publications
 
+L. Pio-Lopez\*, <u>B. Hartl</u>\*, M. Levin, <i style="font-size:10px;">(\* authors contributed equally)</i><br>
+<i>"Aging as a Loss of Goal-Directedness: An Evolutionary Simulation and Analysis Unifying Regeneration with Anatomical Rejuvenation"</i>,
+accepted in Advanced Science (Sept. 2025) - 
+<a target="_blank" href="https://doi.org/10.31219/osf.io/m5bnx_v1">OSF Preprints DOI: 10.31219/osf.io/m5bnx_v1</a> (2025),
+<a target="_blank" href="https://www.preprints.org/manuscript/202412.2354/v1">Preprints.org DOI: 10.20944/preprints202412.2354</a> (2024),
+see also <a target="_blank" href="https://notebooklm.google.com/notebook/a2d02167-084e-49d9-bb6a-1cd06940a959?artifactId=4a19da56-645b-4ffc-8f65-121896d488f0">Notebook LM Podcast [DE]</a>.
+<br>
+
 <u>B. Hartl</u>, M. Levin, <br>
 <i>"What does evolution make? Learning in living lineages and machines"</i>, <a target="_blank" href="https://doi.org/10.1016/j.tig.2025.04.002">Online at Trends in Genetics, Cell Preas (2025)</a>, see also
 <a target="_blank" href="https://osf.io/r8z7c/">OSF Preprints</a>
@@ -12,13 +20,6 @@ as part of the
 <a target="_blank" href="https://www.nature.com/collections/cgbgjbahac">Swarm intelligence - Collective motions from biology to robotic</a> collection;
 also see
 <a target="_blank" href="https://doi.org/10.48550/arXiv.2407.09438">arXiv:2407.09438</a>,
-<br>
-
-
-L. Pio-Lopez\*, <u>B. Hartl</u>\*, M. Levin, <i style="font-size:10px;">(\* authors contributed equally)</i><br>
-<i>"Aging as a Loss of Goal-Directedness: An Evolutionary Simulation and Analysis Unifying Regeneration with Anatomical Rejuvenation"</i>,
-<a target="_blank" href="https://doi.org/10.31219/osf.io/m5bnx_v1">OSF Preprints DOI: 10.31219/osf.io/m5bnx_v1</a> (2025)
-and <a target="_blank" href="https://www.preprints.org/manuscript/202412.2354/v1">Preprints.org DOI: 10.20944/preprints202412.2354</a> (2024).
 <br>
 
 <u>B. Hartl</u>\*, Y. Zhang\*, H. Hazan\*, M. Levin, <i style="font-size:10px;">(\* authors contributed equally)</i><br>

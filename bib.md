@@ -1,5 +1,10 @@
 ## Journal Publications
 
+<u>B. Hartl</u>, M. Levin, L. Pio-Lopez<br>
+<i>"Neural cellular automata: applications to biology and beyond classical AI"</i>,
+<a target="_blank" href="https://arxiv.org/pdf/2509.11131">arXiv:2509.11131</a> (2025),
+<br>
+
 L. Pio-Lopez\*, <u>B. Hartl</u>\*, M. Levin, <i style="font-size:10px;">(\* authors contributed equally)</i><br>
 <i>"Aging as a Loss of Goal-Directedness: An Evolutionary Simulation and Analysis Unifying Regeneration with Anatomical Rejuvenation"</i>,
 accepted in Advanced Science (Sept. 2025) - 

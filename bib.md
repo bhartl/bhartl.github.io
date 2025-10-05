@@ -1,5 +1,11 @@
 ## Journal Publications
 
+<u>B. Hartl</u>\*, Y. Zhang\*, H. Hazan\*, M. Levin, <i style="font-size:10px;">(\* authors contributed equally)</i><br>
+<i>"Heuristically Adaptive Diffusion-Model Evolutionary Strategy"</i>,
+accepted in Advanced Science (Oct. 2025) - 
+<a target="_blank" href="https://arxiv.org/abs/2411.13420">arXiv.2411.13420</a> (2024).
+<br>
+
 <u>B. Hartl</u>, M. Levin, L. Pio-Lopez<br>
 <i>"Neural cellular automata: applications to biology and beyond classical AI"</i>,
 <a target="_blank" href="https://arxiv.org/abs/2509.11131">arXiv:2509.11131</a> (2025), 
@@ -26,11 +32,6 @@ as part of the
 <a target="_blank" href="https://www.nature.com/collections/cgbgjbahac">Swarm intelligence - Collective motions from biology to robotic</a> collection;
 also see
 <a target="_blank" href="https://doi.org/10.48550/arXiv.2407.09438">arXiv:2407.09438</a>,
-<br>
-
-<u>B. Hartl</u>\*, Y. Zhang\*, H. Hazan\*, M. Levin, <i style="font-size:10px;">(\* authors contributed equally)</i><br>
-<i>"Heuristically Adaptive Diffusion-Model Evolutionary Strategy"</i>,
-<a target="_blank" href="https://arxiv.org/abs/2411.13420">arXiv.2411.13420</a> (2024).
 <br>
 
 Y. Zhang\*, <u>B. Hartl</u>\*, H. Hazan\*, M. Levin, <i style="font-size:10px;">(\* authors contributed equally)</i><br>

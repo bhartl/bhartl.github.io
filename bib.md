@@ -84,6 +84,8 @@ D.O. Krimer, B. Hartl, and S. Rotter,<br>
 <br>
   
 ## Conferences and Events
+- Invited Talk at the <i>ALIFE 2025 ERA Workshop</i>, Kyoto, Japan
+- Invited Talk at the <i>Ludwig Boltzmann Seminar for Network Medicine</i> at the CeMM, Vienna, Austria (2025)
 - Talk at the <a target="_blank" href="https://woodstock.img.cas.cz/"><i>Woodstock.Bio<sup>2</sup> + Night Science</i></a>, Prague, Czechia (2025)
 - Invited Talk at the <i>Seminar of the Institute of Materials Chemistry at the TU Wien</i>, Vienna, Austria (2025)
 - Invited Talk at the <i>ICLR 2025 Workshop on [Deep Generative Model in Machine Learning: Theory, Principle and Efficacy](https://delta-workshop.github.io/)</i>, Singapore (2025)

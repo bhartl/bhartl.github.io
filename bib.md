@@ -9,7 +9,8 @@ accepted in Advanced Science (Oct. 2025) -
 <u>B. Hartl</u>, M. Levin, L. Pio-Lopez<br>
 <i>"Neural cellular automata: applications to biology and beyond classical AI"</i>,
 <a target="_blank" href="https://arxiv.org/abs/2509.11131">arXiv:2509.11131</a> (2025), 
-see also <a target="_blank" href="https://notebooklm.google.com/notebook/515b2977-13cf-4372-b199-2a07afe1d556?artifactId=528ff0b5-0385-4fe2-bf35-1bd79fd02e26">Notebook LM Podcast [DE]</a>.
+see also 
+<a target="_blank" href="https://notebooklm.google.com/notebook/515b2977-13cf-4372-b199-2a07afe1d556?artifactId=528ff0b5-0385-4fe2-bf35-1bd79fd02e26">Notebook LM Podcast [DE]</a>.
 <br>
 
 L. Pio-Lopez\*, <u>B. Hartl</u>\*, M. Levin, <i style="font-size:10px;">(\* authors contributed equally)</i><br>
@@ -106,6 +107,8 @@ D.O. Krimer, B. Hartl, and S. Rotter,<br>
 - Poster: <i>10th Liquid Matter Conference</i>, Ljubljana, Slovenia (2017)
 
 ## Media Outreach
+  - Featured in 
+<a target="_blank" href="https://dailyneuron.com/neural-cellular-automata-biology-ai/">Neural Cellular Automata Are Unlocking the Secrets of Biological and Artificial Intelligence</a>, dailyneuron.com (2025)
   - Featured in <a target="_blank" href="https://www.quantamagazine.org/self-assembly-gets-automated-in-reverse-of-game-of-life-20250910/">Self-Assembly Gets Automated in Reverse of ‘Game of Life’</a>, Quanta Magazine (2025)
   - <a target="_blank" href="https://www.tuwien.at/en/all-news/news/wie-man-ohne-gehirn-schwimmen-kann">How to swim without a brain</a>, also see <a href="https://www.nature.com/articles/s42005-025-02101-5/metrics" target="_blank">Comm. Phys. Metrics</a>
   - Sub auspiciis doctoral graduation, 26.01.2022 

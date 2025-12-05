@@ -8,6 +8,7 @@ accepted in Advanced Science (Oct. 2025) -
 
 <u>B. Hartl</u>, M. Levin, L. Pio-Lopez<br>
 <i>"Neural cellular automata: applications to biology and beyond classical AI"</i>,
+accepted in Physics of Life Reviews (Nov. 2025),
 <a target="_blank" href="https://arxiv.org/abs/2509.11131">arXiv:2509.11131</a> (2025), 
 see also 
 <a target="_blank" href="https://notebooklm.google.com/notebook/515b2977-13cf-4372-b199-2a07afe1d556?artifactId=528ff0b5-0385-4fe2-bf35-1bd79fd02e26">Notebook LM Podcast [DE]</a>.

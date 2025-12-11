@@ -16,7 +16,7 @@ see also
 
 L. Pio-Lopez\*, <u>B. Hartl</u>\*, M. Levin, <i style="font-size:10px;">(\* authors contributed equally)</i><br>
 <i>"Aging as a Loss of Goal-Directedness: An Evolutionary Simulation and Analysis Unifying Regeneration with Anatomical Rejuvenation"</i>, 
-<a target="_blank" href="https://doi.org/10.1002/advs.202509872">Advanced Science, e09872 (2025)</a> -
+<a target="_blank" href="https://doi.org/10.1002/advs.202509872">Advanced Science <b>12</b>, e09872 (2025)</a> -
 <a target="_blank" href="https://doi.org/10.31219/osf.io/m5bnx_v1">OSF Preprints DOI: 10.31219/osf.io/m5bnx_v1</a> (2025),
 <a target="_blank" href="https://www.preprints.org/manuscript/202412.2354/v1">Preprints.org DOI: 10.20944/preprints202412.2354</a> (2024),
 see also <a target="_blank" href="https://notebooklm.google.com/notebook/a2d02167-084e-49d9-bb6a-1cd06940a959?artifactId=4a19da56-645b-4ffc-8f65-121896d488f0">Notebook LM Podcast [DE]</a>.

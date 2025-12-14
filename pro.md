@@ -1,6 +1,6 @@
 ## Projects
 #### Research Topics:
-- [Unifying Principles in Evolutionary Developmental Biology and Diverse Intelligences](https://osf.io/preprints/osf/r8z7c_v1)
+- [The Generative Genome: Unifying Principles in Evolutionary Developmental Biology and Diverse Intelligences](https://www.cell.com/action/showPdf?pii=S0168-9525(25)00077-0)
 - [Diffusion Models are Evolutionary Algorithms](https://openreview.net/forum?id=xVefsBbG2O) & [Heuristically Adaptive Diffusion Evolution Strategy](https://arxiv.org/abs/2411.13420)
 - [Evolutionary Implications of Multiscale Intelligence](https://www.mdpi.com/1099-4300/26/7/532)
 - [Collective Decision-Making in Cellular Navigation](https://doi.org/10.48550/arXiv.2407.09438)
@@ -9,7 +9,8 @@
 - [Confinement-Driven Self-Assembly](https://repositum.tuwien.at/handle/20.500.12708/16374)
 
 ### Frameworks
-- <a class="" target='blank' href="https://github.com/bhartl/CondEvo/">*Conditional Diffusion Evolution*</a>: a deep-learning baed approach to use iteratively refined diffusion models to generate high-quality, well adapted offspring in an ongoing evolutionary search​. Classifier-free guidance techniques allow guiding the generative denoising towards solutions with target traits​ via conditional sampling in parameter space, for phenotypical traits, and population-wide features.
+- <a class="" target='blank' href="https://github.com/bhartl/muse">*Multiscale Evolution (muse)*</a>: code for our paper on [Evolutionary Implications of Multiscale Intelligence](https://www.mdpi.com/1099-4300/26/7/532) and [Aging as a Loss of Goal-Directedness](advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202509872).
+- <a class="" target='blank' href="https://github.com/bhartl/CondEvo/">*Conditional Diffusion Evolution*</a>: a deep-learning based approach to use iteratively refined diffusion models to generate high-quality, well adapted offspring in an ongoing evolutionary search​. Classifier-free guidance techniques allow guiding the generative denoising towards solutions with target traits​ via conditional sampling in parameter space, for phenotypical traits, and population-wide features.
 - <a class="" target='blank' href="https://github.com/Zhangyanbo/diffusion-evolution">*Diffusion Evolution*</a>: a model-free approach of using diffusion models as evolutionary algorithm, allowing for leveraging advancements in diffusion models for evolutionary algorithm tasks, including accelerated sampling and latent space diffusion.
 - <a class="" target='blank' href="https://github.com/bhartl/NeurEvo/">*mindcraft*</a>: a framework for cognitive neuroevolution
 - *bio-feedback*: a framework to synchronously gather, process, and control bio-sensory data

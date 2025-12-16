@@ -86,6 +86,9 @@ D.O. Krimer, B. Hartl, and S. Rotter,<br>
 <br>
   
 ## Conferences and Events
+- ALICE Workshop in Copenhagen, Denmark, Feb. 2026
+- Invited Talk at the <i>Neuro AI</i> Seminar at TU Wien, Austria, Jan. 2026
+- Workstation on "Bio-Inspired AI" at the AI Festival 2025, TU Wien, Austria
 - Invited Talk at the <i>ALIFE 2025 ERA Workshop</i>, Kyoto, Japan
 - Invited Talk at the <i>Ludwig Boltzmann Seminar for Network Medicine</i> at the CeMM, Vienna, Austria (2025)
 - Talk at the <a target="_blank" href="https://woodstock.img.cas.cz/"><i>Woodstock.Bio<sup>2</sup> + Night Science</i></a>, Prague, Czechia (2025)

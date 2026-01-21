@@ -1,5 +1,10 @@
 ## Journal Publications
 
+<u>B. Hartl</u>\*, L. Pio-Lopez\*, C. Fields, M. Levin<i style="font-size:10px;">(\* authors contributed equally)</i><br>
+<i>"Remapping and navigation of an embedding space via error minimization: a fundamental organizational principle of cognition in natural and artificial systems"</i>,
+<a target="_blank" href="https://arxiv.org/abs/2601.14096">arxiv:2601.14096</a> (2026),
+<br>
+
 <u>B. Hartl</u>\*, Y. Zhang\*, H. Hazan\*, M. Levin, <i style="font-size:10px;">(\* authors contributed equally)</i><br>
 <i>"Heuristically Adaptive Diffusion-Model Evolutionary Strategy"</i>,
 accepted in Advanced Science (Oct. 2025) - 

@@ -91,7 +91,8 @@ D.O. Krimer, B. Hartl, and S. Rotter,<br>
 <br>
   
 ## Conferences and Events
-- ALICE Workshop in Copenhagen, Denmark, Feb. 2026
+- Invited Keynote Talk at the Foresight Institute (virtual), April 2026
+- ALICE Workshop in Copenhagen, Denmark, Feb. 2026 (**runner-up price for 2nd-best project**)
 - Invited Talk at the <i>Neuro AI</i> Seminar at TU Wien, Austria, Jan. 2026
 - Workstation on <i>Bio-Inspired AI</i> at the _AI Festival 2025_, TU Wien, Austria
 - Invited Talk at the <i>ALIFE 2025 ERA Workshop</i>, Kyoto, Japan

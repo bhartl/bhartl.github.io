@@ -7,9 +7,9 @@ December 2020 to present
 - _Allen Discovery Center at Tufts University, Boston, USA, since 2023_
   
 #### Research Topics:
-- [Unifying Principles in Evolutionary Developmental Biology and Diverse Intelligences](https://osf.io/preprints/osf/r8z7c_v1)
-- [The Role of Generative AI in Evolution](https://arxiv.org/abs/2411.13420) (and [here](https://openreview.net/forum?id=xVefsBbG2O))
-- [Evolutionary Implications of Multiscale Intelligence](https://www.mdpi.com/1099-4300/26/7/532)
+- [Unifying Principles in Evolutionary Developmental Biology and Diverse Intelligences](https://www.cell.com/trends/genetics/fulltext/S0168-9525(25)00077-0) (see also [here](https://arxiv.org/abs/2601.14096))
+- [The Parallels of Generative AI and Evolution](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202511537) (see also [here](https://openreview.net/forum?id=xVefsBbG2O))
+- [Evolutionary Implications of Multiscale Intelligence](https://www.mdpi.com/1099-4300/26/7/532) and [Aging as a Loss of Goal-Directedness](https://advanced.onlinelibrary.wiley.com/doi/epdf/10.1002/advs.202509872)
 - [Collective Decision-Making in Cellular Navigation](https://doi.org/10.48550/arXiv.2407.09438)
 - [Reinforcement Learning and Neuroevolution of Decision-Making Strategies of Cells](https://www.pnas.org/content/118/19/e2019683118)
 - [Confinement-Driven Self-Assembly](https://repositum.tuwien.at/handle/20.500.12708/16374)

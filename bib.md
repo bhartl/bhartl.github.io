@@ -1,5 +1,10 @@
 ## Journal Publications
 
+A. Adel, J. Szmitek, <u>B. Hartl</u>, R. Wanzenböck, G. K. H. Madsen<br>
+<i>"Guided adaptive diffusion: An evolutionary framework for multi-modal atomistic structure prediction"</i>,
+<a target="_blank" href="https://doi.org/10.26434/chemrxiv.15001299/v1">chemrxiv:15001299</a> (2026).
+<br>
+
 J. Ashford, M. Cvjetko, R. Löffler, B. Sakallioglu, A. Valerio, M. Tataryn, <u>B. Hartl</u>, L. Pio-Lopez, S. Nichele<br>
 <i>"Evolving Symbiosis, from Barricelli’s Legacy to Collective Intelligence: A Simulated and Conceptual Approach"</i>,
 ALICE 2026 Report, <a target="_blank" href="https://arxiv.org/abs/2603.08463">arxiv:2603.08463</a> (2026).

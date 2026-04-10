@@ -1,5 +1,10 @@
 ## Journal Publications
 
+L. Pio-Lopez, <u>B. Hartl</u>, M. Levin<br>
+<i>"BraiNCA: brain-inspired neural cellular automata and applications to morphogenesis and motor control"</i>,
+<a target="_blank" href="https://doi.org/10.48550/arXiv.2604.01932">arXiv:2604.01932</a> (2026),
+<br>
+
 A. Adel, J. Szmitek, <u>B. Hartl</u>, R. Wanzenböck, G. K. H. Madsen<br>
 <i>"Guided adaptive diffusion: An evolutionary framework for multi-modal atomistic structure prediction"</i>,
 <a target="_blank" href="https://doi.org/10.26434/chemrxiv.15001299/v1">chemrxiv:15001299</a> (2026).

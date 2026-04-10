@@ -17,8 +17,7 @@ ALICE 2026 Report, <a target="_blank" href="https://arxiv.org/abs/2603.08463">ar
 
 <u>B. Hartl</u>\*, Y. Zhang\*, H. Hazan\*, M. Levin, <i style="font-size:10px;">(\* authors contributed equally)</i><br>
 <i>"Heuristically Adaptive Diffusion-Model Evolutionary Strategy"</i>,
-<a target="_blank" href="https://doi.org/10.1002/advs.202511537">Advanced Science, e11537 (2025)</a> with <a target="_blank" href="https://advanced.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadvs.202511537&file=advs72244-sup-0001-SuppMat.pdf">Supplementary Information</a>,
-<a target="_blank" href="https://arxiv.org/abs/2411.13420">arXiv:2411.13420</a> (2024).
+<a target="_blank" href="https://doi.org/10.1002/advs.202511537">Advanced Science, e11537 (<a target="_blank" href="https://arxiv.org/abs/2411.13420">2024</a>-2026)</a> with <a target="_blank" href="https://advanced.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadvs.202511537&file=advs72244-sup-0001-SuppMat.pdf">Supplementary Information</a>.
 <br>
 
 <u>B. Hartl</u>\*, L. Pio-Lopez\*, C. Fields, M. Levin<i style="font-size:10px;">(\* authors contributed equally)</i><br>

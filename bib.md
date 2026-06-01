@@ -1,9 +1,13 @@
 ## Journal Publications
+J. Cool, <u>B. Hartl</u>, M. Levin, S. Petti<br>
+<i>"Agnosiophobia in a virtual agent: behavioral and dynamical architecture in Lenia"</i>,
+<a target="_blank" href="https://doi.org/10.48550/arXiv.2605.30708">arXiv:2605.30708</a> (2026),
+<br>
+
 H. Hazan, Y. Zhang, <u>B. Hartl</u>, M. Levin<br>
 <i>"A Little Rank Goes a Long Way: Random Scaffolds with LoRA Adapters Are All You Need"</i>,
 <a target="_blank" href="https://doi.org/10.48550/arXiv.2604.08749">arXiv:2604.08749</a> (2026),
 <br>
-
 
 L. Pio-Lopez, <u>B. Hartl</u>, M. Levin<br>
 <i>"BraiNCA: brain-inspired neural cellular automata and applications to morphogenesis and motor control"</i>,

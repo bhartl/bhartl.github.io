@@ -1,4 +1,9 @@
 ## Journal Publications
+R. Maity, M. Huebl, J. Lemmel, <u>B. Hartl</u>, G. Kahl<br>
+<i>"Emergent swimming strategies of a smart three-bead swimmer"</i>,
+<a target="_blank" href="https://doi.org/10.48550/arXiv.2606.05984">arXiv:2606.05984</a> (2026),
+<br>
+
 J. Cool, <u>B. Hartl</u>, M. Levin, S. Petti<br>
 <i>"Agnosiophobia in a virtual agent: behavioral and dynamical architecture in Lenia"</i>,
 <a target="_blank" href="https://doi.org/10.48550/arXiv.2605.30708">arXiv:2605.30708</a> (2026),

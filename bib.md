@@ -21,7 +21,7 @@ L. Pio-Lopez, <u>B. Hartl</u>, M. Levin<br>
 
 A. Adel, J. Szmitek, <u>B. Hartl</u>, R. Wanzenböck, G. K. H. Madsen<br>
 <i>"Guided adaptive diffusion: An evolutionary framework for multi-modal atomistic structure prediction"</i>,
-<a target="_blank" href="https://doi.org/10.26434/chemrxiv.15001299/v1">chemrxiv:15001299</a> (2026).
+<a target="_blank" href="https://doi.org/10.26434/chemrxiv.15001299/v1">chemrxiv:15001299</a> (2026), accepted for publication in _Journal of Chemical Information and Modeling_.
 <br>
 
 J. Ashford, M. Cvjetko, R. Löffler, B. Sakallioglu, A. Valerio, M. Tataryn, <u>B. Hartl</u>, L. Pio-Lopez, S. Nichele<br>

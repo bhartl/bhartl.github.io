@@ -1,27 +1,36 @@
 ## Journal Publications
-R. Maity, M. Huebl, J. Lemmel, <u>B. Hartl</u>, G. Kahl<br>
-<i>"Emergent swimming strategies of a smart three-bead swimmer"</i>,
-<a target="_blank" href="https://doi.org/10.48550/arXiv.2606.05984">arXiv:2606.05984</a> (2026),
+A. Adel, J. Szmitek, <u>B. Hartl</u>, R. Wanzenböck, G. K. H. Madsen<br>
+<i>"Guided adaptive diffusion: An evolutionary framework for multi-modal atomistic structure prediction"</i>,
+_Journal of Chemical Information and Modeling_ (2026),  in press, <a target="_blank" href="https://doi.org/10.26434/chemrxiv.15001299/v1">chemrxiv:15001299</a>.
+<br>
+
+M. Cvjetko, <u>B. Hartl</u>, M. Levin, C. Moulin-Frier, P. Oudeyer,
+<i>"The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning"</i>,
+ALIFE (2026), in press.
 <br>
 
 J. Cool, <u>B. Hartl</u>, M. Levin, S. Petti<br>
 <i>"Agnosiophobia in a virtual agent: behavioral and dynamical architecture in Lenia"</i>,
-<a target="_blank" href="https://doi.org/10.48550/arXiv.2605.30708">arXiv:2605.30708</a> (2026),
-<br>
-
-H. Hazan, Y. Zhang, <u>B. Hartl</u>, M. Levin<br>
-<i>"A Little Rank Goes a Long Way: Random Scaffolds with LoRA Adapters Are All You Need"</i>,
-<a target="_blank" href="https://doi.org/10.48550/arXiv.2604.08749">arXiv:2604.08749</a> (2026),
+ALIFE (2026), in press, <a target="_blank" href="https://doi.org/10.48550/arXiv.2605.30708">arXiv:2605.30708</a>.
 <br>
 
 L. Pio-Lopez, <u>B. Hartl</u>, M. Levin<br>
 <i>"BraiNCA: brain-inspired neural cellular automata and applications to morphogenesis and motor control"</i>,
-<a target="_blank" href="https://doi.org/10.48550/arXiv.2604.01932">arXiv:2604.01932</a> (2026),
+ALIFE (2026), in press, <a target="_blank" href="https://doi.org/10.48550/arXiv.2604.01932">arXiv:2604.01932</a>.
 <br>
 
-A. Adel, J. Szmitek, <u>B. Hartl</u>, R. Wanzenböck, G. K. H. Madsen<br>
-<i>"Guided adaptive diffusion: An evolutionary framework for multi-modal atomistic structure prediction"</i>,
-<a target="_blank" href="https://doi.org/10.26434/chemrxiv.15001299/v1">chemrxiv:15001299</a> (2026), accepted for publication in _Journal of Chemical Information and Modeling_.
+J. Ashford, B. Sakallioglu, M. Tataryn, A. Valerio, <u>B. Hartl</u>, L. Pio-Lopez, M. Cvjetko, R. Löffler, S. Nichele<br>
+<i>"Symbiogenesis: from Barricelli’s Legacy to Collective Intelligence"</i>,
+GECCO (2026), in press, based on <a target="_blank" href="https://arxiv.org/abs/2603.08463">arxiv:2603.08463</a>.
+
+R. Maity, M. Huebl, J. Lemmel, <u>B. Hartl</u>, G. Kahl<br>
+<i>"Emergent swimming strategies of a smart three-bead swimmer"</i>,
+<a target="_blank" href="https://doi.org/10.48550/arXiv.2606.05984">arXiv:2606.05984</a> (2026).
+<br>
+
+H. Hazan, Y. Zhang, <u>B. Hartl</u>, M. Levin<br>
+<i>"A Little Rank Goes a Long Way: Random Scaffolds with LoRA Adapters Are All You Need"</i>,
+<a target="_blank" href="https://doi.org/10.48550/arXiv.2604.08749">arXiv:2604.08749</a> (2026).
 <br>
 
 J. Ashford, M. Cvjetko, R. Löffler, B. Sakallioglu, A. Valerio, M. Tataryn, <u>B. Hartl</u>, L. Pio-Lopez, S. Nichele<br>

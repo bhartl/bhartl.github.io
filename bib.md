@@ -1,7 +1,7 @@
 ## Journal Publications
 A. Adel, J. Szmitek, <u>B. Hartl</u>, R. Wanzenböck, G. K. H. Madsen<br>
 <i>"Guided adaptive diffusion: An evolutionary framework for multi-modal atomistic structure prediction"</i>,
-_Journal of Chemical Information and Modeling_ (2026),  in press, <a target="_blank" href="https://doi.org/10.26434/chemrxiv.15001299/v1">chemrxiv:15001299</a>.
+_Journal of Chemical Information and Modeling_ <a target="_blank" href="https://doi.org/10.1021/acs.jcim.6c00843">doi.org/10.1021/acs.jcim.6c00843</a> (2026), <a target="_blank" href="https://doi.org/10.26434/chemrxiv.15001299/v1">chemrxiv:15001299</a>.
 <br>
 
 M. Cvjetko, <u>B. Hartl</u>, M. Levin, C. Moulin-Frier, P. Oudeyer,

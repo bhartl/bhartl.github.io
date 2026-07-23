@@ -1,4 +1,10 @@
 ## Journal Publications
+<u>B. Hartl</u>\*, L. Pio-Lopez\*, C. Fields, M. Levin<i style="font-size:10px;">(\* authors contributed equally)</i><br>
+<i>"Remapping and navigation of an embedding space via error minimization: a fundamental organizational principle of cognition in natural and artificial systems"</i>,
+_PHysics of Life Reviews_ **58**, 336-359 (2026) <a target="_blank" href="https://kwnsfk27.r.eu-west-1.awstrack.me/L0/https:%2F%2Fdoi.org%2F10.1016%2Fj.plrev.2026.06.009/1/0102019f8b054054-b66fbbcc-bc4b-4ef9-925d-653cd7bf562d-000000/YJYr1Y-WYAZIhRJNoUSnmkPNB64=473">doi.org/10.1016/j.plrev.2026.06.009</a> (2026),
+<a target="_blank" href="https://arxiv.org/abs/2601.14096">arxiv:2601.14096</a>,
+<br>
+
 A. Adel, J. Szmitek, <u>B. Hartl</u>, R. Wanzenböck, G. K. H. Madsen<br>
 <i>"Guided adaptive diffusion: An evolutionary framework for multi-modal atomistic structure prediction"</i>,
 _Journal of Chemical Information and Modeling_ <a target="_blank" href="https://doi.org/10.1021/acs.jcim.6c00843">doi.org/10.1021/acs.jcim.6c00843</a> (2026), <a target="_blank" href="https://doi.org/10.26434/chemrxiv.15001299/v1">chemrxiv:15001299</a>.
@@ -41,11 +47,6 @@ ALICE 2026 Report, <a target="_blank" href="https://arxiv.org/abs/2603.08463">ar
 <u>B. Hartl</u>\*, Y. Zhang\*, H. Hazan\*, M. Levin, <i style="font-size:10px;">(\* authors contributed equally)</i><br>
 <i>"Heuristically Adaptive Diffusion-Model Evolutionary Strategy"</i>,
 <a target="_blank" href="https://doi.org/10.1002/advs.202511537">Advanced Science, e11537 (<a target="_blank" href="https://arxiv.org/abs/2411.13420">2024</a>-2026)</a> with <a target="_blank" href="https://advanced.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadvs.202511537&file=advs72244-sup-0001-SuppMat.pdf">Supplementary Information</a>.
-<br>
-
-<u>B. Hartl</u>\*, L. Pio-Lopez\*, C. Fields, M. Levin<i style="font-size:10px;">(\* authors contributed equally)</i><br>
-<i>"Remapping and navigation of an embedding space via error minimization: a fundamental organizational principle of cognition in natural and artificial systems"</i>,
-<a target="_blank" href="https://arxiv.org/abs/2601.14096">arxiv:2601.14096</a> (2026),
 <br>
 
 <u>B. Hartl</u>, M. Levin, L. Pio-Lopez<br>

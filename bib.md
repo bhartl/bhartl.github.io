@@ -1,7 +1,7 @@
 ## Journal Publications
 <u>B. Hartl</u>\*, L. Pio-Lopez\*, C. Fields, M. Levin<i style="font-size:10px;">(\* authors contributed equally)</i><br>
 <i>"Remapping and navigation of an embedding space via error minimization: a fundamental organizational principle of cognition in natural and artificial systems"</i>,
-_Physics of Life Reviews_ **58**, 336-359 (2026) <a target="_blank" href="https://kwnsfk27.r.eu-west-1.awstrack.me/L0/https:%2F%2Fdoi.org%2F10.1016%2Fj.plrev.2026.06.009/1/0102019f8b054054-b66fbbcc-bc4b-4ef9-925d-653cd7bf562d-000000/YJYr1Y-WYAZIhRJNoUSnmkPNB64=473">doi.org/10.1016/j.plrev.2026.06.009</a> (2026),
+_Physics of Life Reviews_ **58**, 336-359 (2026) <a target="_blank" href="https://doi.org/10.1016/j.plrev.2026.06.009">doi.org/10.1016/j.plrev.2026.06.009</a> (2026),
 <a target="_blank" href="https://arxiv.org/abs/2601.14096">arxiv:2601.14096</a>,
 <br>
 

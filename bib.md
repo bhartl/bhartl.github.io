@@ -1,4 +1,10 @@
 ## Journal Publications
+
+M. Cvjetko, <u>B. Hartl</u>, M. Levin, C. Moulin-Frier, PY Oudeyer<br> 
+<i>"The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning"</i><br>
+ALIFE 2026-Conference on Artificial Life, <a target="_blank" href="https://hal.science/hal-05698778/">hal.science/hal-05698778/</a>
+<br>
+
 <u>B. Hartl</u>\*, L. Pio-Lopez\*, C. Fields, M. Levin<i style="font-size:10px;">(\* authors contributed equally)</i><br>
 <i>"Remapping and navigation of an embedding space via error minimization: a fundamental organizational principle of cognition in natural and artificial systems"</i>,
 _Physics of Life Reviews_ **58**, 336-359 (2026) <a target="_blank" href="https://doi.org/10.1016/j.plrev.2026.06.009">doi.org/10.1016/j.plrev.2026.06.009</a> (2026),

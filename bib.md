@@ -16,11 +16,6 @@ A. Adel, J. Szmitek, <u>B. Hartl</u>, R. Wanzenböck, G. K. H. Madsen<br>
 _Journal of Chemical Information and Modeling_ **66**, 7414-7425 (2026), <a target="_blank" href="https://doi.org/10.1021/acs.jcim.6c00843">doi.org/10.1021/acs.jcim.6c00843</a>, <a target="_blank" href="https://doi.org/10.26434/chemrxiv.15001299/v1">chemrxiv:15001299</a>.
 <br>
 
-M. Cvjetko, <u>B. Hartl</u>, M. Levin, C. Moulin-Frier, P. Oudeyer,
-<i>"The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning"</i>,
-ALIFE (2026), in press.
-<br>
-
 J. Cool, <u>B. Hartl</u>, M. Levin, S. Petti<br>
 <i>"Agnosiophobia in a virtual agent: behavioral and dynamical architecture in Lenia"</i>,
 ALIFE (2026), in press, <a target="_blank" href="https://doi.org/10.48550/arXiv.2605.30708">arXiv:2605.30708</a>.
@@ -33,7 +28,7 @@ ALIFE (2026), in press, <a target="_blank" href="https://doi.org/10.48550/arXiv.
 
 J. Ashford, B. Sakallioglu, M. Tataryn, A. Valerio, <u>B. Hartl</u>, L. Pio-Lopez, M. Cvjetko, R. Löffler, S. Nichele<br>
 <i>"Symbiogenesis: from Barricelli’s Legacy to Collective Intelligence"</i>,
-GECCO (2026), in press, based on <a target="_blank" href="https://arxiv.org/abs/2603.08463">arxiv:2603.08463</a>.
+GECCO (2026), pp 1228--1236, <a target="_blank" href="https://doi.org/10.1145/3795101.3814707">doi.org/10.1145/3795101.3814707</a>.
 
 R. Maity, M. Huebl, J. Lemmel, <u>B. Hartl</u>, G. Kahl<br>
 <i>"Emergent swimming strategies of a smart three-bead swimmer"</i>,

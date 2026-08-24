@@ -1,8 +1,18 @@
 ## Journal Publications
 
+L. Pio-Lopez, <u>B. Hartl</u>, M. Levin<br>
+<i>"BraiNCA: brain-inspired neural cellular automata and applications to morphogenesis and motor control"</i>,
+Conference on Artificial Life, ALIFE (2026) href="https://doi.org/10.1162/ISAL.a.1033">doi.org/10.1162/ISAL.a.1033</a>.
+<br>
+
 M. Cvjetko, <u>B. Hartl</u>, M. Levin, C. Moulin-Frier, PY Oudeyer<br> 
 <i>"The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning"</i><br>
-ALIFE 2026-Conference on Artificial Life, <a target="_blank" href="https://hal.science/hal-05698778/">hal.science/hal-05698778/</a>
+Conference on Artificial Life, ALIFE (2026), <a target="_blank" href="https://doi.org/10.1162/ISAL.a.971">doi.org/10.1162/ISAL.a.971</a>
+<br>
+
+J. Cool, <u>B. Hartl</u>, M. Levin, S. Petti<br>
+<i>"Agnosiophobia in a virtual agent: behavioral and dynamical architecture in Lenia"</i>,
+Conference on Artificial Life, ALIFE (2026), <a target="_blank" href="https://doi.org/10.1162/ISAL.a.1012">doi.org/10.1162/ISAL.a.1012</a>.
 <br>
 
 <u>B. Hartl</u>\*, L. Pio-Lopez\*, C. Fields, M. Levin<i style="font-size:10px;">(\* authors contributed equally)</i><br>
@@ -14,16 +24,6 @@ _Physics of Life Reviews_ **58**, 336-359 (2026) <a target="_blank" href="https:
 A. Adel, J. Szmitek, <u>B. Hartl</u>, R. Wanzenböck, G. K. H. Madsen<br>
 <i>"Guided adaptive diffusion: An evolutionary framework for multi-modal atomistic structure prediction"</i>,
 _Journal of Chemical Information and Modeling_ **66**, 7414-7425 (2026), <a target="_blank" href="https://doi.org/10.1021/acs.jcim.6c00843">doi.org/10.1021/acs.jcim.6c00843</a>, <a target="_blank" href="https://doi.org/10.26434/chemrxiv.15001299/v1">chemrxiv:15001299</a>.
-<br>
-
-J. Cool, <u>B. Hartl</u>, M. Levin, S. Petti<br>
-<i>"Agnosiophobia in a virtual agent: behavioral and dynamical architecture in Lenia"</i>,
-ALIFE (2026), in press, <a target="_blank" href="https://doi.org/10.48550/arXiv.2605.30708">arXiv:2605.30708</a>.
-<br>
-
-L. Pio-Lopez, <u>B. Hartl</u>, M. Levin<br>
-<i>"BraiNCA: brain-inspired neural cellular automata and applications to morphogenesis and motor control"</i>,
-ALIFE (2026), in press, <a target="_blank" href="https://doi.org/10.48550/arXiv.2604.01932">arXiv:2604.01932</a>.
 <br>
 
 J. Ashford, B. Sakallioglu, M. Tataryn, A. Valerio, <u>B. Hartl</u>, L. Pio-Lopez, M. Cvjetko, R. Löffler, S. Nichele<br>

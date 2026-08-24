@@ -2,7 +2,7 @@
 
 L. Pio-Lopez, <u>B. Hartl</u>, M. Levin<br>
 <i>"BraiNCA: brain-inspired neural cellular automata and applications to morphogenesis and motor control"</i>,
-Conference on Artificial Life, ALIFE (2026) href="https://doi.org/10.1162/ISAL.a.1033">doi.org/10.1162/ISAL.a.1033</a>.
+Conference on Artificial Life, ALIFE (2026) <a target="_blank" href="https://doi.org/10.1162/ISAL.a.1033">doi.org/10.1162/ISAL.a.1033</a>.
 <br>
 
 M. Cvjetko, <u>B. Hartl</u>, M. Levin, C. Moulin-Frier, PY Oudeyer<br> 

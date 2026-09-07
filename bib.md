@@ -2,17 +2,17 @@
 
 L. Pio-Lopez, <u>B. Hartl</u>, M. Levin<br>
 <i>"BraiNCA: brain-inspired neural cellular automata and applications to morphogenesis and motor control"</i>,
-Conference on Artificial Life, ALIFE (2026) <a target="_blank" href="https://doi.org/10.1162/ISAL.a.1033">doi.org/10.1162/ISAL.a.1033</a>.
+Conference on Artificial Life, ALIFE (2026) <a target="_blank" href="https://direct.mit.edu/isal/proceedings/isal2026/38/107/138160">doi.org/10.1162/ISAL.a.1033</a>.
 <br>
 
 M. Cvjetko, <u>B. Hartl</u>, M. Levin, C. Moulin-Frier, PY Oudeyer<br> 
 <i>"The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning"</i><br>
-Conference on Artificial Life, ALIFE (2026), <a target="_blank" href="https://doi.org/10.1162/ISAL.a.971">doi.org/10.1162/ISAL.a.971</a>
+Conference on Artificial Life, ALIFE (2026), <a target="_blank" href="https://direct.mit.edu/isal/proceedings/isal2026/38/45/138193">doi.org/10.1162/ISAL.a.971</a>
 <br>
 
 J. Cool, <u>B. Hartl</u>, M. Levin, S. Petti<br>
 <i>"Agnosiophobia in a virtual agent: behavioral and dynamical architecture in Lenia"</i>,
-Conference on Artificial Life, ALIFE (2026), <a target="_blank" href="https://doi.org/10.1162/ISAL.a.1012">doi.org/10.1162/ISAL.a.1012</a>.
+Conference on Artificial Life, ALIFE (2026), <a target="_blank" href="https://direct.mit.edu/isal/proceedings/isal2026/38/86/138163">doi.org/10.1162/ISAL.a.1012</a>.
 <br>
 
 <u>B. Hartl</u>\*, L. Pio-Lopez\*, C. Fields, M. Levin<i style="font-size:10px;">(\* authors contributed equally)</i><br>

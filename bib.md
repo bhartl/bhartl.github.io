@@ -130,11 +130,15 @@ D.O. Krimer, B. Hartl, and S. Rotter,<br>
 <br>
   
 ## Conferences and Events
-- Invited Keynote Talk at the Foresight Institute (virtual), April 2026
-- ALICE Workshop in Copenhagen, Denmark, Feb. 2026 (**runner-up price for 2nd-best project**)
+- Invited Keynote Talk at the Foresight Institute (virtual), November 2026
+- Special Session on "Alife 4 Science and Engineering" (co-organized), poster and two student-talks at _ALIFE 2026_ in Waterloo, Canada, August 2026
+- Invited Talk at the <i>ERA Journal Club</i> (virtual), June 2026
+- Invited Talk at the <i>Flowers</i>-Seminar at INRIA (virtual), May 2026
+- ALICE Workshop in Copenhagen, Denmark, Feb. 2026 (**runner-up price for 2nd-best project---[published in GECCO 2026](https://doi.org/10.1145/3795101.3814707)**)
 - Invited Talk at the <i>Neuro AI</i> Seminar at TU Wien, Austria, Jan. 2026
 - Workstation on <i>Bio-Inspired AI</i> at the _AI Festival 2025_, TU Wien, Austria
 - Invited Talk at the <i>ALIFE 2025 ERA Workshop</i>, Kyoto, Japan
+- Invited Talk at the <i>ENCECON 2025 Workshop</i> of Mind and Life Europe, Gombde, Austria
 - Invited Talk at the <i>Ludwig Boltzmann Seminar for Network Medicine</i> at the CeMM, Vienna, Austria (2025)
 - Talk at the <a target="_blank" href="https://woodstock.img.cas.cz/"><i>Woodstock.Bio<sup>2</sup> + Night Science</i></a>, Prague, Czechia (2025)
 - Invited Talk at the <i>Seminar of the Institute of Materials Chemistry at the TU Wien</i>, Vienna, Austria (2025)

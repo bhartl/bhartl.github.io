@@ -130,34 +130,48 @@ D.O. Krimer, B. Hartl, and S. Rotter,<br>
 <br>
   
 ## Conferences and Events
-- Invited Keynote Talk at the Foresight Institute (virtual), November 2026
-- Special Session on "Alife 4 Science and Engineering" (co-organized), poster and two student-talks at _ALIFE 2026_ in Waterloo, Canada, August 2026
-- Invited Talk at the <i>ERA Journal Club</i> (virtual), June 2026
-- Invited Talk at the <i>Flowers</i>-Seminar at INRIA (virtual), May 2026
-- ALICE Workshop in Copenhagen, Denmark, Feb. 2026 (**runner-up price for 2nd-best project---[published in GECCO 2026](https://doi.org/10.1145/3795101.3814707)**)
-- Invited Talk at the <i>Neuro AI</i> Seminar at TU Wien, Austria, Jan. 2026
-- Workstation on <i>Bio-Inspired AI</i> at the _AI Festival 2025_, TU Wien, Austria
-- Invited Talk at the <i>ALIFE 2025 ERA Workshop</i>, Kyoto, Japan
-- Invited Talk at the <i>ENCECON 2025 Workshop</i> of Mind and Life Europe, Gombde, Austria
-- Invited Talk at the <i>Ludwig Boltzmann Seminar for Network Medicine</i> at the CeMM, Vienna, Austria (2025)
-- Talk at the <a target="_blank" href="https://woodstock.img.cas.cz/"><i>Woodstock.Bio<sup>2</sup> + Night Science</i></a>, Prague, Czechia (2025)
-- Invited Talk at the <i>Seminar of the Institute of Materials Chemistry at the TU Wien</i>, Vienna, Austria (2025)
-- Invited Talk at the <i>ICLR 2025 Workshop on [Deep Generative Model in Machine Learning: Theory, Principle and Efficacy](https://delta-workshop.github.io/)</i>, Singapore (2025)
-- 1 Talk, 1 Poster: <i>Physics of Life Conference</i>, Harrogate, UK (2025)
-- 2 Posters: <i>Liquid Matter Conference</i>, Mainz, Germany (2024)
-- 1 Talks (2 accepted), 2 Posters: <i>European Colloid and Interface Society Conference</i>, Copenhagen, Denmark (2024)
-- Talk: <i>Austrian-Slovenian HPC Meeting</i>, Bad Aussee, Austria (2024)
-- <i>ICML</i>, Honolulu, Hawaii, USA (2023)
-- <i>IJCAI-ECAI</i>, Vienna, Austria (2022)
-- Talk & Poster: <i>11th Liquid Matter Conference</i>, Prague, Czech Republic (2020/2021)
-- <i>VDSP-ESI Winter School 2020 on Machine Learning in Physics</i>, Vienna, Austria (2020)
-- Talk: <i>Kurt Gödel’s Legacy: Does the future lie in the past?</i> Vienna, Austria (2019)
-- Poster: <i>14th International Conference on Quasicrystals</i>, Kranjska Gora, Slovenia (2019)
-- Questract: <i>Workshop for Machine Learning and Reverse Engineering for Soft Materials</i>, Leiden, Netherlands (2018)
-- Talk: <i>European Colloid and Interface Society Conference</i>, Ljubljana, Slovenia (2018)
-- Talk: <i>Interfacing Machine Learning and Experimental Methods</i>, Graz, Austria (2018)
-- Poster: <i>From Electrons to Phase Transitions – A ViCoM Conference</i>, Vienna, Austria (2018)
-- Poster: <i>10th Liquid Matter Conference</i>, Ljubljana, Slovenia (2017)
+
+* Invited keynote at the Foresight Institute (virtual; scheduled for November 2026)
+* Co-organizer of the special session on [*Artificial Life for Science and Engineering*](https://alifeforscience.github.io/); one poster and two talks by supervised students at *ALIFE 2026*, Waterloo, Canada (August 2026)
+* Invited talk at the *ERA Journal Club* (virtual; June 2026)
+* Invited talk at the *Flowers Seminar* at Inria (virtual; May 2026)
+* *ALICE Workshop*, Copenhagen, Denmark (February 2026; [runner-up project prize, with the resulting work published at GECCO 2026](https://doi.org/10.1145/3795101.3814707))
+* Invited talk at the *NeuroAI Seminar*, TU Wien, Vienna, Austria (January 2026)
+* Interactive station on *Bio-Inspired AI* at the *AI Festival 2025*, TU Wien, Vienna, Austria
+* Invited talk at the *ALIFE 2025 ERA Workshop*, Kyoto, Japan
+* Invited talk at the *ENCECON 2025 Workshop* of Mind & Life Europe, Gomde, Scharnstein, Austria
+* Invited talk at the *Ludwig Boltzmann Seminar for Network Medicine*, CeMM, Vienna, Austria (2025)
+* Talk at [*Woodstock.Bio² + Night Science*](https://woodstock.img.cas.cz/), Prague, Czechia (2025)
+* Invited talk at the *Seminar of the Institute of Materials Chemistry* (TACO), TU Wien, Vienna, Austria (2025)
+* Invited talk at the [*ICLR 2025 Workshop on Deep Generative Models in Machine Learning: Theory, Principle and Efficacy*](https://delta-workshop.github.io/), Singapore
+* One talk and one poster at the *Physics of Life Conference*, Harrogate, UK (2025)
+* Two posters at the *12th Liquid Matter Conference*, Mainz, Germany (2024)
+* Two accepted talks (one delivered) and two posters at the *European Colloid and Interface Society Conference*, Copenhagen, Denmark (2024)
+* Talk at the [*Austrian-Slovenian HPC Meeting*](https://ashpc.eu/), Grundlsee, Austria (2024)
+* Invited seminar at the Center for Artificial Intelligence and Machine Learning (CAIML), Vienna, Austria (2024)
+* Participant at the *International Conference on Machine Learning (ICML)*, Honolulu, Hawaii, USA (2023)
+* Volunteer at *IJCAI–ECAI*, Vienna, Austria (2022)
+* Talk and poster at the *11th Liquid Matter Conference*, Prague, Czechia (2020/2021)
+* Co-organizer of the *Proof Society Workshop and Winter School*, Funchal, Madeira, Portugal (2021)
+* Participant at the *VDSP–ESI Winter School on Machine Learning in Physics*, Vienna, Austria (2020)
+* Invited talk at *Kurt Gödel’s Legacy: Does the Future Lie in the Past?*, Vienna, Austria (2019)
+* Poster at the *14th International Conference on Quasicrystals*, Kranjska Gora, Slovenia (2019)
+* Invited seminar talk at the *Laboratoire de Physique Théorique et Modèles Statistiques*, Université Paris-Sud, France (2019)
+* Co-organizer and lecturer at the *Frauen in der Technik (FIT) Workshop*, TU Wien, Vienna, Austria (2019)
+* Questract presentation at the *Workshop on Machine Learning and Reverse Engineering for Soft Materials*, Leiden, the Netherlands (2018)
+* Talk at the *European Colloid and Interface Society Conference*, Ljubljana, Slovenia (2018)
+* Talk at the *IMPRESS Workshop: Interfacing Machine Learning and Experimental Methods*, Graz, Austria (2018)
+* Poster at *From Electrons to Phase Transitions – A ViCoM Conference*, Vienna, Austria (2018)
+* Co-organizer of the *International Summer School for Proof Theory in First-Order Logic*, Funchal, Madeira, Portugal (2017)
+* Poster at the *10th Liquid Matter Conference*, Ljubljana, Slovenia (2017)
+* Invited seminar talk at the *ITRG Seminar*, Freiburg, Germany (2017)
+* Invited talk at the *ViCoM Lecture*, Vienna, Austria (2016)
+* Participant at the ESI School on *Synergies between Mathematical and Computational Approaches to Quantum Many-Body Physics*, Vienna, Austria (2016)
+* Participant at the CECAM Workshop on *Structure Formation in Soft Colloids*, Vienna, Austria (2016)
+* Participant at the *12th International Tbilisi Summer School in Logic and Language*, Tbilisi, Georgia (2016)
+* Invited seminar talk at Florian Mintert’s Quantum Information Theory Group, Imperial College London, UK (2015)
+* Participant at the *Complex Quantum Systems (CoQuS) Summer School*, Vienna, Austria (2015)
+
 
 ## Media Outreach
   - Featured in 

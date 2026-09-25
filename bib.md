@@ -1,5 +1,10 @@
 ## Journal Publications
 
+<u>B. Hartl</u>, ML. Montero, M. Barylli, S. Risi, M. Levin<br>
+<i>"On Growth and Form, and Function: Reusable Regulatory Handles Control Phenotypic Variation"</i>,
+<a target="_blank" href="https://doi.org/10.48550/arXiv.2609.29755">arXiv:2609.29755</a> (2026).
+<br>
+
 L. Pio-Lopez, <u>B. Hartl</u>, M. Levin<br>
 <i>"BraiNCA: brain-inspired neural cellular automata and applications to morphogenesis and motor control"</i>,
 Conference on Artificial Life, ALIFE (2026) <a target="_blank" href="https://direct.mit.edu/isal/proceedings/isal2026/38/107/138160">doi.org/10.1162/ISAL.a.1033</a>.

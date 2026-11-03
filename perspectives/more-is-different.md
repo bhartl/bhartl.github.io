@@ -10,12 +10,10 @@ permalink: /perspectives/more-is-different/
 # More Is Different, More Than Ever
 ## Major Transitions From Biological Development to Planetary Intelligence
 
-* A Perspective *
+*A Perspective*
 
 **Benedikt Hartl**  
 Allen Discovery Center at Tufts University, Medford, MA, USA
-
-**Corresponding author:** hartl.bene.research@gmail.com
 
 ## Abstract
 

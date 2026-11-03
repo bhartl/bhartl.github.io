@@ -6,9 +6,11 @@ permalink: /perspectives/
 
 # Perspectives
 
-## More Is Different, More Than Ever: Major Transitions From Biological Development to Planetary Intelligence
+## More Is Different, More Than Ever
 
-*November 2026*
+**Major Transitions From Biological Development to Planetary Intelligence**
+
+*Perspective · November 2026*
 
 This perspective develops ideas around multiscale intelligence, symbiogenesis, cultural evolution, and AI alignment.
 
@@ -20,4 +22,5 @@ In both cases, i.e., for cells or humans, this allows single agents to efficient
 In turn, this suggests that we may be approaching another major evolutionary "symbiomemetic" transition, driven by the co-evolution of biological and artificial intelligence. 
 Rather than focusing exclusively on aligning or controlling a singular artificial general intelligence, we should therefore ask how humans, machines, institutions, ecosystems, and the biosphere can be integrated into a higher level of organization -- a planetary superintelligence.
 
-[Read the perspective](/perspectives/more-is-different/)
+[Read online](/perspectives/more-is-different/)
+

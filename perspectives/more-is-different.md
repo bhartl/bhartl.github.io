@@ -14,6 +14,7 @@ permalink: /perspectives/more-is-different/
 
 **Benedikt Hartl**  
 Allen Discovery Center at Tufts University, Medford, MA, USA
+November 2026
 
 ## Abstract
 

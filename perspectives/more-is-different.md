@@ -21,6 +21,8 @@ Biology is organized in layers within layers, where the components of one level 
 
 **Keywords:** Collective Phenomena, Evo-Devo, Generative Artificial Intelligence, Symbiogenesis, Co-Evolution, Co-Intelligence, Alignment
 
+[Read as PDF](pdfs/2026-More_is_Different_More_than_Ever.pdf)
+
 ---
 
 Traditionally, machine learning (ML) and artificial intelligence (AI) have been introduced into science as tools for dealing with complexity. Statistical ML techniques help us detect patterns, search rugged parameter spaces, and emulate complex systems. Recently, we have reached a tipping point with large language models (LLMs), and in particular with AI agents. Beyond helping us brainstorm hypotheses, swarms—or better, teams—of agents now write and verify code, and even conduct scientific research and write papers. While these developments are changing almost every field, this is not the deepest implication AI will have for science and society. For me, AI has not simply become a tool to accelerate my workflow. It has become a conceptual bridge to a question I had been circling for years: why is more different? [1]

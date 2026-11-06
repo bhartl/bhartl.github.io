@@ -23,4 +23,5 @@ In turn, this suggests that we may be approaching another major evolutionary "sy
 Rather than focusing exclusively on aligning or controlling a singular artificial general intelligence, we should therefore ask how humans, machines, institutions, ecosystems, and the biosphere can be integrated into a higher level of organization -- a planetary superintelligence.
 
 [Read online](/perspectives/more-is-different/)
+&nbsp;|&nbsp;
 [Read PDF](https://doi.org/10.5281/zenodo.23921425)

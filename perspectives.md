@@ -12,7 +12,7 @@ permalink: /perspectives/
 
 *Perspective · November 2026*
 
-This perspective develops ideas around multiscale intelligence, symbiogenesis, cultural evolution, and AI alignment, emphasizing the role of LLMs as cultural "genomes".
+This perspective develops ideas around multiscale intelligence, symbiogenesis, cultural evolution, and AI alignment, emphasizing the role of LLMs as a "cultural generative genome".
 
 ### Abstract
 Biology is organized in layers within layers, where the components of one level form the substrate for the next higher level of organization. The collaborative principles behind such self-organizing systems -- from symbiosis and symbiogenesis to collective and multiscale intelligence -- may also be central to AI alignment. 

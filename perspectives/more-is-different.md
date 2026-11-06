@@ -73,28 +73,6 @@ This brings us back to the original ambition of *Artificial Life* (ALife): [46] 
 
 ---
 
-## How to cite
-
-Hartl, B. (2026). *More Is Different, More Than Ever: Major Transitions From Biological Development to Planetary Intelligence*. Zenodo. [https://doi.org/10.5281/zenodo.23921425](https://doi.org/10.5281/zenodo.23921425)
-
-### BibTeX
-
-```bibtex
-@misc{Hartl2026MoreIsDifferent,
-  author       = {Hartl, Benedikt},
-  title        = {\{More Is Different, More Than Ever:
-                   Major Transitions From Biological Development
-                   to Planetary Intelligence}\},
-  year         = {2026},
-  howpublished = {Zenodo},
-  note         = {A Perspective},
-  doi          = {10.5281/zenodo.23921425},
-  url          = {https://doi.org/10.5281/zenodo.23921425}
-}
-```
-
----
-
 ## References
 
 1. Anderson PW. *More Is Different: Broken symmetry and the nature of the hierarchical structure of science.* Science. 1972;177(4047):393–396. https://doi.org/10.1126/science.177.4047.393
@@ -144,3 +122,26 @@ Hartl, B. (2026). *More Is Different, More Than Ever: Major Transitions From Bio
 45. Lyons B, Pio-Lopez L, Levin M. *Alignment Is to a Virtual Governor: A Theory of Coordination in Diverse Intelligence.* Preprints. 2026. https://doi.org/10.20944/preprints202607.0220.v1
 46. Langton CG, editor. *Artificial Life.* Complex Adaptive Systems. Cambridge, MA: Bradford Books; 1995.
 47. Stanley KO, Lehman J. *Why Greatness Cannot Be Planned: The Myth of the Objective.* Springer; 2015.
+
+---
+
+## How to cite
+
+Hartl, B. (2026). *More Is Different, More Than Ever: Major Transitions From Biological Development to Planetary Intelligence*. Zenodo. [https://doi.org/10.5281/zenodo.23921425](https://doi.org/10.5281/zenodo.23921425)
+
+### BibTeX
+
+```bibtex
+@misc{Hartl2026MoreIsDifferent,
+  author       = {Hartl, Benedikt},
+  title        = {More Is Different, More Than Ever:
+                  Major Transitions From Biological Development
+                  to Planetary Intelligence},
+  year         = {2026},
+  howpublished = {Zenodo},
+  note         = {A Perspective},
+  doi          = {10.5281/zenodo.23921425},
+  url          = {https://doi.org/10.5281/zenodo.23921425}
+}
+```
+

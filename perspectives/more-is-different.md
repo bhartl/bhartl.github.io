@@ -82,9 +82,9 @@ Hartl, B. (2026). *More Is Different, More Than Ever: Major Transitions From Bio
 ```bibtex
 @misc{Hartl2026MoreIsDifferent,
   author       = {Hartl, Benedikt},
-  title        = {{More Is Different, More Than Ever:
+  title        = {\{More Is Different, More Than Ever:
                    Major Transitions From Biological Development
-                   to Planetary Intelligence}},
+                   to Planetary Intelligence}\},
   year         = {2026},
   howpublished = {Zenodo},
   note         = {A Perspective},
